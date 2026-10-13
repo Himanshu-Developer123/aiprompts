@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "version": 2,
+  "updatedAt": "2026-10-10T11:30:00Z",
+  "categories": [
+    {
+      "id": "writing",
+      "name": "Content Writing",
+      "icon": "edit"
+    },
+    {
+      "id": "coding",
+      "name": "Coding",
+      "icon": "code"
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "icon": "campaign"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "icon": "task_alt"
+    },
+    {
+      "id": "learning",
+      "name": "Learning",
+      "icon": "school"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "blog-post-outline",
+      "title": "Blog Post Outline Generator",
+      "description": "Creates a structured blog outline from a topic and audience.",
+      "content": "Act as an expert content strategist. Create a detailed blog post outline about {{topic}} for {{audience}}. Include a hook, 5 main sections with sub-points, and a conclusion with a call to action.",
+      "categoryId": "writing",
+      "imageUrl": "https://picsum.photos/seed/blog-post-outline/600/400",
+      "tags": [
+        "blog",
+        "seo",
+        "outline"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": true,
+      "views": 257400
+    },
+    {
+      "id": "email-rewriter",
+      "title": "Professional Email Rewriter",
+      "description": "Rewrites a rough email draft into a clear, polite message.",
+      "content": "Rewrite the following email so it is clear, concise, and professional while keeping my original meaning. Tone: {{tone}}.\n\nEmail:\n{{email_text}}",
+      "categoryId": "writing",
+      "imageUrl": "https://picsum.photos/seed/email-rewriter/600/400",
+      "tags": [
+        "email",
+        "rewrite",
+        "business"
+      ],
+      "difficulty": "beginner",
+      "views": 257400,
+      "isFeatured": false
+    },
+    {
+      "id": "storytelling-hook",
+      "title": "Storytelling Hook Creator",
+      "description": "Generates 10 attention-grabbing opening lines for any story or post.",
+      "content": "Write 10 different opening hooks for a {{format}} about {{topic}}. Use a mix of styles: question, bold statement, statistic, and mini-story. Keep each under 25 words.",
+      "categoryId": "writing",
+      "imageUrl": "https://picsum.photos/seed/storytelling-hook/600/400",
+      "tags": [
+        "hook",
+        "story",
+        "social"
+      ],
+      "difficulty": "intermediate",
+      "views": 257400,
+      "isFeatured": false
+    },
+    {
+      "id": "code-explainer",
+      "title": "Code Explainer",
+      "description": "Explains any code snippet line by line in simple language.",
+      "content": "Explain the following {{language}} code step by step as if I am a beginner. Describe what each part does, then summarize the overall purpose in two sentences.\n\n```\n{{code}}\n```",
+      "categoryId": "coding",
+      "imageUrl": "https://picsum.photos/seed/code-explainer/600/400",
+      "tags": [
+        "explain",
+        "beginner",
+        "learning"
+      ],
+      "difficulty": "beginner",
+      "views": 257400,
+      "isFeatured": true
+    },
+    {
+      "id": "bug-finder",
+      "title": "Bug Finder and Fixer",
+      "description": "Finds the bug in your code and suggests a fix with reasoning.",
+      "content": "Act as a senior {{language}} developer. Review this code, identify any bugs or edge cases, explain why each one happens, and provide a corrected version.\n\nExpected behavior: {{expected_behavior}}\n\n```\n{{code}}\n```",
+      "categoryId": "coding",
+      "imageUrl": "https://picsum.photos/seed/bug-finder/600/400",
+      "tags": [
+        "debug",
+        "review",
+        "fix"
+      ],
+      "difficulty": "intermediate",
+      "views": 257400,
+      "isFeatured": false
+    },
+    {
+      "id": "unit-test-writer",
+      "title": "Unit Test Writer",
+      "description": "Generates unit tests covering normal, edge, and error cases.",
+      "content": "Write unit tests for the following {{language}} function using {{test_framework}}. Cover normal cases, edge cases, and error handling. Add a short comment above each test describing its purpose.\n\n```\n{{code}}\n```",
+      "categoryId": "coding",
+      "imageUrl": "https://picsum.photos/seed/unit-test-writer/600/400",
+      "tags": [
+        "testing",
+        "unit-test",
+        "quality"
+      ],
+      "difficulty": "advanced",
+      "isFeatured": false
+    },
+    {
+      "id": "product-description",
+      "title": "Product Description Writer",
+      "description": "Writes a persuasive product description focused on benefits.",
+      "content": "Write a persuasive product description for {{product_name}}. Target customer: {{target_customer}}. Key features: {{features}}. Focus on benefits over features, keep it under 120 words, and end with a clear call to action.",
+      "categoryId": "marketing",
+      "imageUrl": "https://picsum.photos/seed/product-description/600/400",
+      "tags": [
+        "ecommerce",
+        "copywriting",
+        "sales"
+      ],
+      "difficulty": "beginner",
+      "views": 257400,
+      "isFeatured": true
+    },
+    {
+      "id": "social-media-calendar",
+      "title": "30-Day Social Media Calendar",
+      "description": "Plans a month of social posts with themes and post ideas.",
+      "content": "Create a 30-day social media content calendar for a {{business_type}} on {{platform}}. For each day give a theme, a post idea, and a suggested format (image, reel, carousel, or text). Target audience: {{audience}}.",
+      "categoryId": "marketing",
+      "imageUrl": "https://picsum.photos/seed/social-media-calendar/600/400",
+      "tags": [
+        "social-media",
+        "planning",
+        "content"
+      ],
+      "difficulty": "intermediate",
+      "isFeatured": false
+    },
+    {
+      "id": "ad-copy-variants",
+      "title": "Ad Copy A/B Variants",
+      "description": "Produces multiple ad copy variants to test against each other.",
+      "content": "Write 5 ad copy variants for {{product}} aimed at {{audience}} on {{platform}}. Each variant should use a different angle: pain point, social proof, urgency, curiosity, and benefit. Include a headline and body text.",
+      "categoryId": "marketing",
+      "imageUrl": "https://picsum.photos/seed/ad-copy-variants/600/400",
+      "tags": [
+        "ads",
+        "ab-testing",
+        "copywriting"
+      ],
+      "difficulty": "advanced",
+      "views": 257400,
+      "isFeatured": false
+    },
+    {
+      "id": "weekly-planner",
+      "title": "Weekly Planner Builder",
+      "description": "Turns your goals and commitments into a realistic weekly plan.",
+      "content": "Build a realistic weekly plan for me. My top goals: {{goals}}. Fixed commitments: {{commitments}}. Available hours per day: {{hours}}. Include breaks and one buffer slot per day.",
+      "categoryId": "productivity",
+      "imageUrl": "https://picsum.photos/seed/weekly-planner/600/400",
+      "tags": [
+        "planning",
+        "schedule",
+        "time-management"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": true
+    },
+    {
+      "id": "meeting-notes-summarizer",
+      "title": "Meeting Notes Summarizer",
+      "description": "Converts messy meeting notes into decisions and action items.",
+      "content": "Summarize the meeting notes below into: 1) key decisions, 2) action items with owner and deadline, 3) open questions. Keep it under 200 words.\n\nNotes:\n{{notes}}",
+      "categoryId": "productivity",
+      "imageUrl": "https://picsum.photos/seed/meeting-notes-summarizer/600/400",
+      "tags": [
+        "meeting",
+        "summary",
+        "work"
+      ],
+      "difficulty": "beginner",
+      "views": 257400,
+      "isFeatured": false
+    },
+    {
+      "id": "decision-matrix",
+      "title": "Decision Matrix Helper",
+      "description": "Compares options using weighted criteria to support a decision.",
+      "content": "Help me decide between these options: {{options}}. Ask me for criteria if needed, otherwise suggest 5 relevant criteria with weights, score each option from 1 to 10, and show a final weighted ranking with a short recommendation.",
+      "categoryId": "productivity",
+      "imageUrl": "https://picsum.photos/seed/decision-matrix/600/400",
+      "tags": [
+        "decision",
+        "analysis",
+        "thinking"
+      ],
+      "difficulty": "intermediate",
+      "views": 257400,
+      "isFeatured": false
+    },
+    {
+      "id": "eli5-explainer",
+      "title": "Explain Like I'm 5",
+      "description": "Explains any complex topic using simple words and analogies.",
+      "content": "Explain {{topic}} as if I am 5 years old. Use a simple analogy from everyday life, avoid jargon, and finish with one fun question to check my understanding.",
+      "categoryId": "learning",
+      "imageUrl": "https://picsum.photos/seed/eli5-explainer/600/400",
+      "tags": [
+        "explain",
+        "simple",
+        "analogy"
+      ],
+      "difficulty": "beginner",
+      "views": 257400,
+      "isFeatured": true
+    },
+    {
+      "id": "study-plan-generator",
+      "title": "Study Plan Generator",
+      "description": "Creates a day-by-day study plan for any subject and deadline.",
+      "content": "Create a {{days}}-day study plan to learn {{subject}}. My current level: {{level}}. I can study {{hours}} hours per day. For each day list topics, practice tasks, and a quick self-test.",
+      "categoryId": "learning",
+      "imageUrl": "https://picsum.photos/seed/study-plan-generator/600/400",
+      "tags": [
+        "study",
+        "plan",
+        "exam"
+      ],
+      "difficulty": "intermediate",
+      "isFeatured": false
+    },
+    {
+      "id": "quiz-me",
+      "title": "Quiz Me Tutor",
+      "description": "Quizzes you interactively and adapts to your answers.",
+      "content": "Act as my tutor for {{subject}}. Ask me one question at a time, starting at {{level}} difficulty. After each answer, tell me if I was right, explain briefly, then ask the next question. Adjust difficulty based on my performance.",
+      "categoryId": "learning",
+      "imageUrl": "https://picsum.photos/seed/quiz-me/600/400",
+      "tags": [
+        "quiz",
+        "tutor",
+        "practice"
+      ],
+      "difficulty": "advanced",
+      "views": 257400,
+      "isFeatured": false
+    }
+  ]
+}
