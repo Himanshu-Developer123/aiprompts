@@ -1,270 +1,382 @@
 {
   "schemaVersion": 1,
-  "version": 2,
-  "updatedAt": "2026-10-10T11:30:00Z",
+  "version": 3,
+  "updatedAt": "2026-10-13T07:18:46Z",
   "categories": [
     {
-      "id": "writing",
-      "name": "Content Writing",
-      "icon": "edit"
+      "id": "trending",
+      "name": "Trending",
+      "icon": "trending"
     },
     {
-      "id": "coding",
-      "name": "Coding",
-      "icon": "code"
+      "id": "couple",
+      "name": "Couple",
+      "icon": "couple"
     },
     {
-      "id": "marketing",
-      "name": "Marketing",
-      "icon": "campaign"
+      "id": "kids",
+      "name": "Kids",
+      "icon": "kids"
     },
     {
-      "id": "productivity",
-      "name": "Productivity",
-      "icon": "task_alt"
+      "id": "men",
+      "name": "Men",
+      "icon": "men"
     },
     {
-      "id": "learning",
-      "name": "Learning",
-      "icon": "school"
+      "id": "women",
+      "name": "Women",
+      "icon": "women"
     }
   ],
   "prompts": [
     {
-      "id": "blog-post-outline",
-      "title": "Blog Post Outline Generator",
-      "description": "Creates a structured blog outline from a topic and audience.",
-      "content": "Act as an expert content strategist. Create a detailed blog post outline about {{topic}} for {{audience}}. Include a hook, 5 main sections with sub-points, and a conclusion with a call to action.",
-      "categoryId": "writing",
-      "imageUrl": "https://picsum.photos/seed/blog-post-outline/600/400",
-      "tags": [
-        "blog",
-        "seo",
-        "outline"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": true,
-      "views": 257400
-    },
+  "id": "gujarati-garba-night-portrait",
+  "title": "Ultra-Realistic Cinematic Gujarati Garba Night Portrait",
+  "description": "Create a cinematic, photorealistic Gujarati Navratri portrait featuring traditional mirror-work clothing, oxidized silver jewelry, colorful festival lights, and an authentic Garba-night atmosphere.",
+  "content": "Create an ultra-realistic, high-resolution portrait of an adult Indian woman at a vibrant Navratri Garba celebration. Use the uploaded reference image to guide the pose, outfit, jewelry, expression, and festive setting.\n\nSUBJECT & EXPRESSION: Feature long, dark brown-black hair in a loose half-up style with a center part and soft face-framing strands. Add expressive dark eyes, subtle winged eyeliner, naturally glowing skin, rosy cheeks, and glossy pink lips. Give her a playful, confident expression while maintaining natural facial proportions and realistic skin texture.\n\nTRADITIONAL OUTFIT: Dress her in a colorful Gujarati chaniya choli. The fitted black blouse should feature intricate turquoise, pink, white, red, and yellow embroidery, traditional geometric patterns, mirror work, decorative borders, and delicate shell embellishments. Pair it with a richly patterned red, black, and yellow lehenga with ornamental mirror details. Add a royal-blue dupatta draped over one shoulder and flowing naturally along her side.\n\nJEWELRY & ACCESSORIES: Include an elaborate oxidized-silver choker with dangling ornaments, layered necklaces, large traditional earrings, chunky silver bangles, and statement ethnic pendants. Make the metalwork detailed and realistically reflective under the festival lights.\n\nPOSE & COMPOSITION: Capture a close three-quarter to mid-thigh portrait in a vertical 9:16 composition. Raise one arm and bend it near the face, with the chin resting lightly against the hand. Keep the other hand naturally positioned near the waist and let the blue dupatta cascade down the side. Ensure believable anatomy, natural hands, and realistic body proportions.\n\nBACKGROUND & ATMOSPHERE: Set the scene outdoors at a lively Gujarati Navratri Garba event at night. Include a colorful crowd wearing traditional Indian clothing, bright overhead festival lights, a vibrant green dance floor, and softly blurred dancers. Create realistic nighttime shadows, warm highlights, and natural background depth.\n\nPHOTOGRAPHIC STYLE: Use photorealistic Indian ethnic fashion photography, crisp subject focus, natural skin texture, detailed mirror-work embroidery, realistic silver jewelry, warm festival illumination, balanced exposure, cinematic color grading, and a natural smartphone-camera aesthetic. Render fine details at high resolution with a vertical 9:16 aspect ratio.\n\nNEGATIVE PROMPT: Avoid cartoon or anime styles, illustrations, plastic-looking skin, excessive facial smoothing, distorted facial features, unnatural body proportions, deformed hands, extra or missing fingers, duplicated jewelry, unrealistic fabric, oversaturated colors, blurred subjects, harsh artificial flash, low resolution, text, watermarks, and logos.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/bc7f5090-f5c4-49dd-8a14-7ebb2ee636fa/6fc09766-7883-4f42-b6a7-19ec5c027ec2.webp",
+  "tags": [
+    "gujarati",
+    "garba",
+    "navratri",
+    "portrait",
+    "cinematic",
+    "photography",
+    "traditional-fashion",
+    "ai-image"
+  ],
+  "difficulty": "intermediate",
+  "views": 0,
+  "isFeatured": false
+},
     {
-      "id": "email-rewriter",
-      "title": "Professional Email Rewriter",
-      "description": "Rewrites a rough email draft into a clear, polite message.",
-      "content": "Rewrite the following email so it is clear, concise, and professional while keeping my original meaning. Tone: {{tone}}.\n\nEmail:\n{{email_text}}",
-      "categoryId": "writing",
-      "imageUrl": "https://picsum.photos/seed/email-rewriter/600/400",
-      "tags": [
-        "email",
-        "rewrite",
-        "business"
-      ],
-      "difficulty": "beginner",
-      "views": 257400,
-      "isFeatured": false
-    },
-    {
-      "id": "storytelling-hook",
-      "title": "Storytelling Hook Creator",
-      "description": "Generates 10 attention-grabbing opening lines for any story or post.",
-      "content": "Write 10 different opening hooks for a {{format}} about {{topic}}. Use a mix of styles: question, bold statement, statistic, and mini-story. Keep each under 25 words.",
-      "categoryId": "writing",
-      "imageUrl": "https://picsum.photos/seed/storytelling-hook/600/400",
-      "tags": [
-        "hook",
-        "story",
-        "social"
-      ],
-      "difficulty": "intermediate",
-      "views": 257400,
-      "isFeatured": false
-    },
-    {
-      "id": "code-explainer",
-      "title": "Code Explainer",
-      "description": "Explains any code snippet line by line in simple language.",
-      "content": "Explain the following {{language}} code step by step as if I am a beginner. Describe what each part does, then summarize the overall purpose in two sentences.\n\n```\n{{code}}\n```",
-      "categoryId": "coding",
-      "imageUrl": "https://picsum.photos/seed/code-explainer/600/400",
-      "tags": [
-        "explain",
-        "beginner",
-        "learning"
-      ],
-      "difficulty": "beginner",
-      "views": 257400,
-      "isFeatured": true
-    },
-    {
-      "id": "bug-finder",
-      "title": "Bug Finder and Fixer",
-      "description": "Finds the bug in your code and suggests a fix with reasoning.",
-      "content": "Act as a senior {{language}} developer. Review this code, identify any bugs or edge cases, explain why each one happens, and provide a corrected version.\n\nExpected behavior: {{expected_behavior}}\n\n```\n{{code}}\n```",
-      "categoryId": "coding",
-      "imageUrl": "https://picsum.photos/seed/bug-finder/600/400",
-      "tags": [
-        "debug",
-        "review",
-        "fix"
-      ],
-      "difficulty": "intermediate",
-      "views": 257400,
-      "isFeatured": false
-    },
-    {
-      "id": "unit-test-writer",
-      "title": "Unit Test Writer",
-      "description": "Generates unit tests covering normal, edge, and error cases.",
-      "content": "Write unit tests for the following {{language}} function using {{test_framework}}. Cover normal cases, edge cases, and error handling. Add a short comment above each test describing its purpose.\n\n```\n{{code}}\n```",
-      "categoryId": "coding",
-      "imageUrl": "https://picsum.photos/seed/unit-test-writer/600/400",
-      "tags": [
-        "testing",
-        "unit-test",
-        "quality"
-      ],
-      "difficulty": "advanced",
-      "isFeatured": false
-    },
-    {
-      "id": "product-description",
-      "title": "Product Description Writer",
-      "description": "Writes a persuasive product description focused on benefits.",
-      "content": "Write a persuasive product description for {{product_name}}. Target customer: {{target_customer}}. Key features: {{features}}. Focus on benefits over features, keep it under 120 words, and end with a clear call to action.",
-      "categoryId": "marketing",
-      "imageUrl": "https://picsum.photos/seed/product-description/600/400",
-      "tags": [
-        "ecommerce",
-        "copywriting",
-        "sales"
-      ],
-      "difficulty": "beginner",
-      "views": 257400,
-      "isFeatured": true
-    },
-    {
-      "id": "social-media-calendar",
-      "title": "30-Day Social Media Calendar",
-      "description": "Plans a month of social posts with themes and post ideas.",
-      "content": "Create a 30-day social media content calendar for a {{business_type}} on {{platform}}. For each day give a theme, a post idea, and a suggested format (image, reel, carousel, or text). Target audience: {{audience}}.",
-      "categoryId": "marketing",
-      "imageUrl": "https://picsum.photos/seed/social-media-calendar/600/400",
-      "tags": [
-        "social-media",
-        "planning",
-        "content"
-      ],
-      "difficulty": "intermediate",
-      "isFeatured": false
-    },
-    {
-      "id": "ad-copy-variants",
-      "title": "Ad Copy A/B Variants",
-      "description": "Produces multiple ad copy variants to test against each other.",
-      "content": "Write 5 ad copy variants for {{product}} aimed at {{audience}} on {{platform}}. Each variant should use a different angle: pain point, social proof, urgency, curiosity, and benefit. Include a headline and body text.",
-      "categoryId": "marketing",
-      "imageUrl": "https://picsum.photos/seed/ad-copy-variants/600/400",
-      "tags": [
-        "ads",
-        "ab-testing",
-        "copywriting"
-      ],
-      "difficulty": "advanced",
-      "views": 257400,
-      "isFeatured": false
-    },
-    {
-      "id": "weekly-planner",
-      "title": "Weekly Planner Builder",
-      "description": "Turns your goals and commitments into a realistic weekly plan.",
-      "content": "Build a realistic weekly plan for me. My top goals: {{goals}}. Fixed commitments: {{commitments}}. Available hours per day: {{hours}}. Include breaks and one buffer slot per day.",
-      "categoryId": "productivity",
-      "imageUrl": "https://picsum.photos/seed/weekly-planner/600/400",
-      "tags": [
-        "planning",
-        "schedule",
-        "time-management"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": true
-    },
-    {
-      "id": "meeting-notes-summarizer",
-      "title": "Meeting Notes Summarizer",
-      "description": "Converts messy meeting notes into decisions and action items.",
-      "content": "Summarize the meeting notes below into: 1) key decisions, 2) action items with owner and deadline, 3) open questions. Keep it under 200 words.\n\nNotes:\n{{notes}}",
-      "categoryId": "productivity",
-      "imageUrl": "https://picsum.photos/seed/meeting-notes-summarizer/600/400",
-      "tags": [
-        "meeting",
-        "summary",
-        "work"
-      ],
-      "difficulty": "beginner",
-      "views": 257400,
-      "isFeatured": false
-    },
-    {
-      "id": "decision-matrix",
-      "title": "Decision Matrix Helper",
-      "description": "Compares options using weighted criteria to support a decision.",
-      "content": "Help me decide between these options: {{options}}. Ask me for criteria if needed, otherwise suggest 5 relevant criteria with weights, score each option from 1 to 10, and show a final weighted ranking with a short recommendation.",
-      "categoryId": "productivity",
-      "imageUrl": "https://picsum.photos/seed/decision-matrix/600/400",
-      "tags": [
-        "decision",
-        "analysis",
-        "thinking"
-      ],
-      "difficulty": "intermediate",
-      "views": 257400,
-      "isFeatured": false
-    },
-    {
-      "id": "eli5-explainer",
-      "title": "Explain Like I'm 5",
-      "description": "Explains any complex topic using simple words and analogies.",
-      "content": "Explain {{topic}} as if I am 5 years old. Use a simple analogy from everyday life, avoid jargon, and finish with one fun question to check my understanding.",
-      "categoryId": "learning",
-      "imageUrl": "https://picsum.photos/seed/eli5-explainer/600/400",
-      "tags": [
-        "explain",
-        "simple",
-        "analogy"
-      ],
-      "difficulty": "beginner",
-      "views": 257400,
-      "isFeatured": true
-    },
-    {
-      "id": "study-plan-generator",
-      "title": "Study Plan Generator",
-      "description": "Creates a day-by-day study plan for any subject and deadline.",
-      "content": "Create a {{days}}-day study plan to learn {{subject}}. My current level: {{level}}. I can study {{hours}} hours per day. For each day list topics, practice tasks, and a quick self-test.",
-      "categoryId": "learning",
-      "imageUrl": "https://picsum.photos/seed/study-plan-generator/600/400",
-      "tags": [
-        "study",
-        "plan",
-        "exam"
-      ],
-      "difficulty": "intermediate",
-      "isFeatured": false
-    },
-    {
-      "id": "quiz-me",
-      "title": "Quiz Me Tutor",
-      "description": "Quizzes you interactively and adapts to your answers.",
-      "content": "Act as my tutor for {{subject}}. Ask me one question at a time, starting at {{level}} difficulty. After each answer, tell me if I was right, explain briefly, then ask the next question. Adjust difficulty based on my performance.",
-      "categoryId": "learning",
-      "imageUrl": "https://picsum.photos/seed/quiz-me/600/400",
-      "tags": [
-        "quiz",
-        "tutor",
-        "practice"
-      ],
-      "difficulty": "advanced",
-      "views": 257400,
-      "isFeatured": false
-    }
+  "id": "garba-nights",
+  "title": "Garba Nights – Ultra-Realistic Gujarati Navratri Portrait",
+  "description": "Create a premium, photorealistic full-body portrait of a young Indian woman wearing an intricately embroidered black Gujarati chaniya choli at a vibrant Navratri Garba night celebration.",
+  "content": "Create an ultra-photorealistic, premium-quality vertical 9:16 full-body fashion photograph inspired by the uploaded reference image, perfect for posting on FayMas. Recreate the elegant traditional Indian Navratri/garba festival atmosphere, colorful lights, luxurious black embroidered lehenga, intricate mirror work, jewelry, graceful pose, and cinematic background.\n\n### 👗 FEMALE SUBJECT — OUTFIT & APPEARANCE\nA beautiful young Indian woman wearing a stunning black traditional Gujarati chaniya choli lehenga featuring elaborate multicolored embroidery, reflective mirror work, floral patterns, decorative borders, vibrant pink, red, yellow, green, and blue threadwork, and colorful pom-pom tassels along the hem. The fitted blouse has short sleeves and a square neckline, richly decorated with detailed traditional embroidery.\n\nA sheer black dupatta with matching colorful embroidered borders drapes gracefully over one shoulder and flows down the side of the lehenga. Accessories include an oxidized silver statement choker necklace, matching traditional jhumka earrings, stacked silver bangles, a small elegant bindi, and a delicate floral hair accessory. Long, voluminous dark brown-black hair styled half-up with soft natural waves flowing over one shoulder.\n\n### 💃 POSE & EXPRESSION\nFull-length standing pose, body slightly angled, shoulders relaxed, both hands naturally joined near the waist while gently holding the dupatta. Warm, genuine smile, graceful feminine posture, looking slightly toward the side. Natural hands, anatomically correct fingers, realistic body proportions, and elegant traditional styling.\n\n### 🎉 BACKGROUND & ENVIRONMENT\nA vibrant Indian Navratri garba festival at night, with colorful vertical fabric decorations in yellow, red, blue, and orange, warm golden fairy lights, beautiful circular bokeh, and softly blurred people dancing in traditional Gujarati outfits in the background. Natural earthy ground, festive atmosphere, realistic depth, and a luxurious cultural celebration aesthetic.\n\n### 💡 LIGHTING & CAMERA\nProfessional DSLR photography, 85mm portrait lens, f/2.0, natural skin texture, realistic pores, detailed embroidery and mirror reflections, soft flattering warm lighting, balanced exposure, sharp focus on the subject, creamy background blur, HDR, cinematic color grading, premium fashion-editorial photography, ultra-detailed 8K appearance.\n\n### 🚫 NEGATIVE PROMPT\nBlurry image, low resolution, plastic skin, artificial face, excessive skin smoothing, overexposed face, white patches on skin, distorted hands, extra fingers, missing fingers, extra limbs, incorrect anatomy, duplicate body parts, messy embroidery, asymmetrical eyes, unnatural smile, floating jewelry, oversaturated colors, cropped feet, cut-off lehenga, text, watermark, logo, borders, screenshot interface.\n\nFinal output: A clean, edge-to-edge, full-body vertical 9:16 portrait with the entire lehenga visible, realistic Indian festive elegance, premium Instagram/FayMas-ready quality.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/aee58767-d382-4f29-996a-e00ebbb19979/60ffe9fa-3a13-4440-ad71-cc41ebd3199b.webp",
+  "tags": [
+    "Garba",
+    "Navratri",
+    "Gujarati",
+    "Traditional",
+    "Lehenga",
+    "Fashion",
+    "Night",
+    "Portrait"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": true,
+  "views": 7000
+},
+{
+  "id": "special-birthday-portrait",
+  "title": "Luxury Sky-Blue Lehenga Birthday Portrait Poster",
+  "description": "Create a premium, photorealistic birthday poster featuring an elegant Indian woman in a pastel sky-blue embroidered lehenga against a dreamy luxury birthday backdrop.",
+  "content": "Create a premium vertical 9:16 luxury birthday portrait poster using the uploaded reference image as the visual reference for the woman. A beautiful young Indian woman standing gracefully in the center, wearing an elegant sky-blue pastel designer lehenga with intricate silver-white embroidery, matching embroidered blouse/choli, and a soft sheer matching dupatta draped naturally over her shoulders.\n\nPreserve her natural facial appearance, realistic skin texture, expressive eyes, facial proportions and overall beauty. Long voluminous soft wavy brown-black hair flowing naturally over both shoulders. Elegant minimal earrings, subtle makeup, glossy natural lips, soft glowing complexion.\n\n### 🎂 BACKGROUND\nDreamy pastel sky-blue and white luxury birthday backdrop with soft gradient lighting, subtle glowing particles, delicate abstract geometric line patterns and a clean premium editorial atmosphere.\n\nLarge bold white typography in the background reading: “HAPPY BIRTHDAY” with the woman naturally overlapping the letters.\n\n### ✨ TEXT & DECORATIONS\nAt the upper center, add elegant handwritten white script: “Happy birthday”. Across the lower-middle area, add large elegant handwritten white calligraphy: “Special day”. Add small hand-drawn white hearts, stars, sparkles and tiny birthday celebration doodles around the woman. Add a few soft green leaves floating naturally around the composition for a fresh elegant look.\n\n### 💡 LIGHTING & STYLE\nSoft dreamy studio lighting, pastel blue cinematic glow, subtle rim light around the woman, realistic shadows, premium Indian fashion editorial photography, luxurious birthday magazine aesthetic, sophisticated composition, photorealistic, ultra-detailed embroidery, realistic fabric texture, natural skin pores, sharp eyes, high-end professional photography, clean Photoshop-quality compositing, soft depth of field, 4K Ultra HD.\n\n### 📸 COMPOSITION\nVertical 9:16 poster, woman centered and dominant, upper background typography clearly visible, balanced negative space, elegant layered typography behind and around the subject, face unobstructed, full outfit visible as much as possible, premium Instagram/Facebook birthday poster.\n\nIMPORTANT: Keep the woman’s face natural and consistent with the uploaded reference image. Do not distort facial features. Do not create duplicate people.\n\n### 🚫 NEGATIVE PROMPT\nBlurry face, distorted face, different identity, artificial skin, cartoon, anime, extra fingers, missing fingers, extra arms, extra body parts, duplicate person, bad hands, deformed eyes, distorted jewelry, unrealistic hair, warped clothing, cropped head, low resolution, oversaturated colors, messy background, incorrect text, misspelled words, watermark, logo.\n\nOUTPUT: 9:16 vertical, ultra-HD, photorealistic, premium luxury birthday poster, Instagram Reels/Story and Facebook-ready.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/94b23274-cf9c-41fa-b758-0002d3a3d75d/738c5c79-efda-475c-a175-779041a5926e.webp",
+  "tags": [
+    "Birthday",
+    "Portrait",
+    "Sky Blue",
+    "Lehenga",
+    "Indian Fashion",
+    "Luxury",
+    "Photography",
+    "Poster"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": false,
+  "views": 14000
+},
+{
+  "id": "warm-lit-south-asian-woman-black-outfit",
+  "title": "Warm-Lit Portrait of a South Asian Woman in Black Outfit and Embroidered Dupatta ✨",
+  "description": "Create a photorealistic vertical portrait of a young South Asian woman wearing a stylish black outfit, statement silver jewelry, and a vibrant embroidered dupatta under warm cinematic lighting.",
+  "content": "Create an ultra-realistic, high-detail vertical portrait in a 9:16 aspect ratio. Use the uploaded reference image as the exact facial identity reference, preserving the person's facial features, bone structure, skin tone, and natural appearance with realistic 4K detail.\n\n### 👩 SUBJECT & APPEARANCE\nA young South Asian woman standing gracefully, gently running her left hand through her hair while looking directly at the camera. She has shoulder-length dark brown hair styled in soft waves, a gentle closed-mouth smile, relaxed eyes, and a warm, approachable expression.\n\n### 👗 OUTFIT & ACCESSORIES\nShe wears a black sleeveless crop top paired with a matching black skirt. A vibrantly patterned embroidered dupatta drapes elegantly over her left shoulder, featuring colorful magenta, blue, and other decorative details with metallic threads and small reflective mirrors. Complete the look with a heavy oxidized silver choker necklace, matching silver earrings, and a thick silver bangle on her right wrist. Preserve realistic fabric textures, intricate embroidery, and natural jewelry reflections.\n\n### 🧍 POSE & COMPOSITION\nCapture a medium-shot portrait with the subject positioned slightly to the right of center. Her head tilts subtly, and her left hand gently sweeps through her hair. Maintain relaxed shoulders, natural arm positioning, anatomically correct hands, and realistic body proportions. Keep the face sharply focused and the background softly defined.\n\n### 🏡 BACKGROUND & ENVIRONMENT\nAn indoor event or studio setting with a dark olive-brown draped fabric backdrop. Two exposed warm glowing light bulbs mounted on elegant golden stands appear on the left side of the composition. The environment feels intimate, contemporary, and festive, with the colorful dupatta contrasting beautifully against the dark background.\n\n### 💡 LIGHTING & COLOR GRADING\nSoft frontal fill light illuminates the face evenly, while warm practical bulbs on the left create subtle golden rim lighting along the hair and arm. Use a warm tungsten color grade, lifted shadows, controlled highlights, and vibrant selective colors against a muted olive-brown background. Reproduce realistic light falloff, gentle shadows, natural skin texture, and subtle digital-camera characteristics.\n\n### 📸 CAMERA & PHOTOGRAPHIC STYLE\nPhotorealistic social-media creator portrait, smartphone or digital-camera aesthetic, normal-to-mild-telephoto lens perspective, eye-level camera angle, moderate depth of field, crisp facial focus, realistic hair strands, detailed silver accessories, accurate embroidery, and natural color rendering. High-resolution 8K-style detail with a polished yet authentic photographic finish.\n\n### 🚫 NEGATIVE PROMPT\nDistorted hands, extra fingers, missing fingers, unnatural anatomy, overexposed highlights, crushed blacks, blurry face, plastic-looking skin, excessive skin smoothing, unrealistic facial features, messy background, distorted jewelry, inaccurate embroidery, artificial lighting, oversaturated colors, low resolution, watermark, logo, and unwanted text.\n\n### ✅ FINAL OUTPUT\nA clean vertical 9:16 photorealistic portrait with warm cinematic lighting, a stylish black outfit, statement silver jewelry, a colorful embroidered dupatta, and an elegant indoor festive atmosphere. Preserve the reference identity and natural proportions.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/effe0273-8783-495a-a205-c1f2d94aa375/72f9079d-3c9f-4433-a998-c0c57628b6bd.webp",
+  "tags": [
+    "South Asian",
+    "Black Outfit",
+    "Embroidered Dupatta",
+    "Warm Lighting",
+    "Cinematic Portrait",
+    "Silver Jewelry",
+    "Ethnic Fashion",
+    "Photorealistic"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": false,
+  "views": 11000
+},
+{
+  "id": "pet-parrot",
+  "title": "Ultra-Realistic Pet Parrot Portrait",
+  "description": "Create a detailed, photorealistic portrait of a beautiful pet parrot with vibrant feathers, expressive eyes, and natural lighting in a realistic environment.",
+  "content": "Create an ultra-realistic, high-resolution photograph of a beautiful pet parrot, using the provided reference image as the primary visual guide for the bird's appearance, pose, feather colors, and environment.\n\n### 🦜 SUBJECT & APPEARANCE\nCapture a charming pet parrot with vibrant, richly colored feathers, a naturally curved beak, expressive eyes, and realistic feather patterns. Preserve the bird's authentic anatomy, natural proportions, delicate feather textures, and lifelike facial details. The parrot should appear alert, healthy, and curious, with a natural personality and a beautifully detailed plumage.\n\n### 🪶 FEATHER DETAILS\nRender every feather with exceptional clarity, including fine strands, subtle color transitions, natural layering, and realistic light reflections. Accurately reproduce the colors and markings shown in the reference image. Include detailed wing feathers, a naturally textured tail, and realistic feather density around the head and neck.\n\n### 👁️ EYES & BEAK\nCreate sharp, expressive eyes with realistic reflections and natural iris details. The beak should have an authentic curved shape, detailed surface texture, and subtle highlights. Maintain anatomically correct facial proportions and a lifelike expression.\n\n### 🌿 POSE & ENVIRONMENT\nReproduce the reference image's pose and surroundings as closely as possible. Show the parrot in a natural, comfortable position within a realistic pet-friendly environment. Include believable background elements and natural depth without distracting from the bird. Ensure the feet and claws appear anatomically accurate if visible.\n\n### 💡 LIGHTING & PHOTOGRAPHY\nUse soft natural lighting to highlight the feather colors and textures without overexposure. Create realistic shadows, balanced contrast, natural reflections in the eyes, and a softly blurred background. Focus precisely on the bird's eyes and facial feathers while preserving fine plumage details throughout the subject.\n\n### 📸 CAMERA & QUALITY\nProfessional wildlife and pet photography, realistic camera optics, natural color grading, high dynamic range, crisp focus, shallow depth of field, photorealistic textures, detailed feather patterns, lifelike proportions, premium 4K image quality, and a clean photographic finish.\n\n### 🚫 NEGATIVE PROMPT\nCartoon, illustration, painting, artificial feathers, plastic texture, blurry eyes, distorted beak, extra wings, extra legs, missing claws, malformed feet, unnatural anatomy, duplicated feathers, oversaturated colors, excessive sharpening, blurry subject, low resolution, unrealistic background, text, watermark, and logo.\n\n### ✅ FINAL OUTPUT\nA stunning, lifelike pet parrot photograph with realistic feather details, accurate anatomy, natural lighting, and professional photographic quality. Use the supplied reference image to guide the final appearance and composition.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/47ff6c44-2f43-453c-bcfd-693518428351/1edb88eb-a006-441d-aa22-189aa32c1146.webp",
+  "tags": [
+    "Parrot",
+    "Pet",
+    "Bird",
+    "Animal",
+    "Wildlife",
+    "Feathers",
+    "Nature",
+    "Photography"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": true,
+  "views": 19000
+},
+{
+  "id": "man-white-outfit-red-rose-bouquet",
+  "title": "Romantic Portrait of a Man in White Holding Red Roses",
+  "description": "Create a photorealistic romantic portrait of a stylish young man dressed in an all-white outfit, holding a beautiful bouquet of red roses in a soft, elegant outdoor setting.",
+  "content": "Create an ultra-realistic, high-resolution portrait of a stylish young man wearing a crisp white shirt and matching white trousers while holding a beautiful bouquet of fresh red roses. Use the provided reference image as the primary visual guide for the subject's appearance, pose, outfit, bouquet arrangement, and background composition.\n\n### 👨 SUBJECT & APPEARANCE\nA handsome young man with naturally styled dark hair, realistic facial features, a well-groomed appearance, and a calm, confident expression. Preserve natural skin texture, realistic facial proportions, and authentic photographic details. His expression should feel relaxed, charming, and subtly romantic.\n\n### 👔 OUTFIT & STYLING\nHe wears a clean, elegant white button-up shirt paired with matching white trousers. The shirt has a natural fit with realistic folds, subtle fabric texture, and neatly styled sleeves. The trousers feature a tailored silhouette and natural creases. Maintain the fresh, minimalist aesthetic of an all-white outfit, contrasting beautifully with the vivid red roses.\n\n### 🌹 BOUQUET DETAILS\nThe man holds a carefully arranged bouquet of rich red roses with fresh green leaves and natural-looking stems. Each rose should feature detailed velvety petals, realistic curves, subtle color variations, and natural highlights. Reproduce the bouquet's size, wrapping, arrangement, and position according to the reference image. Ensure his fingers wrap naturally around the bouquet without distortion.\n\n### 🧍 POSE & COMPOSITION\nCapture a stylish full-body or three-quarter portrait, matching the reference image's framing. The subject stands naturally while holding the bouquet in front of his torso. Maintain relaxed shoulders, realistic posture, anatomically correct hands, and balanced body proportions. Keep the bouquet clearly visible and the subject as the main focal point.\n\n### 🌿 BACKGROUND & ENVIRONMENT\nUse a soft, elegant outdoor setting with natural greenery and a gently blurred background. Create a romantic atmosphere with subtle background depth and natural environmental details. Avoid distracting elements that compete with the white outfit and red roses.\n\n### 💡 LIGHTING & COLOR GRADING\nSoft natural daylight illuminates the subject evenly, revealing realistic skin texture, white fabric details, and the rich red tones of the roses. Use balanced exposure, gentle shadows, natural highlights, and refined cinematic color grading. Preserve detail in the white clothing without overexposing it.\n\n### 📸 CAMERA & PHOTOGRAPHIC STYLE\nProfessional portrait photography, realistic camera optics, natural perspective, crisp focus on the subject and bouquet, shallow depth of field, soft background bokeh, lifelike skin texture, detailed rose petals, realistic fabric folds, high dynamic range, premium fashion-editorial aesthetic, and ultra-detailed 4K quality.\n\n### 🚫 NEGATIVE PROMPT\nBlurry face, artificial skin, plastic texture, distorted hands, extra fingers, missing fingers, malformed arms, incorrect anatomy, duplicate roses, artificial flower petals, floating bouquet, unrealistic clothing folds, overexposed white shirt, oversaturated reds, harsh shadows, low resolution, cartoon style, text, watermark, logo, and unwanted objects.\n\n### ✅ FINAL OUTPUT\nA polished, photorealistic romantic portrait of a young man in a white shirt and trousers holding a vivid bouquet of red roses, with realistic anatomy, natural lighting, elegant styling, and a soft cinematic outdoor background.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/82654afe-779d-415e-9fb5-a47e1761a104/3aa8291f-1c6d-43bd-a224-41110b1a2789.webp",
+  "tags": [
+    "Men",
+    "White Outfit",
+    "Red Roses",
+    "Romantic",
+    "Portrait",
+    "Fashion",
+    "Flowers",
+    "Photography"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": false,
+  "views": 23000
+},
+{
+  "id": "three-faces-one-forever-family-portrait",
+  "title": "Three Faces, One Forever – Black & White Family Portrait",
+  "description": "Create an emotional, ultra-realistic black-and-white family portrait featuring three family members arranged in an elegant composition with soft studio lighting and timeless photographic style.",
+  "content": "Create an ultra-realistic, high-resolution black-and-white family portrait featuring three family members, using the uploaded reference image as the primary guide for facial identity, expressions, positioning, and overall composition. The image should communicate love, connection, warmth, and the timeless bond of family.\n\n### 👨‍👩‍👧 SUBJECTS & ARRANGEMENT\nFeature three family members arranged in a close, harmonious composition. Preserve each person's individual facial features, natural proportions, hairstyle, and recognizable identity from the reference image. Position the subjects at complementary heights, with their faces arranged elegantly to create a visually balanced portrait. Maintain a natural sense of closeness and emotional connection.\n\n### ❤️ EXPRESSIONS & EMOTION\nCapture calm, genuine expressions with subtle smiles and relaxed eyes. Each person should appear comfortable and connected to the others. Emphasize tenderness, trust, affection, and the feeling of togetherness through natural expressions and gentle body language.\n\n### 👕 CLOTHING & STYLING\nUse coordinated, simple, timeless clothing in neutral tones that translate beautifully into monochrome. Preserve the clothing styles visible in the reference image where possible. Render realistic fabric folds, natural textures, and subtle tonal separation so each person remains distinct without distracting from their faces.\n\n### 🖤 BLACK-AND-WHITE PHOTOGRAPHY\nApply sophisticated monochrome processing with rich blacks, luminous highlights, and smooth midtone transitions. Preserve natural skin texture, fine hair details, expressive eyes, and realistic facial contours. Use carefully controlled contrast to create depth without losing detail in darker clothing or brighter skin highlights.\n\n### 💡 LIGHTING & ATMOSPHERE\nUse soft directional studio lighting that gently illuminates the faces and creates delicate shadows along the cheekbones and jawlines. Add subtle fill light to preserve facial detail, with a softly graduated dark background that keeps attention on the family. The atmosphere should feel intimate, elegant, emotional, and timeless.\n\n### 📸 COMPOSITION & CAMERA\nCreate a tightly framed family portrait with all three faces clearly visible. Use an eye-level camera perspective, natural proportions, precise facial focus, and a shallow depth of field. Maintain realistic spacing between the subjects and avoid awkward overlaps or unnatural positioning. The composition should resemble a professionally captured fine-art family photograph.\n\n### ✨ IMAGE QUALITY\nPhotorealistic facial details, authentic skin texture, realistic hair strands, crisp eyes, delicate tonal gradation, premium studio portrait photography, subtle film-inspired texture, high dynamic range, clean monochrome color grading, and ultra-detailed 4K quality.\n\n### 🚫 NEGATIVE PROMPT\nDistorted faces, altered identities, duplicate people, extra heads, extra eyes, asymmetrical facial features, unnatural expressions, deformed hands, incorrect anatomy, artificial skin, excessive retouching, blurred faces, harsh shadows, clipped highlights, crushed blacks, poor composition, color tinting, text, watermark, logo, and low-resolution artifacts.\n\n### ✅ FINAL OUTPUT\nA timeless black-and-white family portrait featuring exactly three people, with recognizable faces, authentic expressions, elegant monochrome tones, soft studio lighting, and an emotional fine-art photography aesthetic. Follow the reference image closely for the subjects' identities and arrangement.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/471a823a-c6ff-4c6c-ad1a-5eaf9ddf2697/a4623799-db19-462e-b0fe-1e0b8d1b2d8c.webp",
+  "tags": [
+    "Family",
+    "Black And White",
+    "Portrait",
+    "Family Bond",
+    "Monochrome",
+    "Emotional",
+    "Photography",
+    "Fine Art"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": true,
+  "views": 16000
+},
+{
+  "id": "armchair-portrait-ai-photo-boys",
+  "title": "Stylish Armchair Portrait – AI Photo Prompt for Boys",
+  "description": "Create a photorealistic fashion portrait of a stylish young man seated confidently in an elegant armchair, featuring modern casual clothing, cinematic lighting, and a sophisticated indoor setting.",
+  "content": "Create an ultra-realistic, high-resolution fashion portrait of a stylish young man sitting comfortably in an elegant armchair. Use the provided reference image as the primary guide for the subject's facial identity, hairstyle, pose, clothing, chair design, and overall composition.\n\n### 👨 SUBJECT & APPEARANCE\nA fashionable young man with naturally styled dark hair, realistic facial features, and a confident yet relaxed expression. Preserve the reference subject's recognizable facial identity, natural skin tone, facial proportions, and authentic skin texture. His expression should feel calm, composed, and effortlessly stylish.\n\n### 👕 OUTFIT & STYLING\nDress the subject in a contemporary, well-coordinated casual outfit inspired by the reference image. Reproduce the visible clothing colors, fit, layering, and accessories as accurately as possible. Render realistic fabric textures, natural creases, detailed stitching, and believable folds. The overall styling should look modern, clean, and suitable for a premium men's fashion editorial.\n\n### 🪑 POSE & ARMCHAIR\nThe subject sits naturally in a stylish armchair, with his back comfortably supported and his shoulders relaxed. His arms rest naturally on the chair's armrests or in the position shown in the reference image. Maintain realistic hand placement, anatomically correct fingers, natural leg positioning, and balanced body proportions. Preserve the chair's shape, upholstery, texture, and color.\n\n### 🏠 BACKGROUND & ENVIRONMENT\nCreate a sophisticated indoor environment with a tasteful, understated background that complements the portrait. Reproduce the reference image's interior style and visible decorative elements. Use subtle background depth, realistic shadows, and carefully balanced details to keep the subject as the focal point.\n\n### 💡 LIGHTING & MOOD\nUse soft directional lighting to illuminate the face and outfit naturally. Add gentle shadows to define the facial structure and chair contours. Maintain balanced exposure, realistic skin highlights, and a refined cinematic atmosphere. The overall mood should feel confident, relaxed, masculine, and premium.\n\n### 📸 CAMERA & COMPOSITION\nCapture a medium or three-quarter portrait with the subject seated prominently in the frame. Use an eye-level or slightly elevated camera perspective, realistic lens proportions, sharp facial focus, and a softly blurred background. Preserve the reference image's framing and subject placement while maintaining a clean, professional composition.\n\n### ✨ PHOTOGRAPHIC QUALITY\nProfessional men's fashion photography, photorealistic skin texture, natural hair strands, accurate anatomy, realistic upholstery, detailed fabric textures, subtle cinematic color grading, high dynamic range, natural depth of field, crisp subject details, and premium 4K image quality.\n\n### 🚫 NEGATIVE PROMPT\nBlurry face, artificial skin, distorted facial features, altered identity, extra fingers, missing fingers, deformed hands, extra limbs, incorrect anatomy, unnatural sitting posture, floating body, warped armchair, unrealistic fabric, harsh shadows, overexposure, oversaturation, cartoon appearance, low resolution, text, watermark, and logo.\n\n### ✅ FINAL OUTPUT\nA clean, photorealistic portrait of a stylish young man seated in an elegant armchair, with realistic facial features, natural posture, sophisticated styling, cinematic indoor lighting, and a premium editorial finish. Follow the supplied reference image closely.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/8c9586b4-3f85-4edd-b0d1-3e5292dccb85/b6cfd40f-b61d-4dab-bfe2-12b4b6d17a07.webp",
+  "tags": [
+    "Boys",
+    "Armchair",
+    "Portrait",
+    "Mens Fashion",
+    "AI Photography",
+    "Stylish",
+    "Cinematic",
+    "Lifestyle"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": false,
+  "views": 9000
+},
+{
+  "id": "navaratri-nighttime-portrait-black-kurta",
+  "title": "Navaratri Special Nighttime Portrait of a Smiling Young Man",
+  "description": "A cinematic nighttime Navaratri portrait featuring a smiling young man in a black kurta and white scarf, with festive lighting and a vibrant celebratory atmosphere.",
+  "content": "Create an ultra-realistic, high-resolution nighttime portrait of a smiling young South Asian man celebrating Navaratri. He is wearing a stylish black kurta paired with a white scarf draped naturally around his neck. Capture his cheerful expression, authentic facial details, natural skin texture, and confident pose. Use warm ambient festival lighting with colorful decorative lights softly glowing in the background, creating a lively Navaratri celebration atmosphere. Add cinematic depth of field, gentle highlights on the face, realistic fabric textures, balanced contrast, and professional portrait photography. Keep the subject sharply focused while the festive background remains softly blurred. The final image should feel joyful, vibrant, elegant, and photorealistic.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/effe0273-8783-495a-a205-c1f2d94aa375/a3aae141-1181-4ba9-9583-9cfe18726989.webp",
+  "tags": [
+    "navaratri",
+    "nighttime-portrait",
+    "black-kurta",
+    "white-scarf",
+    "young-man",
+    "festival",
+    "photorealistic"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": true,
+  "views": 12000
+},
+{
+  "id": "golden-hour-urban-portrait-film-look",
+  "title": "Golden Hour Urban Portrait with Deep Blacks and a Subtle Film Look",
+  "description": "A cinematic urban portrait captured in warm golden-hour light, with rich shadows, deep blacks, and a subtle analog film aesthetic.",
+  "content": "Create an ultra-realistic, high-quality urban portrait during golden hour. Capture the subject in a stylish city setting, illuminated by warm, low-angle sunlight that creates soft golden highlights across the face and clothing. Use deep blacks, rich shadows, muted cinematic tones, and a subtle analog film look with delicate grain and natural color grading. Include realistic skin texture, crisp facial details, and authentic fabric textures. Let the urban background fall softly out of focus, with natural environmental details and a shallow depth of field. Compose the image like a professional editorial photograph, balancing warm sunlight with darker shadow areas for a moody yet refined atmosphere. Preserve natural proportions and realistic lighting, avoiding excessive smoothing or artificial effects.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/6ebef368-a4ed-4628-99fa-5eeb9df91fb8/5af48b45-1e86-4462-adc7-22cd9a5e6345.webp",
+  "tags": [
+    "golden-hour",
+    "urban-portrait",
+    "cinematic",
+    "film-look",
+    "deep-blacks",
+    "editorial-photography",
+    "photorealistic"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": false,
+  "views": 18000
+},
+{
+  "id": "romantic-aesthetic-ai-couple-photo",
+  "title": "Romantic Aesthetic AI Photo Prompt for Couple",
+  "description": "A dreamy romantic couple portrait with soft lighting, intimate expressions, and a warm, cinematic aesthetic.",
+  "content": "Create an ultra-realistic romantic portrait of a young couple sharing a tender, affectionate moment. Capture their natural expressions, gentle smiles, and emotional connection in a relaxed, intimate pose. Use soft, flattering light with warm highlights and delicate shadows to create a dreamy romantic atmosphere. Style the image with coordinated contemporary outfits, realistic skin textures, natural facial details, and beautifully rendered fabric. Use a softly blurred background with subtle bokeh, muted warm colors, and cinematic depth of field. Frame the couple as the clear focal point, with balanced composition and professional portrait photography. Maintain realistic anatomy, natural proportions, and lifelike details while giving the final image a polished, romantic, aesthetic feel.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/8c9586b4-3f85-4edd-b0d1-3e5292dccb85/bebfbf59-092a-4993-9e30-44582b6592de.webp",
+  "tags": [
+    "romantic",
+    "couple",
+    "aesthetic",
+    "love",
+    "portrait",
+    "cinematic",
+    "photorealistic"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": true,
+  "views": 25000
+},
+{
+  "id": "underwater-krishna-frame-portrait",
+  "title": "Underwater Krishna Frame Portrait",
+  "description": "A divine artistic portrait of Lord Krishna in an underwater setting, blending spiritual symbolism with serene aquatic lighting.",
+  "content": "Create a highly detailed, artistic portrait of Lord Krishna in a serene underwater environment. Depict Krishna with a peaceful divine expression, traditional blue skin, expressive eyes, and an ornate golden crown adorned with peacock feathers. Include traditional jewelry and elegant garments flowing gently in the water. Surround the subject with delicate underwater light rays, floating particles, soft bubbles, and a rich blue aquatic atmosphere. Use luminous highlights, subtle reflections, intricate ornament details, and cinematic depth to create a magical yet graceful composition. Frame Krishna beautifully as the central subject, with a polished portrait aesthetic and balanced visual details. The final image should feel devotional, peaceful, vibrant, and richly detailed, with realistic lighting effects and high-resolution quality.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/4b5ef99d-ce82-4897-8316-b61e8d6171b2/e0ace411-d343-4b3c-86c2-d289358ed515.webp",
+  "tags": [
+    "krishna",
+    "underwater",
+    "divine-portrait",
+    "spiritual",
+    "devotional",
+    "fantasy-art",
+    "cinematic"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": false,
+  "views": 17000
+},
+{
+  "id": "royal-gangster-mafia-boss-look",
+  "title": "The Royal Gangster Look – Mafia Boss Vibes",
+  "description": "A bold, cinematic portrait with a royal gangster aesthetic, confident attitude, dark styling, and powerful mafia-boss vibes.",
+  "content": "Create an ultra-realistic, cinematic portrait of a stylish young man with a powerful royal gangster attitude. Give him a confident, intense expression and a commanding pose. Dress him in a premium dark outfit with tailored details, complemented by subtle luxury accessories such as a watch, rings, or a chain. Use dramatic low-key lighting, deep blacks, rich shadows, and controlled highlights to emphasize facial features and clothing textures. Set the scene in a sophisticated, moody environment with a dark background and subtle atmospheric depth. Capture realistic skin texture, sharp facial details, natural proportions, and a polished editorial photography style. The overall mood should feel bold, luxurious, mysterious, and authoritative, with a refined mafia-boss aesthetic and high-resolution photorealistic detail.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/804dd073-af08-4b3a-898a-a5d3e71b5cc9/f9b930bb-c901-487e-a4ae-35899de2abf1.webp",
+  "tags": [
+    "royal-gangster",
+    "mafia-boss",
+    "attitude",
+    "mens-fashion",
+    "cinematic-portrait",
+    "luxury",
+    "photorealistic"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": true,
+  "views": 21000
+},
+{
+  "id": "ultra-realistic-cinematic-boy-portrait",
+  "title": "Ultra-Realistic Cinematic Boy Portrait",
+  "description": "A striking cinematic portrait of a young man with lifelike details, dramatic lighting, and a polished editorial photography style.",
+  "content": "Create an ultra-realistic, cinematic portrait of a young South Asian man. Capture his natural facial features, expressive eyes, authentic skin texture, and confident, relaxed expression. Use dramatic yet soft directional lighting to shape the face, creating rich shadows and subtle highlights. Style him in a modern, well-fitted outfit with realistic fabric textures and understated details. Place him against a visually appealing background with gentle blur and cinematic depth of field. Apply professional color grading, balanced contrast, natural skin tones, and crisp focus on the subject's face. Maintain realistic anatomy, natural proportions, and lifelike details. The final image should look like a high-end cinematic photograph with a refined, moody atmosphere and exceptional clarity.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/04a0517e-10d1-48cf-ab88-e86ae3250691/445d5722-72a8-4a03-9fd8-37dc366df00d.webp",
+  "tags": [
+    "cinematic-portrait",
+    "young-man",
+    "ultra-realistic",
+    "mens-portrait",
+    "dramatic-lighting",
+    "editorial",
+    "photorealistic"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": false,
+  "views": 13000
+},
+{
+  "id": "moody-cinematic-mirror-selfie",
+  "title": "Moody Cinematic Mirror Selfie",
+  "description": "A stylish mirror selfie with moody cinematic lighting, deep shadows, and a modern, understated aesthetic.",
+  "content": "Create an ultra-realistic, moody cinematic mirror selfie of a young man in a stylish, contemporary outfit. Capture a natural, confident pose while he holds a smartphone in front of the mirror. Use low-key lighting with soft directional highlights and deep shadows to create a dramatic atmosphere. Include realistic mirror reflections, accurate proportions, detailed skin texture, and authentic clothing fabric. Keep the setting modern and minimal, with subtle background details that complement the subject without distracting from him. Apply muted cinematic color grading, rich blacks, controlled highlights, and a subtle film-inspired finish. Ensure the reflection and phone placement look natural, with sharp focus on the subject and a polished editorial photography style.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/6ebef368-a4ed-4628-99fa-5eeb9df91fb8/53c241af-a008-4ffa-8c86-242225807719.webp",
+  "tags": [
+    "mirror-selfie",
+    "cinematic",
+    "moody",
+    "mens-style",
+    "portrait",
+    "film-look",
+    "photorealistic"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": true,
+  "views": 8000
+},
+{
+  "id": "mirror-selfie-portrait",
+  "title": "Mirror Selfie Portrait",
+  "description": "A clean, modern mirror selfie portrait with natural styling, realistic details, and a polished social-media aesthetic.",
+  "content": "Create an ultra-realistic mirror selfie portrait of a young man in a stylish, contemporary outfit. Show him standing naturally in front of a mirror while holding a smartphone, with a relaxed and confident expression. Use soft, balanced lighting that reveals natural skin texture and realistic clothing details. Keep the environment simple and modern, with a tidy background and subtle depth of field. Ensure the mirror reflection, body proportions, hands, and smartphone appear anatomically accurate and naturally positioned. Use crisp focus, gentle contrast, natural color tones, and professional portrait composition. The final image should feel authentic, fashionable, and effortlessly stylish, like a high-quality personal photograph.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/f6ca2d9e-c9dc-4cd0-9d5b-1c12146127e5/6facbee1-57de-4dd2-b9c8-d552a3474827.webp",
+  "tags": [
+    "mirror-selfie",
+    "portrait",
+    "mens-fashion",
+    "modern-style",
+    "social-media",
+    "realistic",
+    "photography"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": false,
+  "views": 15000
+},
+{
+  "id": "mens-beach-outfit-white-linen-shirt",
+  "title": "Men's Beach Outfit Ideas 2026 – White Linen Shirt Summer Aesthetic",
+  "description": "A relaxed summer fashion portrait featuring a crisp white linen shirt, effortless beach styling, and a bright coastal atmosphere.",
+  "content": "Create an ultra-realistic summer fashion portrait of a stylish young man wearing a crisp white linen shirt with a relaxed fit and lightweight summer trousers or tailored beach pants. Capture the natural texture of the linen fabric, its soft folds, and the breezy, effortless feel of coastal fashion. Place him in a beautiful beachside setting with warm natural sunlight, pale sand, and a softly blurred ocean in the background. Use flattering daylight, subtle shadows, natural skin tones, and a clean editorial composition. Give the subject a relaxed, confident pose and an understated summer aesthetic. Include realistic details in the clothing, hair, skin, and environment, with cinematic depth of field and professional fashion photography quality. The final image should feel fresh, elegant, modern, and suitable for a men's summer-style inspiration post.",
+  "categoryId": "trending",
+  "imageUrl": "https://cdn.faymas.in/prompt_outputs/14c6ff10-0dcb-4816-976b-e9f3dd8a23ab/f241fd1d-c7e2-4ba9-8503-e26bdede1e85.webp",
+  "tags": [
+    "mens-fashion",
+    "beach-outfit",
+    "white-linen-shirt",
+    "summer-aesthetic",
+    "2026-fashion",
+    "coastal-style",
+    "editorial"
+  ],
+  "difficulty": "beginner",
+  "isFeatured": true,
+  "views": 20000
+}
   ]
 }
