@@ -27,6 +27,11 @@
       "id": "women",
       "name": "Women",
       "icon": "women"
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "icon": "fashion"
     }
   ],
   "prompts": [
