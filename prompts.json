@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 3,
-  "updatedAt": "2026-10-13T07:18:46Z",
+  "version": 4,
+  "updatedAt": "2026-10-16T07:00:22Z",
   "categories": [
     {
       "id": "trending",
@@ -27,11 +27,6 @@
       "id": "women",
       "name": "Women",
       "icon": "women"
-    },
-    {
-      "id": "fashion",
-      "name": "Fashion",
-      "icon": "fashion"
     }
   ],
   "prompts": [
