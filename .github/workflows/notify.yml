@@ -1,0 +1,28 @@
+name: Notify app users
+on:
+  push:
+    branches: [main]
+    paths: ['prompts.json']        # change to the real path of your JSON
+
+jobs:
+  notify:
+    # Add [no-notify] to a commit message to skip the push (typo fixes etc.)
+    if: ${{ !contains(github.event.head_commit.message, '[no-notify]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for GitHub Pages to publish
+        run: sleep 90
+
+      - uses: google-github-actions/auth@v2
+        id: auth
+        with:
+          credentials_json: ${{ secrets.FIREBASE_SA }}
+          token_format: access_token
+
+      - name: Send push to topic
+        run: |
+          curl -sS --fail-with-body -X POST \
+            "https://fcm.googleapis.com/v1/projects/${{ secrets.FIREBASE_PROJECT_ID }}/messages:send" \
+            -H "Authorization: Bearer ${{ steps.auth.outputs.access_token }}" \
+            -H "Content-Type: application/json" \
+            -d '{"message":{"topic":"new_prompts","notification":{"title":"New prompts added ✨","body":"Fresh prompts just dropped. Open the app to try them."},"android":{"priority":"HIGH"}}}'
