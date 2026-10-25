@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "version": 6,
+  "version": 7,
   "updatedAt": "2026-10-25T05:03:00Z",
   "categories": [
     {
@@ -38,7 +38,7 @@
   "categoryId": "trending",
       "type": "video",
   "imageUrl": "https://cdn.faymas.in/prompt_outputs/bc7f5090-f5c4-49dd-8a14-7ebb2ee636fa/6fc09766-7883-4f42-b6a7-19ec5c027ec2.webp",
-  "videoUrl": "https://lorem.video/720p",
+  "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
       "tags": [
     "gujarati",
     "garba",
