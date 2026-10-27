@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "version": 9,
-  "updatedAt": "2026-10-26T05:59:57Z",
+  "version": 10,
+  "updatedAt": "2026-10-27T03:29:13Z",
   "categories": [
     {
       "id": "trending",
@@ -30,6 +30,155 @@
     }
   ],
   "prompts": [
+    {
+      "id": "village-cricket-shot-ai-video-trend",
+      "title": "Village Cricket Shot AI Video Trend in Google Flow",
+      "description": "Create a cinematic AI cricket video in a rural Indian village using a reference video and your own photo, with realistic batting movements, natural cloth physics, and a continuous slow-motion cinematic shot.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Create an ultra-realistic cinematic video matching the provided reference video as closely as possible. Vertical 9:16 aspect ratio, 4K quality, natural lighting, realistic human movements, and a continuous single camera shot.\n\nScene and Character: A young Indian woman wearing a beautiful white embroidered salwar kameez, matching white trousers, and a lightweight white dupatta. Her long, dark hair is tied back. She is standing on a flat, dusty cricket ground in a rural Indian village. Three cricket stumps are placed beside her on the left side of the frame. In the background, there are green trees, a small rural building, an open field, and a pale cloudy evening sky.\n\nACTION — SECOND BY SECOND:\n\n0–2 seconds: The woman stands beside the cricket stumps, holding a wooden cricket bat with both hands. She bends forward slightly and looks toward the expected direction of the cricket ball. Her posture is focused and natural.\n\n2–4 seconds: She prepares to play a cricket shot, adjusting her stance and bringing the bat upward. Her white dupatta hangs naturally and moves gently with her body.\n\n4–6 seconds: She swings the cricket bat upward with both hands, turning her body naturally. One leg rises as she performs an energetic batting follow-through. Her long hair and white dupatta flow naturally with the movement.\n\n6–8 seconds: She continues the batting action, lifting the bat high above her shoulder and briefly balancing on one foot. Her movements resemble the reference video, with realistic body weight and natural cloth physics.\n\n8–10 seconds: She brings the bat down in front of her, steps forward, and finishes the movement. She turns slightly toward the camera with a relaxed facial expression while standing on the cricket pitch.\n\nCAMERA AND VISUAL STYLE: Fixed camera position, full-body wide shot, eye-level perspective, the woman visible from head to toe throughout the video. Keep the cricket stumps visible on the left. No cuts, no camera shakes, no sudden zooms, and no scene transitions. Soft natural daylight, realistic shadows, natural skin texture, detailed white fabric embroidery, realistic hair movement, and authentic rural Indian surroundings.\n\nIMPORTANT CONSISTENCY RULES: Maintain the same woman's face, hairstyle, white outfit, cricket bat, body proportions, background, and camera angle throughout the entire video. Make the action continuous, physically believable, and as close to the reference footage as possible. Do not add a visible cricket ball unless it is present in the reference.\n\nNEGATIVE PROMPT: Cartoon, animation, unrealistic movements, extra fingers, deformed hands, distorted face, duplicate person, extra cricket bats, floating objects, changing clothes, changing background, incorrect cricket stumps, flickering, unnatural body movement, camera cuts, artificial lighting, text, subtitles, logos, and watermarks."
+        }
+      ],
+      "categoryId": "trending",
+      "type": "video",
+      "imageUrl": "https://meraprompt.com/wp-content/uploads/2026/10/IMG-20261026-WA0009.jpg",
+      "videoUrl": "https://yourimageshare.com/ib/0h2WZyMMBG.mp4",
+      "tags": [
+        "village-cricket",
+        "cricket",
+        "ai-video",
+        "google-flow",
+        "viral-video",
+        "trending",
+        "cinematic",
+        "rural-india",
+        "cricket-shot",
+        "ai-video-prompt"
+      ],
+      "difficulty": "intermediate",
+      "views": 0,
+      "isFeatured": true
+    },
+    {
+      "id": "miniature-instagram-profile-2-ai-video",
+      "title": "Miniature Instagram Profile AI Video Prompt 2026",
+      "description": "Create a trending miniature Instagram profile AI video where a tiny photorealistic version of the creator climbs out of the Instagram profile, cleans the profile, decorates it with flowers and performs aarti.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Add a standing miniature of me in front of the profile in the middle. Face intact and remove my profile pic on the background."
+        },
+        {
+          "title": "Prompt 2 · Image",
+          "text": "CHANGE THE POSE IN THIS PHOTO HE SHOULD BE HOLDING AN WHITE PUMPKIN IN HIS HAND WITH A TINY BURNING CAMPHOR ON TOP OF IT.\n\nALSO ADD GARLAND DECORATIONS ROSS THE PROFILE IN BACKGROUNI\n\nBASICALLY I AM TRYING TO CREATE AN AYUTHA POOJA SETUP or\n\nHe decorates the profile in background and decorates the floor with garlands the picks up a pumpkin and perform aarti"
+        },
+        {
+          "title": "Prompt 3 · Video",
+          "text": "Use the provided Instagram profile screenshot as the exact starting frame. The real character shown in the profile picture comes alive inside the circular DP, climbs out of the profile photo, and physically steps onto the Instagram screen, becoming a tiny, photorealistic miniature version of himself.\n\nACTION SEQUENCE — FOLLOW THIS ORDER EXACTLY:\n\nStep 1: Climb out of the DP. The character visibly emerges from INSIDE the circular profile picture, crosses the circular boundary, and carefully steps onto the Instagram interface. Keep his face, hairstyle, outfit, body build, and identity consistent with the original character.\n\nStep 2: Clean the follower count FIRST. The miniature character walks toward the follower count beside the profile picture. He takes a small cleaning cloth out of his pocket, unfolds it naturally, and carefully wipes away the existing follower NUMBER only. Make sure he cleans the actual number above the word “followers,” NOT the bio. The number disappears completely, leaving a clean blank space. Keep the word “followers” unchanged.\n\nStep 3: Clean the bio SECOND. After finishing the follower count, he moves down to the bio text below the profile statistics. Using the same cloth, he carefully wipes away the bio text until it disappears. Do not clean any other text or profile elements.\n\nStep 4: Final pose. After cleaning both areas, he lowers the cloth, steps beside the profile information, and stands confidently facing the camera. He does not write anything or replace any text.\n\nCAMERA AND MOVEMENT: One continuous, seamless take. Start with the full original screenshot. Keep the camera locked and stable, with no camera movement, no zoom, and no sudden reframing. All movement comes from the miniature character. His walking, reaching, unfolding the cloth, wiping, and final pose must be smooth, natural, and physically believable.\n\nREALISM AND CHARACTER CONSISTENCY: Photorealistic miniature human, natural anatomy, realistic body weight and proportions, accurate facial identity, natural hand movements, believable cloth-to-screen contact, realistic shadows, consistent lighting, and correct perspective. Keep the character's original body build; do not make him look skinny, stretched, or distorted.\n\nSTRICT RULES:\nClean the follower number FIRST.\nClean the bio SECOND.\nUse the cloth to wipe both areas.\nDo not use a marker.\nDo not write a new number or replacement text.\nDo not accidentally wipe the word “followers” or any other profile elements.\nPreserve the username, profile picture, buttons, highlights, and post thumbnails.\nNo cuts, no transitions, no motion graphics, no artificial overlays, no duplicated character, no flickering, and no body morphing.\n\nThe final result should look like a real miniature version of the original person climbing out of his own Instagram DP and physically cleaning the follower count first and the bio second in one smooth, uninterrupted shot."
+        },
+        {
+          "title": "Prompt 4 · Video",
+          "text": "Use the final frame of the first video as the exact starting frame. Continue seamlessly with the same miniature man standing beside his Instagram profile.\n\nSCENE 2 — AYUDHA POOJA DECORATION AND AARTI\n\nSTEP 1 — DECORATE THE PROFILE: The miniature man picks up fresh orange and yellow marigold garlands mixed with white jasmine flowers. He carefully hangs the garlands across the TOP and SIDES of the large Instagram profile in the background. He uses both hands to arrange the flowers neatly around the profile frame, making it look like a beautifully decorated Ayudha Pooja shrine. He does NOT put any garland around his own neck.\n\nSTEP 2 — DECORATE THE FLOOR: He walks to the bottom of the Instagram profile and decorates the floor with colorful flower garlands and loose flower petals. He carefully arranges the flowers around the base of the profile and places traditional glowing brass oil lamps on both sides. All decorations are placed through realistic physical movements.\n\nSTEP 3 — PICK UP THE WHITE PUMPKIN: After finishing the decorations, he picks up a white pumpkin with both hands. A tiny piece of burning camphor rests on top, producing a natural golden flame and delicate smoke. He holds the pumpkin securely at chest height and faces the decorated Instagram profile.\n\nSTEP 4 — PERFORM AARTI: He respectfully performs aarti in front of the fully decorated Instagram profile, moving the pumpkin in gentle, controlled circular motions. The camphor flame flickers naturally, and thin smoke rises softly. His expression is calm and devotional.\n\nCAMERA: Continue from the previous video's exact ending position. Use one continuous, smooth cinematic take with gentle, stabilized camera movement. Keep the man and the Instagram profile visible. No sudden zooms, shaking, abrupt reframing, or cuts.\n\nREALISM: Maintain the original face, hairstyle, brown shirt, beige cargo pants, white sneakers, and natural body build. Realistic hands, natural walking, believable flower placement, accurate shadows, realistic fire and smoke, and consistent lighting.\n\nSTRICT RULES: The man decorates ONLY the Instagram profile and the floor with flower garlands. He NEVER wears a garland himself. He does not put flowers around his neck. The white pumpkin is used only for performing aarti in front of the decorated profile. Do not change the Instagram interface or character identity. No teleportation, no sudden appearance of objects, no duplicated limbs, no artificial overlays, and no motion graphics.\n\nFINAL FRAME: The Instagram profile is richly decorated with flower garlands, the floor is covered with colorful flowers, brass lamps glow warmly, and the man performs aarti with the white pumpkin and burning camphor in front of the completed Ayudha Pooja setup."
+        }
+      ],
+      "categoryId": "trending",
+      "type": "video",
+      "imageUrl": "https://meraprompt.com/wp-content/uploads/2026/10/IMG-20261021-WA0011.jpg",
+      "videoUrl": "https://yourimageshare.com/ib/TekKWkLUyK.mp4",
+      "tags": [
+        "miniature",
+        "instagram",
+        "aarti",
+        "ayudha-pooja",
+        "ai-video",
+        "google-flow",
+        "viral-video",
+        "trending",
+        "photorealistic",
+        "ai-image",
+        "profile"
+      ],
+      "difficulty": "intermediate",
+      "views": 0,
+      "isFeatured": true
+    },
+    {
+      "id": "miniature-instagram-profile-ai-video",
+      "title": "Miniature Instagram Profile AI Video Prompt 2026",
+      "description": "Create a trending miniature Instagram profile AI video where a tiny photorealistic version of the creator climbs out of the Instagram profile, cleans the profile, decorates it with flowers and performs aarti.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Add a standing miniature of me in front of the profile in the middle. Face intact and remove my profile pic on the background."
+        },
+        {
+          "title": "Prompt 2 · Image",
+          "text": "CHANGE THE POSE IN THIS PHOTO HE SHOULD BE HOLDING AN WHITE PUMPKIN IN HIS HAND WITH A TINY BURNING CAMPHOR ON TOP OF IT.\n\nALSO ADD GARLAND DECORATIONS ROSS THE PROFILE IN BACKGROUNI\n\nBASICALLY I AM TRYING TO CREATE AN AYUTHA POOJA SETUP or\n\nHe decorates the profile in background and decorates the floor with garlands the picks up a pumpkin and perform aarti"
+        },
+        {
+          "title": "Prompt 3 · Video",
+          "text": "Use the provided Instagram profile screenshot as the exact starting frame. The real character shown in the profile picture comes alive inside the circular DP, climbs out of the profile photo, and physically steps onto the Instagram screen, becoming a tiny, photorealistic miniature version of himself.\n\nACTION SEQUENCE — FOLLOW THIS ORDER EXACTLY:\n\nStep 1: Climb out of the DP. The character visibly emerges from INSIDE the circular profile picture, crosses the circular boundary, and carefully steps onto the Instagram interface. Keep his face, hairstyle, outfit, body build, and identity consistent with the original character.\n\nStep 2: Clean the follower count FIRST. The miniature character walks toward the follower count beside the profile picture. He takes a small cleaning cloth out of his pocket, unfolds it naturally, and carefully wipes away the existing follower NUMBER only. Make sure he cleans the actual number above the word “followers,” NOT the bio. The number disappears completely, leaving a clean blank space. Keep the word “followers” unchanged.\n\nStep 3: Clean the bio SECOND. After finishing the follower count, he moves down to the bio text below the profile statistics. Using the same cloth, he carefully wipes away the bio text until it disappears. Do not clean any other text or profile elements.\n\nStep 4: Final pose. After cleaning both areas, he lowers the cloth, steps beside the profile information, and stands confidently facing the camera. He does not write anything or replace any text.\n\nCAMERA AND MOVEMENT: One continuous, seamless take. Start with the full original screenshot. Keep the camera locked and stable, with no camera movement, no zoom, and no sudden reframing. All movement comes from the miniature character. His walking, reaching, unfolding the cloth, wiping, and final pose must be smooth, natural, and physically believable.\n\nREALISM AND CHARACTER CONSISTENCY: Photorealistic miniature human, natural anatomy, realistic body weight and proportions, accurate facial identity, natural hand movements, believable cloth-to-screen contact, realistic shadows, consistent lighting, and correct perspective. Keep the character's original body build; do not make him look skinny, stretched, or distorted.\n\nSTRICT RULES:\nClean the follower number FIRST.\nClean the bio SECOND.\nUse the cloth to wipe both areas.\nDo not use a marker.\nDo not write a new number or replacement text.\nDo not accidentally wipe the word “followers” or any other profile elements.\nPreserve the username, profile picture, buttons, highlights, and post thumbnails.\nNo cuts, no transitions, no motion graphics, no artificial overlays, no duplicated character, no flickering, and no body morphing.\n\nThe final result should look like a real miniature version of the original person climbing out of his own Instagram DP and physically cleaning the follower count first and the bio second in one smooth, uninterrupted shot."
+        },
+        {
+          "title": "Prompt 4 · Video",
+          "text": "Use the final frame of the first video as the exact starting frame. Continue seamlessly with the same miniature man standing beside his Instagram profile.\n\nSCENE 2 — AYUDHA POOJA DECORATION AND AARTI\n\nSTEP 1 — DECORATE THE PROFILE: The miniature man picks up fresh orange and yellow marigold garlands mixed with white jasmine flowers. He carefully hangs the garlands across the TOP and SIDES of the large Instagram profile in the background. He uses both hands to arrange the flowers neatly around the profile frame, making it look like a beautifully decorated Ayudha Pooja shrine. He does NOT put any garland around his own neck.\n\nSTEP 2 — DECORATE THE FLOOR: He walks to the bottom of the Instagram profile and decorates the floor with colorful flower garlands and loose flower petals. He carefully arranges the flowers around the base of the profile and places traditional glowing brass oil lamps on both sides. All decorations are placed through realistic physical movements.\n\nSTEP 3 — PICK UP THE WHITE PUMPKIN: After finishing the decorations, he picks up a white pumpkin with both hands. A tiny piece of burning camphor rests on top, producing a natural golden flame and delicate smoke. He holds the pumpkin securely at chest height and faces the decorated Instagram profile.\n\nSTEP 4 — PERFORM AARTI: He respectfully performs aarti in front of the fully decorated Instagram profile, moving the pumpkin in gentle, controlled circular motions. The camphor flame flickers naturally, and thin smoke rises softly. His expression is calm and devotional.\n\nCAMERA: Continue from the previous video's exact ending position. Use one continuous, smooth cinematic take with gentle, stabilized camera movement. Keep the man and the Instagram profile visible. No sudden zooms, shaking, abrupt reframing, or cuts.\n\nREALISM: Maintain the original face, hairstyle, brown shirt, beige cargo pants, white sneakers, and natural body build. Realistic hands, natural walking, believable flower placement, accurate shadows, realistic fire and smoke, and consistent lighting.\n\nSTRICT RULES: The man decorates ONLY the Instagram profile and the floor with flower garlands. He NEVER wears a garland himself. He does not put flowers around his neck. The white pumpkin is used only for performing aarti in front of the decorated profile. Do not change the Instagram interface or character identity. No teleportation, no sudden appearance of objects, no duplicated limbs, no artificial overlays, and no motion graphics.\n\nFINAL FRAME: The Instagram profile is richly decorated with flower garlands, the floor is covered with colorful flowers, brass lamps glow warmly, and the man performs aarti with the white pumpkin and burning camphor in front of the completed Ayudha Pooja setup."
+        }
+      ],
+      "categoryId": "trending",
+      "type": "video",
+      "imageUrl": "https://meraprompt.com/wp-content/uploads/2026/10/IMG-20261021-WA0011.jpg",
+      "videoUrl": "https://yourimageshare.com/ib/jzfePHnWwH.mp4",
+      "tags": [
+        "miniature",
+        "instagram",
+        "aarti",
+        "ayudha-pooja",
+        "ai-video",
+        "google-flow",
+        "viral-video",
+        "trending",
+        "photorealistic",
+        "ai-image",
+        "profile"
+      ],
+      "difficulty": "intermediate",
+      "views": 0,
+      "isFeatured": true
+    },
+    {
+      "id": "meri-nas-nas-mein-trending-ai-video",
+      "title": "Meri Nas Nas Mein Trending AI Video: Create in Google Flow",
+      "description": "Create the viral Meri Nas Nas Mein AI video in Google Flow using a fist and forearm reference image, glowing veins, a cinematic biological tunnel, and customizable 3D initials.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Create a cinematic, ultra-realistic visual-effects video using the uploaded hand image as the exact visual reference.\n\nDURATION: 10 seconds.\nFORMAT: Vertical 9:16.\nSTYLE: Photorealistic hand combined with cinematic red-orange sci-fi biological visual effects.\n\nCUSTOMIZABLE LETTER:\nThe letter to display throughout the internal tunnel is: [ENTER YOUR LETTER HERE]\nReplace [ENTER YOUR LETTER HERE] with any single English alphabet letter, such as A, R, P, S, or M. Use the selected letter consistently throughout the video.\n\nHAND AND ARM:\nUse the uploaded image as the exact reference for the hand and arm. Preserve the original skin tone, hand shape, finger positions, wrist, visible arm hair, sleeve, clothing, wristwatch, and background. Do not replace the hand with a different hand. Keep the original fist position and wristwatch design consistent with the uploaded image.\n\nSCENE AND ACTION:\n0–2 SECONDS — ORIGINAL HAND:\nShow the uploaded hand and forearm in the same position as the reference image. The fist remains closed and the wristwatch is clearly visible. Keep the original background and natural lighting. A faint red glow begins appearing beneath the wristwatch. Thin, branching red-orange luminous lines gradually emerge from the wrist and spread along the forearm.\n\n2–4 SECONDS — GLOWING VEINS:\nThe glowing branches extend across the forearm in a symmetrical, tree-like network. The lines have bright red-orange cores, soft luminous edges, and tiny sparkling particles. Make the effect look like fictional cinematic energy travelling beneath the skin. Keep the skin intact and realistic, without wounds, blood, or damage. The glow becomes brighter and pulses gently.\n\n4–5 SECONDS — CAMERA PUSH-IN:\nThe camera smoothly moves closer to the glowing branches on the wrist and forearm. Follow one bright branch as it expands across the frame. Transition seamlessly from the real forearm into a fully CGI microscopic tunnel. The transition should feel like the camera is travelling inside a glowing biological pathway.\n\n5–7 SECONDS — INTERNAL TUNNEL:\nReveal a deep red-orange, three-dimensional tunnel inspired by a microscopic biological environment. The tunnel contains flowing translucent orange strands, circular wave patterns, glowing particles, and tiny floating sparks. The environment feels immersive, futuristic, and cinematic. The camera travels forward continuously through the tunnel with smooth depth and realistic parallax.\n\n7–10 SECONDS — FLOATING LETTERS:\nIntroduce the selected letter [ENTER YOUR LETTER HERE] inside the tunnel. Multiple copies of this exact letter appear at different distances and sizes, floating and slowly rotating in three-dimensional space. The letters have luminous pale-orange outlines, subtle golden highlights, and a soft glow that matches the surrounding environment. Some letters drift past the camera in the foreground while others remain deeper inside the tunnel. The camera continues travelling forward, creating a strong sense of depth and motion.\n\nKeep every letter readable and correctly shaped. Do not substitute other letters, numbers, words, or symbols.\n\nCAMERA:\nBegin with a close view of the original hand. Gradually push toward the wrist, follow the glowing branches, and transition into a continuous forward-moving tunnel shot. Use smooth cinematic motion, realistic depth of field, and natural motion blur. Avoid sudden cuts, shaking, or random camera movements.\n\nLIGHTING AND VISUAL EFFECTS:\nUse rich red and orange illumination, glowing vein-like branches, volumetric light, floating particles, subtle reflections, and cinematic contrast. Keep the opening hand realistic. Make the internal tunnel fully computer-generated and visually immersive.\n\nAUDIO:\nUse cinematic electronic ambience with a deep atmospheric hum, a rising energy sound during the glowing effect, and a smooth futuristic whoosh during the tunnel transition. Keep the sound synchronized with the visual changes. No dialogue or voice-over.\n\nSTRICT RULES:\n- Use the uploaded hand image as the original hand reference.\n- Preserve the hand, wristwatch, clothing, and original background during the opening.\n- Keep the fist closed and the hand shape consistent.\n- The glowing effect must look fictional and cinematic.\n- Transition smoothly from the forearm into the CGI tunnel.\n- Use only the selected customizable letter.\n- Keep the letter consistent throughout the tunnel.\n- No additional words, captions, subtitles, or watermarks.\n- No blood, wounds, or damaged skin.\n- No unrelated scenes or objects.\n\nFINAL RESULT:\nA cinematic transformation from the uploaded hand into a glowing red-orange internal tunnel filled with floating, luminous 3D copies of the user's selected letter."
+        }
+      ],
+      "categoryId": "trending",
+      "type": "video",
+      "imageUrl": "https://meraprompt.com/wp-content/uploads/2026/10/1000466393.jpg",
+      "videoUrl": "https://yourimageshare.com/ib/xRloG88ctV.mp4",
+      "tags": [
+        "meri-nas-nas-mein",
+        "trending-ai-video",
+        "google-flow",
+        "ai-video",
+        "viral-video",
+        "cinematic",
+        "glowing-veins",
+        "vfx",
+        "ai-video-prompt"
+      ],
+      "difficulty": "intermediate",
+      "views": 0,
+      "isFeatured": true
+    },
     {
       "id": "gujarati-garba-night-portrait",
       "title": "Video Added || Ultra-Realistic Cinematic Gujarati Garba Night Portrait",
