@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "version": 10,
+  "version": 11,
   "updatedAt": "2026-10-27T03:29:13Z",
   "categories": [
     {
@@ -59,7 +59,7 @@
       ],
       "difficulty": "intermediate",
       "views": 0,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "miniature-instagram-profile-2-ai-video",
@@ -86,7 +86,7 @@
       ],
       "categoryId": "trending",
       "type": "video",
-      "imageUrl": "https://meraprompt.com/wp-content/uploads/2026/10/IMG-20261021-WA0011.jpg",
+      "imageUrl": "https://meraprompt.com/wp-content/uploads/2026/10/1000466393.jpg",
       "videoUrl": "https://yourimageshare.com/ib/TekKWkLUyK.mp4",
       "tags": [
         "miniature",
@@ -103,7 +103,7 @@
       ],
       "difficulty": "intermediate",
       "views": 0,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "miniature-instagram-profile-ai-video",
@@ -147,7 +147,7 @@
       ],
       "difficulty": "intermediate",
       "views": 0,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "meri-nas-nas-mein-trending-ai-video",
@@ -162,7 +162,7 @@
       ],
       "categoryId": "trending",
       "type": "video",
-      "imageUrl": "https://meraprompt.com/wp-content/uploads/2026/10/1000466393.jpg",
+      "imageUrl": "https://meraprompt.com/wp-content/uploads/2026/10/IMG-20261026-WA0005.jpg",
       "videoUrl": "https://yourimageshare.com/ib/xRloG88ctV.mp4",
       "tags": [
         "meri-nas-nas-mein",
@@ -177,7 +177,7 @@
       ],
       "difficulty": "intermediate",
       "views": 0,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "gujarati-garba-night-portrait",
