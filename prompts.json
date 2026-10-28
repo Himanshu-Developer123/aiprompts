@@ -1,12 +1,12 @@
 {
   "schemaVersion": 3,
-  "version": 12,
-  "updatedAt": "2026-10-27T17:56:03Z",
+  "version": 14,
+  "updatedAt": "2026-10-28T04:37:04Z",
   "categories": [
     {
       "id": "trending",
       "name": "Trending",
-      "icon": "trending"
+      "icon": "🇮🇳"
     },
     {
       "id": "couple",
