@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "version": 20,
+  "version": 21,
   "updatedAt": "2026-10-28T04:37:04Z",
   "categories": [
     {
@@ -41,7 +41,7 @@
     {
       "id": "village",
       "name": "Village",
-      "icon": "https://newpromptai.com/wp-content/uploads/2026/05/AI-edited-village-life-image-using-Gemini-showing-daily-rural-activities-576x1024.jpg"
+      "icon": "https://cdn.leonardo.ai/users/bfe60ac2-4fa6-4829-8f6f-98e0774ee9e3/generations/1f174fc9-ea88-61a0-b1cb-cf05ad271435/lucid-origin_Ultra_realistic_rural_Bangladesh_village_adult_male_macaque_monkey_wearing_faded-0.jpg"
     },
     {
       "id": "bollywood",
@@ -66,17 +66,17 @@
     {
       "id": "comedy",
       "name": "Comedy",
-      "icon": "https://img.icons8.com/color/96/lol.png"
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnkrtBylq61YJbIl2Xu8NJCGJWp0V9EOzwf-3V7GAGLdCbibszKLfCH-5&s=10"
     },
     {
       "id": "fashion",
       "name": "Fashion",
-      "icon": "https://img.icons8.com/color/96/fashion.png"
+      "icon": "https://api.visulora.in/storage/v1/object/public/prompt-images/prompts/ai-fashion-poster-prompt-mustard-monochrome-style-xlq5p-1792210444553.webp"
     },
     {
       "id": "cars-bikes",
       "name": "Cars / Bikes",
-      "icon": "https://img.icons8.com/color/96/car.png"
+      "icon": "https://cdn.faymas.in/prompt_outputs/ee42e35a-107a-4cfb-a43f-1e0e55614744/288f3ae1-1303-47e1-b07f-8994a98c641a.webp"
     },
     {
       "id": "horror",
@@ -86,7 +86,7 @@
     {
       "id": "travel",
       "name": "Travel",
-      "icon": "https://img.icons8.com/color/96/around-the-globe.png"
+      "icon": "https://indiater.com/uploads/Gemini/indian-travel-portrait-ai-prompt-cinematic-tourism-photography-51-1783236621.jpeg"
     },
     {
       "id": "animals",
@@ -96,12 +96,12 @@
     {
       "id": "anime",
       "name": "Anime",
-      "icon": "https://img.icons8.com/color/96/anime.png"
+      "icon": "https://img.promptplum.com/cdn-cgi/image/q=78,scq=50,width=1400,height=1400,fit=contain,f=auto/promptImages/db6fdcfe-b61f-4731-9c35-421b291b6d5c.jpeg"
     },
     {
       "id": "product-ads",
       "name": "Product Ads",
-      "icon": "https://img.icons8.com/color/96/shopping-bag.png"
+      "icon": "https://pub-4b357c66dbaa4e43b29f31db5d2d0d8e.r2.dev/hookads-site-images/thumb/content-images/prompts/excel/774_1.jpg.webp"
     },
     {
       "id": "ai-influencer",
