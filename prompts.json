@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "version": 19,
+  "version": 20,
   "updatedAt": "2026-10-28T04:37:04Z",
   "categories": [
     {
@@ -11,22 +11,147 @@
     {
       "id": "diwali",
       "name": "Diwali",
-      "icon": "https://i.ibb.co/YFnxY400/Pngtree-colorful-diwali-celebration-with-lights-18356944.png"
+      "icon": "https://geminiguru.in/images/posts/diwali-photo-prompts-gemini-4-sparkler-night.jpeg"
     },
     {
-      "id": "kids",
-      "name": "Kids",
-      "icon": "kids"
+      "id": "spiritual-devotional",
+      "name": "Spiritual / Devotional",
+      "icon": "https://aieditingbank.com/wp-content/uploads/2026/02/1000109849.webp"
+    },
+    {
+      "id": "couple",
+      "name": "Couple",
+      "icon": "https://img.promptplum.com/cdn-cgi/image/q=78,scq=50,width=768,height=951,fit=cover,f=auto/promptImages/IMG_20251124_230907.jpg"
     },
     {
       "id": "men",
       "name": "Men",
-      "icon": "men"
+      "icon": "https://cdn.faymas.in/prompt_outputs/e5781656-b2dc-415f-b0c3-55c6c235f93d/b067bb69-c8da-4c70-b8ac-c2999ad369ed.webp"
     },
     {
       "id": "women",
       "name": "Women",
-      "icon": "women"
+      "icon": "https://art8ai.com/wp-content/uploads/2026/06/traditional-woman-in-green-saree-gemini-prompt.webp"
+    },
+    {
+      "id": "kids",
+      "name": "Kids",
+      "icon": "https://static-third-res.wondershare.cc/Media_io/aicommunity/thumbs/static/s0/63cacaf8ea28986a2bc4ed9ae8456656.jpg"
+    },
+    {
+      "id": "village",
+      "name": "Village",
+      "icon": "https://newpromptai.com/wp-content/uploads/2026/05/AI-edited-village-life-image-using-Gemini-showing-daily-rural-activities-576x1024.jpg"
+    },
+    {
+      "id": "bollywood",
+      "name": "Bollywood",
+      "icon": "https://promptsmint.com/images/photo-with-akshay-kumar/photo-with-akshay-kumar-1-optimized.webp"
+    },
+    {
+      "id": "wedding",
+      "name": "Wedding",
+      "icon": "https://promptseen.pk/wp-content/uploads/2026/10/p4a.webp"
+    },
+    {
+      "id": "cricket",
+      "name": "Cricket",
+      "icon": "https://images.tenorshare.ai/article/diagrimo/cricket-prompt-for-gemini-3.jpg"
+    },
+    {
+      "id": "festivals",
+      "name": "Festivals",
+      "icon": "https://aieditingbank.com/wp-content/uploads/2026/02/remix-idea-1770825606282.webp"
+    },
+    {
+      "id": "comedy",
+      "name": "Comedy",
+      "icon": "https://img.icons8.com/color/96/lol.png"
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "icon": "https://img.icons8.com/color/96/fashion.png"
+    },
+    {
+      "id": "cars-bikes",
+      "name": "Cars / Bikes",
+      "icon": "https://img.icons8.com/color/96/car.png"
+    },
+    {
+      "id": "horror",
+      "name": "Horror",
+      "icon": "https://img.icons8.com/color/96/ghost.png"
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "icon": "https://img.icons8.com/color/96/around-the-globe.png"
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "icon": "https://img.icons8.com/color/96/animal-shelter.png"
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "icon": "https://img.icons8.com/color/96/anime.png"
+    },
+    {
+      "id": "product-ads",
+      "name": "Product Ads",
+      "icon": "https://img.icons8.com/color/96/shopping-bag.png"
+    },
+    {
+      "id": "ai-influencer",
+      "name": "AI Influencer",
+      "icon": "https://img.icons8.com/color/96/artificial-intelligence.png"
+    },
+    {
+      "id": "storytelling",
+      "name": "Stories",
+      "icon": "https://images.media.io/media-ai/zone/card/fruit1.png"
+    },
+    {
+      "id": "historical",
+      "name": "Historical",
+      "icon": "https://cdn2-static.magiclight.ai/intlt/uploads/1780479248_/static/images/2026-06-03T09-28-56-907Z-vkvoct.webp"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "icon": "https://cdn.prod.website-files.com/6295808d44499cde2ba36c71/69ccb070f2a0311372c137d9_Screenshot%202026-03-31%20at%2010.43.06%E2%80%AFPM.webp"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-i1uZ4YDOEju6kxthsd35xv-yRQxIRmlY2VVGC_0PlRevG3VxzeVxw-2&s=10"
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OMbjRnDPm7TsjJFztbBbmpMcVymH2B12SBzUqrC5ha3OLBv4NIcATvKR&s=10"
+    },
+    {
+      "id": "luxury-lifestyle",
+      "name": "Luxury Lifestyle",
+      "icon": "https://cdn.faymas.in/prompt_outputs/0c77b04c-f060-4550-88d6-a8366eb3dee3/f19478f6-732f-4e9e-b786-629b88faa3ab.webp"
+    },
+    {
+      "id": "ai-vlogging",
+      "name": "AI Vlogging",
+      "icon": "https://images.media.io/ai-bigfoot/banner.png"
+    },
+    {
+      "id": "superhero",
+      "name": "Superhero",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NXXBSXZ8T2Q-Q1owTsQS41OGZLEhq3nFEIlNcDGYUYlYoJxZv3Sz0qcK&s=10"
+    },
+    {
+      "id": "mythology",
+      "name": "Mythology",
+      "icon": "https://images.media.io/ai-effects/narasimha-jayanti-ai-photo-prompt-1.png"
     }
   ],
   "prompts": [
