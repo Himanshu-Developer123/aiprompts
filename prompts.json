@@ -1,7 +1,7 @@
 {
   "schemaVersion": 5,
-  "version": 27,
-  "updatedAt": "2026-10-31T11:45:00Z",
+  "version": 28,
+  "updatedAt": "2026-10-31T13:20:00Z",
   "categories": [
     {
       "id": "trending",
@@ -1625,35 +1625,6 @@
       "isFeatured": false
     },
     {
-      "id": "gujarati-garba-night-portrait",
-      "title": "Video Added || Ultra-Realistic Cinematic Gujarati Garba Night Portrait",
-      "description": "Create a cinematic, photorealistic Gujarati Navratri portrait featuring traditional mirror-work clothing, oxidized silver jewelry, colorful festival lights, and an authentic Garba-night atmosphere.",
-      "content": "Create an ultra-realistic, high-resolution portrait of an adult Indian woman at a vibrant Navratri Garba celebration. Use the uploaded reference image to guide the pose, outfit, jewelry, expression, and festive setting.\n\nSUBJECT & EXPRESSION: Feature long, dark brown-black hair in a loose half-up style with a center part and soft face-framing strands. Add expressive dark eyes, subtle winged eyeliner, naturally glowing skin, rosy cheeks, and glossy pink lips. Give her a playful, confident expression while maintaining natural facial proportions and realistic skin texture.\n\nTRADITIONAL OUTFIT: Dress her in a colorful Gujarati chaniya choli. The fitted black blouse should feature intricate turquoise, pink, white, red, and yellow embroidery, traditional geometric patterns, mirror work, decorative borders, and delicate shell embellishments. Pair it with a richly patterned red, black, and yellow lehenga with ornamental mirror details. Add a royal-blue dupatta draped over one shoulder and flowing naturally along her side.\n\nJEWELRY & ACCESSORIES: Include an elaborate oxidized-silver choker with dangling ornaments, layered necklaces, large traditional earrings, chunky silver bangles, and statement ethnic pendants. Make the metalwork detailed and realistically reflective under the festival lights.\n\nPOSE & COMPOSITION: Capture a close three-quarter to mid-thigh portrait in a vertical 9:16 composition. Raise one arm and bend it near the face, with the chin resting lightly against the hand. Keep the other hand naturally positioned near the waist and let the blue dupatta cascade down the side. Ensure believable anatomy, natural hands, and realistic body proportions.\n\nBACKGROUND & ATMOSPHERE: Set the scene outdoors at a lively Gujarati Navratri Garba event at night. Include a colorful crowd wearing traditional Indian clothing, bright overhead festival lights, a vibrant green dance floor, and softly blurred dancers. Create realistic nighttime shadows, warm highlights, and natural background depth.\n\nPHOTOGRAPHIC STYLE: Use photorealistic Indian ethnic fashion photography, crisp subject focus, natural skin texture, detailed mirror-work embroidery, realistic silver jewelry, warm festival illumination, balanced exposure, cinematic color grading, and a natural smartphone-camera aesthetic. Render fine details at high resolution with a vertical 9:16 aspect ratio.\n\nNEGATIVE PROMPT: Avoid cartoon or anime styles, illustrations, plastic-looking skin, excessive facial smoothing, distorted facial features, unnatural body proportions, deformed hands, extra or missing fingers, duplicated jewelry, unrealistic fabric, oversaturated colors, blurred subjects, harsh artificial flash, low resolution, text, watermarks, and logos.",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Create an ultra-realistic, high-resolution portrait of an adult Indian woman at a vibrant Navratri Garba celebration. Use the uploaded reference image to guide the pose, outfit, jewelry, expression, and festive setting.\n\nSUBJECT & EXPRESSION: Feature long, dark brown-black hair in a loose half-up style with a center part and soft face-framing strands. Add expressive dark eyes, subtle winged eyeliner, naturally glowing skin, rosy cheeks, and glossy pink lips. Give her a playful, confident expression while maintaining natural facial proportions and realistic skin texture.\n\nTRADITIONAL OUTFIT: Dress her in a colorful Gujarati chaniya choli. The fitted black blouse should feature intricate turquoise, pink, white, red, and yellow embroidery, traditional geometric patterns, mirror work, decorative borders, and delicate shell embellishments. Pair it with a richly patterned red, black, and yellow lehenga with ornamental mirror details. Add a royal-blue dupatta draped over one shoulder and flowing naturally along her side.\n\nJEWELRY & ACCESSORIES: Include an elaborate oxidized-silver choker with dangling ornaments, layered necklaces, large traditional earrings, chunky silver bangles, and statement ethnic pendants. Make the metalwork detailed and realistically reflective under the festival lights.\n\nPOSE & COMPOSITION: Capture a close three-quarter to mid-thigh portrait in a vertical 9:16 composition. Raise one arm and bend it near the face, with the chin resting lightly against the hand. Keep the other hand naturally positioned near the waist and let the blue dupatta cascade down the side. Ensure believable anatomy, natural hands, and realistic body proportions.\n\nBACKGROUND & ATMOSPHERE: Set the scene outdoors at a lively Gujarati Navratri Garba event at night. Include a colorful crowd wearing traditional Indian clothing, bright overhead festival lights, a vibrant green dance floor, and softly blurred dancers. Create realistic nighttime shadows, warm highlights, and natural background depth.\n\nPHOTOGRAPHIC STYLE: Use photorealistic Indian ethnic fashion photography, crisp subject focus, natural skin texture, detailed mirror-work embroidery, realistic silver jewelry, warm festival illumination, balanced exposure, cinematic color grading, and a natural smartphone-camera aesthetic. Render fine details at high resolution with a vertical 9:16 aspect ratio.\n\nNEGATIVE PROMPT: Avoid cartoon or anime styles, illustrations, plastic-looking skin, excessive facial smoothing, distorted facial features, unnatural body proportions, deformed hands, extra or missing fingers, duplicated jewelry, unrealistic fabric, oversaturated colors, blurred subjects, harsh artificial flash, low resolution, text, watermarks, and logos."
-        }
-      ],
-      "categoryId": "trending",
-      "type": "video",
-      "imageUrl": "https://cdn.faymas.in/prompt_outputs/bc7f5090-f5c4-49dd-8a14-7ebb2ee636fa/6fc09766-7883-4f42-b6a7-19ec5c027ec2.webp",
-      "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
-      "tags": [
-        "gujarati",
-        "garba",
-        "navratri",
-        "portrait",
-        "cinematic",
-        "photography",
-        "traditional-fashion",
-        "ai-image"
-      ],
-      "difficulty": "intermediate",
-      "views": 0,
-      "isFeatured": false
-    },
-    {
       "id": "bhola-pan-saadgi-girlfriend-trend-google-flow-video-prompt",
       "title": "Ai girlfriend Bhola Pan Saadgi Trend – Google Flow Video Prompt",
       "description": "A 10-second cinematic romantic couple video prompt for Google Flow: slow-motion entry, hair gather, hand reach and a 360° twirl in one continuous shot.",
@@ -1665,7 +1636,7 @@
         }
       ],
       "categoryId": "trending",
-      "imageUrl": "https://vseditor01.in/wp-content/uploads/2026/10/file_000000002f848211835782a105e7c868.avif",
+      "imageUrl": "https://yourimageshare.com/ib/HNk3h3HPEV.png",
       "videoUrl": "https://yourimageshare.com/ib/zrWIsHLXPr.mp4",
       "tags": [
         "Couple",
@@ -1694,7 +1665,7 @@
         }
       ],
       "categoryId": "trending",
-      "imageUrl": "",
+      "imageUrl": "https://yourimageshare.com/ib/0bdrb9DVOy.png",
       "videoUrl": "https://yourimageshare.com/ib/UIerDkgXW7.mp4",
       "tags": [
         "Drone",
@@ -1721,7 +1692,7 @@
         }
       ],
       "categoryId": "trending",
-      "imageUrl": "",
+      "imageUrl": "https://yourimageshare.com/ib/6WWiF3VFJC.png",
       "videoUrl": "https://yourimageshare.com/ib/oo6x4ChvqZ.mp4",
       "tags": [
         "Emotional",
@@ -1748,7 +1719,7 @@
         }
       ],
       "categoryId": "trending",
-      "imageUrl": "",
+      "imageUrl": "https://yourimageshare.com/ib/lbLqrypbYY.png",
       "videoUrl": "https://yourimageshare.com/ib/qehBx9npk8.mp4",
       "tags": [
         "Emotional",
@@ -1775,7 +1746,7 @@
         }
       ],
       "categoryId": "trending",
-      "imageUrl": "",
+      "imageUrl": "https://yourimageshare.com/ib/Sdc3hZY1fv.png",
       "videoUrl": "https://yourimageshare.com/ib/PbKc7qWePN.mp4",
       "tags": [
         "Luxury",
