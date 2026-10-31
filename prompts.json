@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "version": 25,
+  "version": 26,
   "updatedAt": "2026-10-28T04:37:04Z",
   "categories": [
     {
@@ -155,500 +155,6 @@
     }
   ],
   "prompts": [
-    {
-      "id": "red-sequin-saree-diwali-candle-glow",
-      "title": "Red Sequin Saree Diwali Candle Glow",
-      "description": "A cozy top-down Diwali portrait of a woman in a red sequin saree arranging tealight candles around a brass urli.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with natural skin tone and expression and no beautifying or reshaping. Show her in a red sequin saree with a sleeveless blouse, a white pearl choker and small stud earrings, sitting beside a glass table in a cozy living room. She carefully places small white tealight candles around a large brass urli bowl holding one big candle. Shot from a top-down angle, warm orange candle glow on her face, sofa and cushions softly blurred behind her, Diwali decor, cinematic moody lighting, ultra realistic, soft bokeh, 3:4 vertical."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/red-sequin-saree-diwali-look-ai-photo-prompt-for-girls.webp",
-      "tags": [
-        "Diwali",
-        "Saree",
-        "Candles",
-        "Girls",
-        "Portrait",
-        "Festival"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "diwali-bazaar-shopping-boy",
-      "title": "Diwali Bazaar Shopping Portrait for Boys",
-      "description": "A lively festive portrait of a young man browsing a traditional Diwali bazaar full of lanterns, diyas and sweets.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with natural skin tone and expression. A young man in a stylish festive kurta walks through a busy traditional Indian bazaar during Diwali, stopping at stalls piled with colorful clothes, brass lamps, paper lanterns, sweets and decorations. Warm golden string lights overhead, shoppers softly blurred behind him, vibrant festive energy. Cinematic color grading, high-resolution clarity, natural skin texture. Negative prompt: distorted face, duplicate people, cartoon look, plastic skin, watermark, text."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-market-shopping-ai-photo-prompt-for-boys.webp",
-      "tags": [
-        "Diwali",
-        "Market",
-        "Boys",
-        "Kurta",
-        "Festival",
-        "Portrait"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "diwali-night-balcony-diya-girl",
-      "title": "Diwali Night Balcony Diya Portrait for Girls",
-      "description": "A warm 9:16 night portrait of a woman in a red saree holding a glowing diya on a fairy-lit balcony.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Create an ultra-realistic 9:16 portrait of the woman in the uploaded photo, keeping her face identical to the reference with natural skin texture and a lifelike expression. She wears a red saree with a golden border and stands on a balcony at night, cupping a glowing diya in both hands. Warm yellow-orange light from the flame softly lights her face, twinkling fairy lights glow behind her, her jewelry catches the light and her hair is neatly styled. Cinematic, festive and completely realistic."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-night-diya-in-hands-ai-photo-prompt-for-girls.webp",
-      "tags": [
-        "Diwali",
-        "Diya",
-        "Saree",
-        "Girls",
-        "Balcony",
-        "Night"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "diwali-sparkler-night-boy",
-      "title": "Diwali Sparkler Night Portrait for Boys",
-      "description": "A confident young man in traditional wear holding a sparkler under golden bokeh lights on Diwali night.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with no beautifying or changes. A handsome young man in an elegant sherwani or kurta stands outdoors on Diwali night holding a lit phooljhadi sparkler. Golden bokeh fairy lights hang behind him and glowing diyas line a ledge beside him. His expression is confident and joyful, and the scene feels warm, festive and culturally rich. Realistic photography, shallow depth of field, soft golden highlights."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-sparkler-ai-photo-prompt-for-boys.webp",
-      "tags": [
-        "Diwali",
-        "Sparkler",
-        "Boys",
-        "Sherwani",
-        "Night",
-        "Festival"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "diwali-thali-maang-tikka-girl",
-      "title": "Diwali Thali and Maang Tikka Portrait",
-      "description": "A devotional festive portrait of a woman in a cream lehenga holding a brass thali of lit diyas.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Create an image of the woman from the reference photo, keeping her face exactly the same with realistic skin and expression. She sits gracefully in a cream floral lehenga with a stylish sleeveless blouse, holding a decorated brass thali of lit diyas in both hands. Head slightly tilted, soft smile, eyes toward the camera, long wavy hair styled to one side with a maang tikka, earrings, a necklace and golden bangles. Behind her are glowing fairy lights and candles in soft focus, with foreground diya bokeh. Cinematic composition, soft warm light, professional portrait quality."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/traditional-diwali-look-with-maang-tikka-ai-photo-prompt.webp",
-      "tags": [
-        "Diwali",
-        "Lehenga",
-        "Maang Tikka",
-        "Thali",
-        "Girls",
-        "Traditional"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "diwali-rangoli-making-boy",
-      "title": "Diwali Rangoli Making Scene for Boys",
-      "description": "A young man in kurta pajama creating a large rangoli outside his home under a fireworks-lit sky.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Create an image of the man in the reference photo, matching his face and features as closely as possible. He kneels in front of his house in a traditional kurta and pajama, carefully shaping a large, intricate rangoli. It is Diwali night: colorful fireworks burst in the sky and many small diyas sit around and on the rangoli, filling the scene with a warm luminous glow. Realistic, cinematic, natural skin texture."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-rangoli-making-ai-photo-prompt-for-boys.webp",
-      "tags": [
-        "Diwali",
-        "Rangoli",
-        "Boys",
-        "Kurta",
-        "Fireworks",
-        "Festival"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "red-saree-couple-diwali-balcony",
-      "title": "Couple Lighting Diyas on a Diwali Balcony",
-      "description": "A full-body seated couple portrait on a decorated balcony, lighting clay diyas together in red saree and cream kurta.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Ultra-realistic cinematic couple portrait, vertical 9:16, full body. Use both uploaded photos as identity references and preserve each face exactly, with no beautifying, blending or reshaping. A young Indian couple sits on a clean balcony floor on Diwali evening. She sits in a relaxed side-folded pose with both legs tucked to one side under her red saree with gold border; he sits cross-legged in a cream kurta with a maroon ethnic jacket. They lean toward a group of clay diyas and light one together, smiling warmly. Rows of glowing diyas, marigolds, fairy lights on the railing and a blurred city skyline behind them. Anatomically correct sitting poses, natural hands, realistic fabric folds, warm golden light on both faces, DSLR 50mm look. Negative prompt: twisted legs, extra limbs, fused bodies, deformed hands, altered faces, plastic skin."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/red-saree-couple-diwali-balcony-diya-ai-photo-prompt.webp",
-      "tags": [
-        "Diwali",
-        "Couple",
-        "Balcony",
-        "Diya",
-        "Saree",
-        "Full Body"
-      ],
-      "difficulty": "intermediate",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "boy-on-rangoli-holding-diya",
-      "title": "Boy Seated on Rangoli Holding a Diya",
-      "description": "A young man in a blue kurta sitting cross-legged on a decorative rangoli, cradling a glowing diya.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with natural skin tone and expression. A young man in a blue kurta-pajama sits cross-legged on a colorful decorative rangoli on Diwali night, holding a glowing diya in both hands. More diyas surround him on the floor, warm fairy lights glow behind him, and blurred people and distant fireworks fill the background. Warm, vibrant, realistic festive photography."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/boy-holding-diya-on-rangoli-diwali-ai-photo-prompt.webp",
-      "tags": [
-        "Diwali",
-        "Rangoli",
-        "Diya",
-        "Boys",
-        "Kurta",
-        "Night"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "diwali-street-market-diya-boy",
-      "title": "Choosing Diyas at a Diwali Street Market",
-      "description": "A young man in a cream kurta and brown jacket browsing a glowing diya stall at an evening Diwali market.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Ultra-realistic 9:16 portrait of a young man whose face matches the reference photo exactly, with natural skin tone and genuine expression. He wears a light cream kurta with a sleeveless brown jacket and stands in a busy Diwali street market in the evening, leaning slightly forward to pick diyas from a stall full of colorful lamps and decorations. Warm golden light from nearby shops, lively crowd, hanging lanterns and rich bokeh in the background. Looks like a high-end DSLR lifestyle shoot."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/cream-kurta-and-jacket-diwali-ai-photo-prompt-for-boys.webp",
-      "tags": [
-        "Diwali",
-        "Market",
-        "Boys",
-        "Kurta",
-        "Lifestyle",
-        "Evening"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "pastel-green-saree-diwali-market-girl",
-      "title": "Pastel Green Saree at a Diwali Market",
-      "description": "A woman in a pastel green saree holding a diya plate under hanging paper lanterns in a night market.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Ultra-realistic 9:16 portrait of a young woman whose face is identical to the reference image, with natural skin and hair detail. She wears a pastel green saree with minimal jewelry and stands in a lively Diwali street market at night, holding a plate of diyas in one hand while looking up at colorful paper lanterns with a soft, warm smile. Glowing lights, candles and rich bokeh behind her, warm golden tones and natural reflections. Cinematic, professional lifestyle photography look."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/pastel-green-saree-diwali-market-ai-photo-prompt-for-girls.webp",
-      "tags": [
-        "Diwali",
-        "Saree",
-        "Market",
-        "Girls",
-        "Lanterns",
-        "Night"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "yellow-saree-diwali-market-girl",
-      "title": "Yellow Designer Saree Diwali Market Look",
-      "description": "A woman in a yellow designer saree choosing diyas from a decorated market table in warm evening light.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Ultra-realistic 9:16 portrait of a young woman whose face matches the reference exactly, with realistic skin texture and a natural smile. She wears a designer yellow saree with a necklace, a wristwatch and a bracelet, standing at a Diwali market stall in the evening and thoughtfully selecting diyas from a beautifully decorated table. The glow of the diyas softly lights her face. Colorful lanterns and a softly blurred crowd behind her. Cinematic lighting, DSLR-level detail, natural depth of field."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/yellow-saree-diwali-market-ai-photo-prompt-for-girls.webp",
-      "tags": [
-        "Diwali",
-        "Saree",
-        "Market",
-        "Girls",
-        "Yellow",
-        "Evening"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "diwali-gift-exchange-couple",
-      "title": "Diwali Gift Exchange Couple Portrait",
-      "description": "A heartfelt indoor couple moment with a navy sherwani and a pink saree, exchanging a wrapped gift.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Ultra-realistic 9:16 portrait of a young couple whose faces match the reference images exactly, with lifelike detail. They stand in a living room decorated with candles, fairy lights and marigold flowers. He wears a navy-blue sherwani and hands a wrapped Diwali gift to her; she smiles warmly in a pink saree with a necklace, a watch and a bracelet. Warm ambient light, soft depth of field, a cinematic and heartfelt moment like a luxury lifestyle photoshoot."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-gift-couple-ai-photo-prompt-in-sherwani-and-saree.webp",
-      "tags": [
-        "Diwali",
-        "Couple",
-        "Sherwani",
-        "Saree",
-        "Gift",
-        "Indoor"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "diwali-sky-lantern-rooftop-boy",
-      "title": "Diwali Rooftop Sky Lantern Portrait for Boys",
-      "description": "A dreamy twilight rooftop portrait of a man in a mustard kurta holding a glowing sky lantern.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with no beautifying. A handsome young man in a mustard-yellow kurta stands on a rooftop on Diwali evening, holding a glowing sky lantern. The sky around him is filled with floating lanterns, the rooftop is strung with fairy lights and a softly lit city skyline fades into a twilight sky. Warm light on his face, cinematic and dreamy, golden-hour tones, soft depth of field, realistic photography."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/happy-diwali-sky-lantern-ai-photo-prompt-for-boys.webp",
-      "tags": [
-        "Diwali",
-        "Sky Lantern",
-        "Rooftop",
-        "Boys",
-        "Kurta",
-        "Twilight"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "chhath-puja-ghat-diya-girl",
-      "title": "Chhath Puja Ghat Evening Portrait",
-      "description": "A serene seated portrait of a woman in an ivory sari arranging diyas on the stone steps of a river ghat.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Ultra-realistic cinematic portrait, vertical 9:16. Use the uploaded photo as the face reference and preserve her face exactly, with no beautifying. An Indian woman sits naturally on broad stone steps of a river ghat during an evening Chhath festival, hips resting on one step, both legs folded gracefully to one side with her sari draped modestly over them. One hand places a clay diya on the step while the other holds a brass thali of glowing diyas and marigolds. She wears an ivory sari with delicate embroidery, a gold necklace and simple bangles, with long wavy hair over one shoulder and a peaceful expression. Other women perform rituals in the soft background, fairy lights glow, the river reflects an orange-pink sky. Warm cinematic light, subtle film grain, realistic anatomy. Negative prompt: standing pose, floating body, twisted legs, extra limbs, altered face, plastic skin, text."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/chhath-puja-ghat-diya-ai-photo-prompt-for-girls-v2.webp",
-      "tags": [
-        "Chhath Puja",
-        "Festival",
-        "Sari",
-        "Girls",
-        "Ghat",
-        "Traditional"
-      ],
-      "difficulty": "intermediate",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "couple-lighting-diyas-balcony-close",
-      "title": "Couple Lighting Diyas Together at Night",
-      "description": "An intimate seated couple portrait lighting diyas on a fairy-lit balcony, glowing in warm yellow light.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Ultra-realistic 9:16 portrait of a young couple whose faces match the reference images exactly, with natural lighting and lifelike expressions. They sit on the floor of a beautifully decorated balcony at night, gently lighting diyas together. She wears a red saree with a golden border and he wears a cream kurta with a maroon jacket. The warm yellow glow of the diyas lights their faces while fairy lights twinkle in soft bokeh behind them. Looks like a high-quality professional couple photoshoot."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/couple-lighting-diyas-together-diwali-ai-photo-prompt.webp",
-      "tags": [
-        "Diwali",
-        "Couple",
-        "Diya",
-        "Balcony",
-        "Night",
-        "Romantic"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "pink-lehenga-diwali-sparkler-girl",
-      "title": "Pink Lehenga Diwali Sparkler Celebration",
-      "description": "A joyful night portrait of a woman in a pink gold-embroidered lehenga with a sparkler, friends and fireworks behind her.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Ultra-realistic professional DSLR photo, vertical 9:16, of the young woman from the uploaded reference. Preserve her face exactly with natural skin texture and no reshaping. She stands in the foreground at an outdoor Diwali celebration at night in a vibrant pink lehenga with gold embroidery and a light pink dupatta, minimal jewelry, long dark hair, laughing naturally while holding a lit sparkler safely in one hand. Three to four friends celebrate behind her, softly out of focus, each with a distinct face and outfit and plenty of space between them. Warm fairy lights overhead, rows of diyas, pink and gold fireworks in the sky. Mid-thigh framing, 50mm f/2.8 look, sharp focus on her eyes. Negative prompt: duplicate faces, merged bodies, extra fingers, plastic skin, oversaturation, watermark, text."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/pink-lehenga-diwali-sparkler-ai-photo-prompt-for-girls.webp",
-      "tags": [
-        "Diwali",
-        "Lehenga",
-        "Sparkler",
-        "Girls",
-        "Friends",
-        "Fireworks"
-      ],
-      "difficulty": "intermediate",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "white-kurta-balcony-diya-boy",
-      "title": "White Kurta Balcony Diya Portrait for Boys",
-      "description": "A full-body Diwali portrait of a man in a white kurta pajama lighting a clay diya on his home balcony.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Use the uploaded photo as the face reference and keep the face exactly the same. A cinematic, hyper-realistic full-body photo of a handsome young Indian man with a warm smile, front-facing, in a white kurta pajama with a red-striped wristwatch, leaning casually on his balcony railing while lighting a clay diya held in his hands. Many lit diyas sit on the floor and railing, Diwali string lights glow in soft bokeh behind him, golden volumetric light, shallow depth of field, high contrast."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/white-kurta-diwali-balcony-diya-ai-photo-prompt-for-boys.webp",
-      "tags": [
-        "Diwali",
-        "Kurta",
-        "Balcony",
-        "Diya",
-        "Boys",
-        "Full Body"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "romantic-couple-silhouette-red-rim-light",
-      "title": "Romantic Couple with Giant Silhouettes and Red Rim Light",
-      "description": "A cinematic double portrait of a couple in maroon, forehead to forehead, with huge dark profile silhouettes behind them.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Use the uploaded photo as the identity reference for both people and preserve both faces exactly, without beautifying or redesigning. Create a cinematic romantic double portrait, vertical 4:5. In the foreground a couple stands close from mid-thigh up, foreheads touching, eyes softly closed, gentle smiles, his arm around her waist. Both wear deep maroon South Asian formalwear: a structured sherwani with subtle brocade for him, a wine-colored outfit with antique gold embroidery and ornate earrings for her. Behind them, two huge overlapping near-black profile silhouettes of the same pair, male facing left and female facing right, with a thin crimson rim light tracing their hair and faces. Background is textured warm off-white handmade paper. Soft key light on the couple, rich maroon, black and gold palette, fine film grain, realistic skin and fabric. No text or logos."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/romantic-couple-double-portrait-ai-photo-prompt-with-red-rim-light.webp",
-      "tags": [
-        "Couple",
-        "Romantic",
-        "Cinematic",
-        "Silhouette",
-        "Maroon",
-        "Studio"
-      ],
-      "difficulty": "advanced",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
-    {
-      "id": "white-kurta-couple-mirror-selfie",
-      "title": "White Kurta Couple Boutique Mirror Selfie",
-      "description": "A full-body mirror selfie of a couple in matching white kurtas seated on a wooden bench in a bright boutique.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Image",
-          "text": "Use the uploaded photos to preserve both faces exactly, with no changes to proportions, skin tone, hairline or beard. Create a photorealistic full-body mirror selfie, 4:5 vertical, of a young Indian couple sitting close on a wooden bench in a bright boutique-style room. He wears a white embroidered kurta with white trousers and brown sandals, a dark-strapped watch and silver bracelets, and holds a silver phone up for the selfie. She leans toward him in a white chikankari kurta with palazzo pants, long wavy hair, oxidized silver bangles, big silver earrings and a delicate gold chain. Soft even lighting, off-white walls, blue-and-white tiled floor, natural skin texture, authentic smartphone look. Negative prompt: altered faces, extra fingers, plastic skin, beauty filter, distorted clothing."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/white-kurta-couple-mirror-selfie-ai-photo-prompt.webp",
-      "tags": [
-        "Couple",
-        "Mirror Selfie",
-        "White Kurta",
-        "Chikankari",
-        "Boutique",
-        "Lifestyle"
-      ],
-      "difficulty": "intermediate",
-      "isFeatured": false,
-      "views": 0,
-      "type": "image"
-    },
     {
       "id": "dussehra-ravan-effigy-sunset-rear-view",
       "title": "Dussehra Ravan Effigies at Sunset, Rear View",
@@ -1144,6 +650,546 @@
       "type": "image"
     },
     {
+      "id": "red-sequin-saree-diwali-candle-glow",
+      "title": "Red Sequin Saree Diwali Candle Glow",
+      "description": "A cozy top-down Diwali portrait of a woman in a red sequin saree arranging tealight candles around a brass urli.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with natural skin tone and expression and no beautifying or reshaping. Show her in a red sequin saree with a sleeveless blouse, a white pearl choker and small stud earrings, sitting beside a glass table in a cozy living room. She carefully places small white tealight candles around a large brass urli bowl holding one big candle. Shot from a top-down angle, warm orange candle glow on her face, sofa and cushions softly blurred behind her, Diwali decor, cinematic moody lighting, ultra realistic, soft bokeh, 3:4 vertical."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/red-sequin-saree-diwali-look-ai-photo-prompt-for-girls.webp",
+      "tags": [
+        "Diwali",
+        "Saree",
+        "Candles",
+        "Girls",
+        "Portrait",
+        "Festival"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "diwali-bazaar-shopping-boy",
+      "title": "Diwali Bazaar Shopping Portrait for Boys",
+      "description": "A lively festive portrait of a young man browsing a traditional Diwali bazaar full of lanterns, diyas and sweets.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with natural skin tone and expression. A young man in a stylish festive kurta walks through a busy traditional Indian bazaar during Diwali, stopping at stalls piled with colorful clothes, brass lamps, paper lanterns, sweets and decorations. Warm golden string lights overhead, shoppers softly blurred behind him, vibrant festive energy. Cinematic color grading, high-resolution clarity, natural skin texture. Negative prompt: distorted face, duplicate people, cartoon look, plastic skin, watermark, text."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-market-shopping-ai-photo-prompt-for-boys.webp",
+      "tags": [
+        "Diwali",
+        "Market",
+        "Boys",
+        "Kurta",
+        "Festival",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "diwali-night-balcony-diya-girl",
+      "title": "Diwali Night Balcony Diya Portrait for Girls",
+      "description": "A warm 9:16 night portrait of a woman in a red saree holding a glowing diya on a fairy-lit balcony.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create an ultra-realistic 9:16 portrait of the woman in the uploaded photo, keeping her face identical to the reference with natural skin texture and a lifelike expression. She wears a red saree with a golden border and stands on a balcony at night, cupping a glowing diya in both hands. Warm yellow-orange light from the flame softly lights her face, twinkling fairy lights glow behind her, her jewelry catches the light and her hair is neatly styled. Cinematic, festive and completely realistic."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-night-diya-in-hands-ai-photo-prompt-for-girls.webp",
+      "tags": [
+        "Diwali",
+        "Diya",
+        "Saree",
+        "Girls",
+        "Balcony",
+        "Night"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "diwali-sparkler-night-boy",
+      "title": "Diwali Sparkler Night Portrait for Boys",
+      "description": "A confident young man in traditional wear holding a sparkler under golden bokeh lights on Diwali night.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with no beautifying or changes. A handsome young man in an elegant sherwani or kurta stands outdoors on Diwali night holding a lit phooljhadi sparkler. Golden bokeh fairy lights hang behind him and glowing diyas line a ledge beside him. His expression is confident and joyful, and the scene feels warm, festive and culturally rich. Realistic photography, shallow depth of field, soft golden highlights."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-sparkler-ai-photo-prompt-for-boys.webp",
+      "tags": [
+        "Diwali",
+        "Sparkler",
+        "Boys",
+        "Sherwani",
+        "Night",
+        "Festival"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "diwali-thali-maang-tikka-girl",
+      "title": "Diwali Thali and Maang Tikka Portrait",
+      "description": "A devotional festive portrait of a woman in a cream lehenga holding a brass thali of lit diyas.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create an image of the woman from the reference photo, keeping her face exactly the same with realistic skin and expression. She sits gracefully in a cream floral lehenga with a stylish sleeveless blouse, holding a decorated brass thali of lit diyas in both hands. Head slightly tilted, soft smile, eyes toward the camera, long wavy hair styled to one side with a maang tikka, earrings, a necklace and golden bangles. Behind her are glowing fairy lights and candles in soft focus, with foreground diya bokeh. Cinematic composition, soft warm light, professional portrait quality."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/traditional-diwali-look-with-maang-tikka-ai-photo-prompt.webp",
+      "tags": [
+        "Diwali",
+        "Lehenga",
+        "Maang Tikka",
+        "Thali",
+        "Girls",
+        "Traditional"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "diwali-rangoli-making-boy",
+      "title": "Diwali Rangoli Making Scene for Boys",
+      "description": "A young man in kurta pajama creating a large rangoli outside his home under a fireworks-lit sky.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create an image of the man in the reference photo, matching his face and features as closely as possible. He kneels in front of his house in a traditional kurta and pajama, carefully shaping a large, intricate rangoli. It is Diwali night: colorful fireworks burst in the sky and many small diyas sit around and on the rangoli, filling the scene with a warm luminous glow. Realistic, cinematic, natural skin texture."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-rangoli-making-ai-photo-prompt-for-boys.webp",
+      "tags": [
+        "Diwali",
+        "Rangoli",
+        "Boys",
+        "Kurta",
+        "Fireworks",
+        "Festival"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "red-saree-couple-diwali-balcony",
+      "title": "Couple Lighting Diyas on a Diwali Balcony",
+      "description": "A full-body seated couple portrait on a decorated balcony, lighting clay diyas together in red saree and cream kurta.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic cinematic couple portrait, vertical 9:16, full body. Use both uploaded photos as identity references and preserve each face exactly, with no beautifying, blending or reshaping. A young Indian couple sits on a clean balcony floor on Diwali evening. She sits in a relaxed side-folded pose with both legs tucked to one side under her red saree with gold border; he sits cross-legged in a cream kurta with a maroon ethnic jacket. They lean toward a group of clay diyas and light one together, smiling warmly. Rows of glowing diyas, marigolds, fairy lights on the railing and a blurred city skyline behind them. Anatomically correct sitting poses, natural hands, realistic fabric folds, warm golden light on both faces, DSLR 50mm look. Negative prompt: twisted legs, extra limbs, fused bodies, deformed hands, altered faces, plastic skin."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/red-saree-couple-diwali-balcony-diya-ai-photo-prompt.webp",
+      "tags": [
+        "Diwali",
+        "Couple",
+        "Balcony",
+        "Diya",
+        "Saree",
+        "Full Body"
+      ],
+      "difficulty": "intermediate",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "boy-on-rangoli-holding-diya",
+      "title": "Boy Seated on Rangoli Holding a Diya",
+      "description": "A young man in a blue kurta sitting cross-legged on a decorative rangoli, cradling a glowing diya.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with natural skin tone and expression. A young man in a blue kurta-pajama sits cross-legged on a colorful decorative rangoli on Diwali night, holding a glowing diya in both hands. More diyas surround him on the floor, warm fairy lights glow behind him, and blurred people and distant fireworks fill the background. Warm, vibrant, realistic festive photography."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/boy-holding-diya-on-rangoli-diwali-ai-photo-prompt.webp",
+      "tags": [
+        "Diwali",
+        "Rangoli",
+        "Diya",
+        "Boys",
+        "Kurta",
+        "Night"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "diwali-street-market-diya-boy",
+      "title": "Choosing Diyas at a Diwali Street Market",
+      "description": "A young man in a cream kurta and brown jacket browsing a glowing diya stall at an evening Diwali market.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic 9:16 portrait of a young man whose face matches the reference photo exactly, with natural skin tone and genuine expression. He wears a light cream kurta with a sleeveless brown jacket and stands in a busy Diwali street market in the evening, leaning slightly forward to pick diyas from a stall full of colorful lamps and decorations. Warm golden light from nearby shops, lively crowd, hanging lanterns and rich bokeh in the background. Looks like a high-end DSLR lifestyle shoot."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/cream-kurta-and-jacket-diwali-ai-photo-prompt-for-boys.webp",
+      "tags": [
+        "Diwali",
+        "Market",
+        "Boys",
+        "Kurta",
+        "Lifestyle",
+        "Evening"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "pastel-green-saree-diwali-market-girl",
+      "title": "Pastel Green Saree at a Diwali Market",
+      "description": "A woman in a pastel green saree holding a diya plate under hanging paper lanterns in a night market.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic 9:16 portrait of a young woman whose face is identical to the reference image, with natural skin and hair detail. She wears a pastel green saree with minimal jewelry and stands in a lively Diwali street market at night, holding a plate of diyas in one hand while looking up at colorful paper lanterns with a soft, warm smile. Glowing lights, candles and rich bokeh behind her, warm golden tones and natural reflections. Cinematic, professional lifestyle photography look."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/pastel-green-saree-diwali-market-ai-photo-prompt-for-girls.webp",
+      "tags": [
+        "Diwali",
+        "Saree",
+        "Market",
+        "Girls",
+        "Lanterns",
+        "Night"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "yellow-saree-diwali-market-girl",
+      "title": "Yellow Designer Saree Diwali Market Look",
+      "description": "A woman in a yellow designer saree choosing diyas from a decorated market table in warm evening light.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic 9:16 portrait of a young woman whose face matches the reference exactly, with realistic skin texture and a natural smile. She wears a designer yellow saree with a necklace, a wristwatch and a bracelet, standing at a Diwali market stall in the evening and thoughtfully selecting diyas from a beautifully decorated table. The glow of the diyas softly lights her face. Colorful lanterns and a softly blurred crowd behind her. Cinematic lighting, DSLR-level detail, natural depth of field."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/yellow-saree-diwali-market-ai-photo-prompt-for-girls.webp",
+      "tags": [
+        "Diwali",
+        "Saree",
+        "Market",
+        "Girls",
+        "Yellow",
+        "Evening"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "diwali-gift-exchange-couple",
+      "title": "Diwali Gift Exchange Couple Portrait",
+      "description": "A heartfelt indoor couple moment with a navy sherwani and a pink saree, exchanging a wrapped gift.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic 9:16 portrait of a young couple whose faces match the reference images exactly, with lifelike detail. They stand in a living room decorated with candles, fairy lights and marigold flowers. He wears a navy-blue sherwani and hands a wrapped Diwali gift to her; she smiles warmly in a pink saree with a necklace, a watch and a bracelet. Warm ambient light, soft depth of field, a cinematic and heartfelt moment like a luxury lifestyle photoshoot."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/diwali-gift-couple-ai-photo-prompt-in-sherwani-and-saree.webp",
+      "tags": [
+        "Diwali",
+        "Couple",
+        "Sherwani",
+        "Saree",
+        "Gift",
+        "Indoor"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "diwali-sky-lantern-rooftop-boy",
+      "title": "Diwali Rooftop Sky Lantern Portrait for Boys",
+      "description": "A dreamy twilight rooftop portrait of a man in a mustard kurta holding a glowing sky lantern.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded photo as the face reference and keep the face exactly the same, with no beautifying. A handsome young man in a mustard-yellow kurta stands on a rooftop on Diwali evening, holding a glowing sky lantern. The sky around him is filled with floating lanterns, the rooftop is strung with fairy lights and a softly lit city skyline fades into a twilight sky. Warm light on his face, cinematic and dreamy, golden-hour tones, soft depth of field, realistic photography."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/happy-diwali-sky-lantern-ai-photo-prompt-for-boys.webp",
+      "tags": [
+        "Diwali",
+        "Sky Lantern",
+        "Rooftop",
+        "Boys",
+        "Kurta",
+        "Twilight"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "chhath-puja-ghat-diya-girl",
+      "title": "Chhath Puja Ghat Evening Portrait",
+      "description": "A serene seated portrait of a woman in an ivory sari arranging diyas on the stone steps of a river ghat.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic cinematic portrait, vertical 9:16. Use the uploaded photo as the face reference and preserve her face exactly, with no beautifying. An Indian woman sits naturally on broad stone steps of a river ghat during an evening Chhath festival, hips resting on one step, both legs folded gracefully to one side with her sari draped modestly over them. One hand places a clay diya on the step while the other holds a brass thali of glowing diyas and marigolds. She wears an ivory sari with delicate embroidery, a gold necklace and simple bangles, with long wavy hair over one shoulder and a peaceful expression. Other women perform rituals in the soft background, fairy lights glow, the river reflects an orange-pink sky. Warm cinematic light, subtle film grain, realistic anatomy. Negative prompt: standing pose, floating body, twisted legs, extra limbs, altered face, plastic skin, text."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/chhath-puja-ghat-diya-ai-photo-prompt-for-girls-v2.webp",
+      "tags": [
+        "Chhath Puja",
+        "Festival",
+        "Sari",
+        "Girls",
+        "Ghat",
+        "Traditional"
+      ],
+      "difficulty": "intermediate",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "couple-lighting-diyas-balcony-close",
+      "title": "Couple Lighting Diyas Together at Night",
+      "description": "An intimate seated couple portrait lighting diyas on a fairy-lit balcony, glowing in warm yellow light.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic 9:16 portrait of a young couple whose faces match the reference images exactly, with natural lighting and lifelike expressions. They sit on the floor of a beautifully decorated balcony at night, gently lighting diyas together. She wears a red saree with a golden border and he wears a cream kurta with a maroon jacket. The warm yellow glow of the diyas lights their faces while fairy lights twinkle in soft bokeh behind them. Looks like a high-quality professional couple photoshoot."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/couple-lighting-diyas-together-diwali-ai-photo-prompt.webp",
+      "tags": [
+        "Diwali",
+        "Couple",
+        "Diya",
+        "Balcony",
+        "Night",
+        "Romantic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "pink-lehenga-diwali-sparkler-girl",
+      "title": "Pink Lehenga Diwali Sparkler Celebration",
+      "description": "A joyful night portrait of a woman in a pink gold-embroidered lehenga with a sparkler, friends and fireworks behind her.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic professional DSLR photo, vertical 9:16, of the young woman from the uploaded reference. Preserve her face exactly with natural skin texture and no reshaping. She stands in the foreground at an outdoor Diwali celebration at night in a vibrant pink lehenga with gold embroidery and a light pink dupatta, minimal jewelry, long dark hair, laughing naturally while holding a lit sparkler safely in one hand. Three to four friends celebrate behind her, softly out of focus, each with a distinct face and outfit and plenty of space between them. Warm fairy lights overhead, rows of diyas, pink and gold fireworks in the sky. Mid-thigh framing, 50mm f/2.8 look, sharp focus on her eyes. Negative prompt: duplicate faces, merged bodies, extra fingers, plastic skin, oversaturation, watermark, text."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/pink-lehenga-diwali-sparkler-ai-photo-prompt-for-girls.webp",
+      "tags": [
+        "Diwali",
+        "Lehenga",
+        "Sparkler",
+        "Girls",
+        "Friends",
+        "Fireworks"
+      ],
+      "difficulty": "intermediate",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "white-kurta-balcony-diya-boy",
+      "title": "White Kurta Balcony Diya Portrait for Boys",
+      "description": "A full-body Diwali portrait of a man in a white kurta pajama lighting a clay diya on his home balcony.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded photo as the face reference and keep the face exactly the same. A cinematic, hyper-realistic full-body photo of a handsome young Indian man with a warm smile, front-facing, in a white kurta pajama with a red-striped wristwatch, leaning casually on his balcony railing while lighting a clay diya held in his hands. Many lit diyas sit on the floor and railing, Diwali string lights glow in soft bokeh behind him, golden volumetric light, shallow depth of field, high contrast."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/white-kurta-diwali-balcony-diya-ai-photo-prompt-for-boys.webp",
+      "tags": [
+        "Diwali",
+        "Kurta",
+        "Balcony",
+        "Diya",
+        "Boys",
+        "Full Body"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "romantic-couple-silhouette-red-rim-light",
+      "title": "Romantic Couple with Giant Silhouettes and Red Rim Light",
+      "description": "A cinematic double portrait of a couple in maroon, forehead to forehead, with huge dark profile silhouettes behind them.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded photo as the identity reference for both people and preserve both faces exactly, without beautifying or redesigning. Create a cinematic romantic double portrait, vertical 4:5. In the foreground a couple stands close from mid-thigh up, foreheads touching, eyes softly closed, gentle smiles, his arm around her waist. Both wear deep maroon South Asian formalwear: a structured sherwani with subtle brocade for him, a wine-colored outfit with antique gold embroidery and ornate earrings for her. Behind them, two huge overlapping near-black profile silhouettes of the same pair, male facing left and female facing right, with a thin crimson rim light tracing their hair and faces. Background is textured warm off-white handmade paper. Soft key light on the couple, rich maroon, black and gold palette, fine film grain, realistic skin and fabric. No text or logos."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/romantic-couple-double-portrait-ai-photo-prompt-with-red-rim-light.webp",
+      "tags": [
+        "Couple",
+        "Romantic",
+        "Cinematic",
+        "Silhouette",
+        "Maroon",
+        "Studio"
+      ],
+      "difficulty": "advanced",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "white-kurta-couple-mirror-selfie",
+      "title": "White Kurta Couple Boutique Mirror Selfie",
+      "description": "A full-body mirror selfie of a couple in matching white kurtas seated on a wooden bench in a bright boutique.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded photos to preserve both faces exactly, with no changes to proportions, skin tone, hairline or beard. Create a photorealistic full-body mirror selfie, 4:5 vertical, of a young Indian couple sitting close on a wooden bench in a bright boutique-style room. He wears a white embroidered kurta with white trousers and brown sandals, a dark-strapped watch and silver bracelets, and holds a silver phone up for the selfie. She leans toward him in a white chikankari kurta with palazzo pants, long wavy hair, oxidized silver bangles, big silver earrings and a delicate gold chain. Soft even lighting, off-white walls, blue-and-white tiled floor, natural skin texture, authentic smartphone look. Negative prompt: altered faces, extra fingers, plastic skin, beauty filter, distorted clothing."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://promptpin.in/promptpin-images/.thumbs/white-kurta-couple-mirror-selfie-ai-photo-prompt.webp",
+      "tags": [
+        "Couple",
+        "Mirror Selfie",
+        "White Kurta",
+        "Chikankari",
+        "Boutique",
+        "Lifestyle"
+      ],
+      "difficulty": "intermediate",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
+      "id": "viral-arabian-desert-ai-image-generating-prompts-for-women-black-outfit-keffiyeh-scarf-cinematic-portraits",
+      "title": "Viral Arabian Desert AI Image Generating Prompts for Women – Black Outfit, Keffiyeh Scarf & Cinematic Portraits",
+      "description": "Get viral Arabian desert AI image prompts for women with black abaya, keffiyeh scarf & cinematic golden-hour portrait styles.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "(Keep my face 100% identical to the uploaded reference image absolutely no facial changes, reshaping, beautification, smoothing, AI distortion, or identity alteration, strict face consistency) Create An ultra-realistic cinematic three-quarter side-profile portrait of a stylish young South Asian woman gazing off-camera against a backdrop of rocky desert terrain under soft golden light. She is wearing a classic black abaya, styled with a black-and-white patterned keffiyeh wrapped turban-style around her head with long fabric ends cascading down over her shoulder. Small round sunglasses with gold wire frames accentuate her face, paired with bold red lipstick and dark hair peeking out beneath the headscarf. The gravelly, arid mountain landscape behind her is softly blurred, focusing all detail on her profile and attire. Shot on an 85mm lens with shallow depth of field, sharp subject focus, warm atmospheric lighting, and photorealistic 8K resolution. high-fidelity details in flawless 8K resolution. no watermark. Small handwritten cursive text “AllAiPromptHub.in” at the bottom-left corner ar 4:5 style raw quality high no face change, different identity, artificial beauty filter, smooth plastic skin, low quality, blurry details, distorted anatomy, unrealistic lighting, oversaturated colors."
+        },
+        {
+          "title": "Prompt 2 · Image",
+          "text": "(Keep my face 100% identical to the uploaded reference image absolutely no facial changes, reshaping, beautification, smoothing, AI distortion, or identity alteration, strict face consistency) Create An ultra-realistic cinematic medium close-up portrait of a chic young South Asian woman posing confidently against a backdrop of rugged, desert mountain peaks during soft daylight. She wears a traditional black abaya with subtle silver embroidered sleeve cuffs, styled with a black-and-white checkered keffiyeh wrapped turban-style around her head with fabric ends and tassels cascading over her shoulders. Her straight dark hair frames her face, accentuated by dark round sunglasses and bold red lipstick. The rocky, arid mountain landscape behind her is softly blurred, enhancing the sharp focus on her face. Shot on an 85mm lens with shallow depth of field, sharp subject focus, warm natural golden lighting, and photorealistic 8K resolution.  high-fidelity details in flawless 8K resolution. no watermark. Small handwritten cursive text “AllAiPromptHub.in” at the bottom-left corner ar 4:5 style raw quality high no face change, different identity, artificial beauty filter, smooth plastic skin, low quality, blurry details, distorted anatomy, unrealistic lighting, oversaturated colors."
+        },
+        {
+          "title": "Prompt 3 · Image",
+          "text": "(Keep my face 100% identical to the uploaded reference image absolutely no facial changes, reshaping, beautification, smoothing, AI distortion, or identity alteration, strict face consistency) Create An ultra-realistic cinematic eye-level portrait of a stylish young South Asian woman posing centered against a backdrop of rugged desert mountains under soft ambient daylight. She wears a traditional black v-neck abaya with relaxed wide sleeves, styled with a black-and-white checkered keffiyeh scarf wrapped turban-style around her head and wrapped neatly around her neck. Small dark oval sunglasses frame her face, highlighting her bold crimson red lipstick and dark painted fingernails as her hands rest clasped softly at her waist. The surrounding rocky, arid mountain terrain creates a beautifully blurred soft-focus background. Shot on an 85mm lens with shallow depth of field, sharp subject focus on her face and attire, natural atmospheric lighting, and photorealistic 8K resolution. high-fidelity details in flawless 8K resolution. no watermark. Small handwritten cursive text “AllAiPromptHub.in” at the bottom-left corner ar 4:5 style raw quality high no face change, different identity, artificial beauty filter, smooth plastic skin, low quality, blurry details, distorted anatomy, unrealistic lighting, oversaturated colors."
+        },
+        {
+          "title": "Prompt 4 · Image",
+          "text": "(Keep my face 100% identical to the uploaded reference image absolutely no facial changes, reshaping, beautification, smoothing, AI distortion, or identity alteration, strict face consistency) Create An ultra-realistic cinematic portrait of a stylish young South Asian woman posing in a rugged, rocky desert landscape during golden hour. She is wearing an elegant black abaya with silver embroidered cuffs, paired with a classic black-and-white keffiyeh headscarf wrapped turban-style with draped side tassels, dark oval sunglasses, bold red lipstick, and stacked silver bangles. The blurred background features arid mountains and gravelly terrain bathed in soft, warm sunset light. Shot on an 85mm lens with shallow depth of field, sharp subject focus, warm golden atmospheric lighting, and photorealistic 8K resolution. high-fidelity details in flawless 8K resolution. no watermark. Small handwritten cursive text “AllAiPromptHub.in” at the bottom-left corner ar 4:5 style raw quality high no face change, different identity, artificial beauty filter, smooth plastic skin, low quality, blurry details, distorted anatomy, unrealistic lighting, oversaturated colors."
+        },
+        {
+          "title": "Prompt 5 · Image",
+          "text": "(Keep my face 100% identical to the uploaded reference image absolutely no facial changes, reshaping, beautification, smoothing, AI distortion, or identity alteration, strict face consistency) Create An ultra-realistic cinematic portrait of a chic young South Asian woman standing with arms crossed against a backdrop of rugged desert mountains under soft daylight. She is wearing a traditional black abaya, styled with a black-and-white checkered keffiyeh headscarf wrapped turban-style around her head and draped snugly around her neck. Dark round sunglasses conceal her eyes, complemented by bold red lipstick, dark painted nails, and straight dark hair framing her face. The surrounding rocky, arid terrain and sharp mountain peaks are smoothly blurred in the background. Shot on an 85mm lens with shallow depth of field, sharp subject focus on her face and pose, natural atmospheric lighting, and photorealistic 8K resolution. high-fidelity details in flawless 8K resolution. no watermark. Small handwritten cursive text “AllAiPromptHub.in” at the bottom-left corner ar 4:5 style raw quality high no face change, different identity, artificial beauty filter, smooth plastic skin, low quality, blurry details, distorted anatomy, unrealistic lighting, oversaturated colors."
+        },
+        {
+          "title": "Prompt 6 · Image",
+          "text": "(Keep my face 100% identical to the uploaded reference image absolutely no facial changes, reshaping, beautification, smoothing, AI distortion, or identity alteration, strict face consistency) Create An ultra-realistic cinematic close-up portrait of a stylish young South Asian woman looking towards the camera while casually lowering her dark round sunglasses with one hand in a rocky desert mountain setting. She is wearing an elegant black abaya with intricate silver embroidered cuffs, styled with a black-and-white checkered keffiyeh headscarf wrapped turban-style around her head, bold red lipstick, and sleek dark straight hair peeking out beneath the scarf. The backdrop features dramatic, out-of-focus arid mountain peaks and rocky terrain illuminated by soft natural golden hour sunlight. Shot on an 85mm lens with shallow depth of field, sharp subject focus on her face and eyes, warm atmospheric lighting, and photorealistic 8K resolution. high-fidelity details in flawless 8K resolution. no watermark. Small handwritten cursive text “AllAiPromptHub.in” at the bottom-left corner ar 4:5 style raw quality high no face change, different identity, artificial beauty filter, smooth plastic skin, low quality, blurry details, distorted anatomy, unrealistic lighting, oversaturated colors."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://allaiprompthub.in/wp-content/uploads/2026/10/viral-chatGPT-gemini-arabian-desert-ai-image-generating-prompts-women.webp",
+      "tags": [
+        "Arabian Desert",
+        "Abaya",
+        "Keffiyeh",
+        "Women",
+        "Portrait",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image"
+    },
+    {
       "id": "restaurant-date-triptych-couple",
       "title": "Restaurant Date Night Triptych for Couples",
       "description": "A three-panel romantic photo story of one couple on a restaurant date: mirror selfie, close-up and joyful selfie.",
@@ -1606,6 +1652,143 @@
       "difficulty": "intermediate",
       "views": 0,
       "isFeatured": false
+    },
+    {
+      "id": "bhola-pan-saadgi-girlfriend-trend-google-flow-video-prompt",
+      "title": "Ai girlfriend Bhola Pan Saadgi Trend – Google Flow Video Prompt",
+      "description": "A 10-second cinematic romantic couple video prompt for Google Flow: slow-motion entry, hair gather, hand reach and a 360° twirl in one continuous shot.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Ai COUPLE TREND – GOOGLE FLOW PROMPT (Upload: @image1 = last frame of your clip, @image2 = girl photo. 10s)\nCreate a highly realistic, cinematic romantic video, 10 seconds, ONE single continuous shot, no cuts, in the exact aspect ratio of @image1.\n=== TOP PRIORITY RULES (THESE OVERRIDE EVERYTHING ELSE) ===\nRULE 1 — FACE IDENTITY LOCK (BOTH PEOPLE — ZERO CHANGE):\n– THE MAN: his face is a 100% exact copy of the man in @image1 in EVERY frame, from the first frame to the last — same face shape, forehead, eyes, eyebrows, nose, lips, jawline, beard/moustache (or no beard), skin tone, skin texture, marks and hairline. Even while he smiles, turns his head, holds her hand and looks at her, it is clearly the SAME person as in @image1. Do not make him younger, slimmer, fairer, more handsome or different in any way.\n– THE YOUNG WOMAN: her face is a 100% exact copy of the woman in @image2 in EVERY frame — same face shape, eyes, eyebrows, nose, lips, jawline, skin tone and marks. When her face appears during the twirl and at the end, it must be instantly recognizable as the woman in @image2.\n– For both: no beautifying, no face swap, no morphing, no AI-generic face, no drifting to a different face at any moment of the walk, the twirl or the face-to-face ending.\nRULE 2 — ADULT WOMAN + FIXED HEIGHT (STRICT):\n– The young woman is a fully grown ADULT WOMAN, about 25 years old, with a mature adult face and normal adult body proportions — exactly as grown-up as she looks in @image2. She must NEVER look like a child, a kid or a teenager in any frame.\n– FIXED HEIGHT: she is 5 feet 7 inches tall (170 cm) — a normal adult woman’s height. With her block heels she stands about 5 feet 9 inches.\n– The man is about 5 feet 10 inches (178 cm). So she is only a little shorter than him (just a few centimeters with her heels).\n– When she stands next to him, the TOP OF HER HEAD is at the level of his FOREHEAD (between his eyebrows and his hairline), and her eyes are just below his eyes. Her shoulders are only slightly lower than his shoulders.\n– This is fixed: at NO moment is her head at his chin, neck, shoulder or chest level, and she is never taller than him.\n– POSTURE LOCK: whenever she is next to him, she stands FULLY UPRIGHT — straight back, straight neck, knees straight. She does NOT lean toward him, does NOT bend forward, does NOT put her head on his chest, does NOT bend her knees. He also stands straight and does not bend down to her.\n– DEPTH LOCK: when she reaches him, her feet are on the SAME line on the floor as his feet (same distance from the camera), so the camera shows their real height difference correctly.\nRULE 3 — ENVIRONMENT LOCK:\nThe location, background, buildings, wall, railing, floor, sky, light, colors and time of day stay EXACTLY as in @image1 for all 10 seconds — nothing appears, disappears or changes.\n=== END OF TOP PRIORITY RULES ===\nFIRST FRAME — @image1 IS THE STARTING FRAME:\nThe video must begin exactly on @image1. Copy @image1 1:1 — the same location, background, walls, railing, sky, ground, lighting, time of day, colors, camera height, camera angle, lens, framing and distance. The young man in @image1 stays exactly as he is: same face, same hairstyle, same clothes, same shoes, same body, same standing position and spot. Do NOT invent a new location and do NOT change the lighting or time of day. The video is a direct continuation of @image1.\nTHE MAN (from @image1):\nExactly the same person as in @image1 (face locked as in RULE 1) — same face, same age, same skin tone, same hairstyle, same outfit and colors. He stays an adult exactly as old as in @image1. Do not redesign or restyle him.\nMAN’S POSE FREEZE — VERY IMPORTANT:\nFrom 0.0s until the young woman ENTERS the frame (about 1.0s), the man holds EXACTLY the same pose he has in @image1, like a living statue:\n– Both hands and arms stay EXACTLY where they are in @image1 — if a hand is resting on a wall, railing, pocket, waist or anything else, it STAYS resting there. Do not drop, lower, lift or move his hands or arms at all.\n– Same body posture, same lean, same feet position, same head angle, same gaze direction, same facial expression as in @image1.\n– Only tiny natural life signs are allowed: soft breathing, a natural blink, hair/clothes moving slightly in the breeze.\nHe does NOT move or change his stance before she appears.\nMAN’S HERO REACTION — THE MOMENT SHE ENTERS (from about 1.2s):\nThe instant the young woman enters the frame, he reacts IMMEDIATELY — not late:\n– 1.2 – 2.0s: his eyes catch her, his face lights up with a big, charming, confident hero smile (like a Bollywood hero seeing his love), he lifts his hands off the wall / out of their @image1 position and straightens up, standing tall and proud.\n– 2.0 – 3.5s: he gives a small playful head tilt and a light chin-up nod toward her, then confidently reaches ONE hand out toward her, palm up, inviting her, while she walks toward him in slow motion with the hair gesture. He stays on his spot (at most one small step forward), keeps smiling, eyes locked on her.\n– He keeps that hand held out, waiting, until she places her hand in his at about 4.8s.\nHis reaction must start right when she enters — he must NOT keep his hands on the wall while she walks all the way to him.\nTHE YOUNG WOMAN (from @image2) — 100% FACE + HAIR IDENTITY LOCK:\nThe young woman is exactly the same person as in @image2: same face, same facial features, same skin tone, same age (an adult, exactly as old as in @image2), adult body (her height is fixed at 5 ft 7 in as in RULE 2).\nHAIRSTYLE LOCK: her hair has the exact same length, color, texture, parting and style as in @image2. Do not make it longer, shorter, straighter, curlier or a different color.\nFIXED WESTERN OUTFIT (IGNORE THE CLOTHES IN @image2):\nWhatever she wears in @image2 (kurta, suit, saree, dupatta, jeans or anything else) is NOT used. She always wears this exact stylish WESTERN outfit:\n– TOP: a fitted, solid dark chocolate-brown ribbed knit one-shoulder top (one shoulder bare, the other covered), cropped to the waist and neatly tucked in. No dupatta, no kurta, no long tunic, no scarf.\n– TROUSERS: high-waist, wide-leg, flowy formal trousers in cream / off-white, full length down to the ankles, with a thin dark-brown leather belt at the waist. NOT jeans, NOT leggings, NOT salwar.\n– FOOTWEAR: nude-beige block-heel sandals.\n– Minimal accessories: small stud earrings only.\nThis outfit stays exactly the same in every frame — same colors, same fit, same design.\nHEIGHT REMINDER:\nFixed height as in RULE 2 — she is 5 ft 7 in, the top of her head at his forehead, from the moment she reaches him until the last frame. At the end she lifts her eyes only slightly to look into his eyes.\nSPEED:\nThe whole clip plays in smooth, gentle cinematic slow motion (about 0.6x real speed) — graceful and dreamy, but every movement stays natural and continuous, never frozen or jerky.\nCAMERA:\nCompletely static camera locked in the exact position of @image1. No zoom, no pan, no tilt, no push-in, no shake, no angle change. Same framing for the entire 10 seconds.\nACTION TIMELINE:\n0.0 – 1.0s:\nExactly @image1 (the young woman is not yet visible), and the man keeps his exact @image1 pose — hands and arms in the same place (e.g. still resting on the wall if they are in @image1), same stance, same expression. Only breathing and a blink. Nothing else moves.\n1.0 – 3.5s — SLOW-MOTION ENTRY FROM THE FOREGROUND:\nThe young woman enters from the immediate foreground, from the bottom edge of the frame, very close to the camera, with her BACK to the camera. At first only her shoulders, hair and back fill the near foreground (slightly soft because she is so close), then she walks away from the camera, straight toward the man, and comes into full sharp focus. We see her from behind: her hair from @image2 and her brown one-shoulder top + cream wide-leg trousers clearly visible.\n1.5 – 4.8s — HAIR GATHER & HOLD (THE KEY MOMENT):\nAs she starts walking away from the camera in slow motion, she raises her RIGHT hand up behind her head, elbow pointing up and out to the side. With that hand she grabs ALL of her hair together in one bunch at the back of her head, near the nape of her neck, and pulls the whole bunch across to one side, so it hangs over her right shoulder. This uncovers the back of her neck and her upper back / shoulder line, which becomes clearly visible to the camera.\nShe KEEPS HOLDING the gathered hair in her hand with her elbow raised while she slowly walks 3–4 steps toward him — a confident, stylish, slow pose, slightly turning her head to the side. Her left arm hangs relaxed at her side.\nThis is NOT a quick finger-comb or a light flick: the hand clearly holds the full bunch of hair to one side for about 3 seconds.\nAt 4.8s she lets the hair go and brings her hand down softly; the hair falls naturally over her shoulder. Her hair keeps exactly the same length, color, texture and style as in @image2 throughout.\n4.8 – 5.5s — HAND REACH:\nShe reaches him and places her hand in his already-outstretched hand. He holds it gently and raises it slightly above her shoulder height, still smiling like a hero.\n5.5 – 8.0s — ONE 360° TWIRL:\nHolding his raised hand, she performs ONE complete, slow, graceful 360-degree twirl in place, turning under their joined hands. During the turn her face becomes visible — a happy, shy smile. Her hair and outfit move naturally with the rotation. Both of her feet stay on the ground, natural foot placement, perfect balance.\n8.0 – 10.0s — FACE TO FACE (HOLD):\nAfter the twirl she stops facing him at about half an arm’s length — she does NOT step in close and does NOT lean in. They stand face-to-face in profile / three-quarter view to the camera, both fully upright, feet on the same floor line, holding both hands gently at waist height. The top of her head is at his forehead level; she looks just slightly up into his eyes and he looks slightly down into hers, with warm, natural smiles. Hold this romantic final pose until the end.\nREALISM RULES:\n– Photorealistic, like real footage filmed on a phone camera in the same light as @image1.\n– Natural human walking, natural hand contact, realistic fingers (5 per hand), realistic body rotation and foot placement.\n– Both characters keep their feet on the ground at all times; no lifting, no floating, no jumping.\n– Detailed natural skin texture, soft natural shadows matching the light in @image1, premium 4K quality.\n– Natural hair physics and realistic fabric movement.\n– Exactly two people in the whole video: the man from @image1 and the young woman from @image2.\nAUDIO:\nNo dialogue, no voice, no music. Only very soft natural ambient sound and footsteps (music will be added later in editing).\nSTRICT NEGATIVE INSTRUCTIONS:\nDo not change the location, background, lighting, time of day, camera angle, framing or aspect ratio of @image1. No camera movement, no zoom, no cuts, no transitions. Do not change the man’s face in any frame — no different face, no younger/fairer/slimmer version, no beard change; also do not change his hair or clothes. Do not move the man’s hands, arms, stance or expression BEFORE the young woman enters the frame — no dropping his hands at the very start. But once she enters, he must react immediately (smile, hands off the wall, reach out to her) — no late reaction, no staying frozen while she walks to him. He does not walk across the frame. Do not change the young woman’s face, hairstyle, hair length or hair color from @image2. Do NOT copy her clothes from @image2 — no kurta, no suit, no salwar, no dupatta, no saree, no jeans, no ethnic wear; only the fixed western outfit (brown one-shoulder top + cream wide-leg trousers + belt + nude block heels). No outfit changes during the clip. The young woman must NEVER look like a child, kid or teenager — she is a grown adult woman, 5 ft 7 in tall. Her head is never at his chin, neck, shoulder or chest level, and never taller than him; the top of her head stays at his forehead level when she stands next to him. No leaning toward him, no bending forward, no head on his chest, no bent knees, no stepping in too close at the end. No face change for either person — no different face, no morphing, no beautification. No quick hair flick instead of the full hair-gather-and-hold gesture. Do not make either person younger — both are adults exactly as in their images. No extra people, no crowd, no extra limbs, no distorted hands or faces, no dancing, no exaggerated movements, no floating feet, no frozen frames, no text, no logos, no watermark, no artificial CGI look.\nFINAL RESULT:\nOne smooth, realistic, slow-motion romantic shot that continues directly from @image1: the young woman from @image2 (her face and hairstyle), in a stylish western outfit — brown one-shoulder top and cream wide-leg trousers — walks in from the foreground with her back to the camera, gathers all her hair in one hand behind her head and holds it over one shoulder while walking, releases it, takes his hand, twirls once, and ends standing face-to-face with him, holding hands and smiling."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://vseditor01.in/wp-content/uploads/2026/10/file_000000002f848211835782a105e7c868.avif",
+      "videoUrl": "https://yourimageshare.com/ib/zrWIsHLXPr.mp4",
+      "tags": [
+        "Couple",
+        "Romantic",
+        "Trend",
+        "Google Flow",
+        "Western Outfit",
+        "Cinematic",
+        "girlfriend",
+        "ai girlfriend"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
+    },
+    {
+      "id": "drone-style-zoom-out-reveal-video-prompt",
+      "title": "Drone-Style Zoom Out Reveal Video Prompt",
+      "description": "A video prompt for a smooth drone-like zoom out that reveals more of the surroundings, with stabilized camera, dynamic depth and natural lighting.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "zooming out to reveal more of the surroundings. Maintain professional camera stabilization, dynamic depth, and natural lighting for a real drone-like look."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "",
+      "videoUrl": "https://yourimageshare.com/ib/UIerDkgXW7.mp4",
+      "tags": [
+        "Drone",
+        "Zoom Out",
+        "Cinematic",
+        "Camera Movement",
+        "Reveal",
+        "Realistic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
+    },
+    {
+      "id": "emotional-slap-reaction-cinematic-video-prompt-bloodshot-eyes-tears",
+      "title": "Emotional Slap Reaction Cinematic Video Prompt – Bloodshot Eyes, Tears & Walk-Away",
+      "description": "A 10-second cinematic drama video prompt with a realistic open-palm slap, strict identity lock, bloodshot teary eyes, a restrained emotional reaction and a slow walk-away.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "CREATE A HIGHLY REALISTIC CINEMATIC 10-SECOND VIDEO FROM THE PROVIDED IMAGE.\n\nUse the provided reference video as the PRIMARY REFERENCE for the overall composition, character positioning, camera distance, physical interaction, timing, emotional pacing, camera movement and final walk-away.\n\nThe central event is a SUDDEN, VERY HARD, REALISTIC OPEN-PALM SLAP delivered to the main subject by the person standing extremely close in the foreground.\n\nThe slap must feel significantly stronger and more impactful than a normal casual slap, while still remaining physically believable and cinematic.\n\nThe main subject's eyes must remain noticeably RED, BLOODSHOT, IRRITATED, WET AND EMOTIONALLY DISTRESSED throughout the scene.\n\n━━━━━━━━━━━━━━━━━━━━ STRICT IDENTITY PRESERVATION ━━━━━━━━━━━━━━━━━━━━\n\nKeep the main subject EXACTLY identical to the input image.\n\nSTRICT IDENTITY LOCK.\n\nPreserve the exact:\n\nface\n\nfacial structure\n\neyes\n\neyebrows\n\nnose\n\nlips\n\njawline\n\nhairstyle\n\nhairline\n\nskin tone\n\nbody proportions\n\nclothing\n\naccessories\n\nage\n\noverall appearance\n\nDO NOT beautify.\n\nDO NOT reshape the face.\n\nDO NOT change facial proportions.\n\nDO NOT change the person's identity.\n\nDO NOT make the subject look like an AI-generated beauty model.\n\nMaintain authentic skin texture, pores and natural facial imperfections.\n\nThe subject must remain unmistakably the same person from the first frame to the final frame.\n\n━━━━━━━━━━━━━━━━━━━━ VERY RED BLOODSHOT EYES ━━━━━━━━━━━━━━━━━━━━\n\nIMPORTANT VISUAL REQUIREMENT:\n\nThe main subject's eyes must be VERY NOTICEABLY RED.\n\nBoth eyes should have clearly visible bloodshot redness around the whites of the eyes.\n\nThe redness should look like genuine emotional distress, prolonged crying and irritation.\n\nThe sclera should contain subtle but clearly visible natural red veins.\n\nThe eyes must also appear:\n\nwet\n\nglossy\n\nirritated\n\nswollen very slightly\n\nemotionally exhausted\n\nfilled with tears\n\nThe redness must NOT look like glowing red eyes.\n\nNo supernatural effect.\n\nNo horror effect.\n\nNo artificial neon red.\n\nThe red veins must remain anatomically realistic.\n\nThe eyes should look like a real person who has been crying intensely and is emotionally devastated.\n\nThe bloodshot appearance must remain visible even when the subject looks away.\n\n━━━━━━━━━━━━━━━━━━━━ REFERENCE VIDEO COMPOSITION ━━━━━━━━━━━━━━━━━━━━\n\nRecreate the intimate confrontation style of the reference video.\n\nThe main subject stands very close to the opposite-gender person.\n\nThe foreground person occupies part of the near foreground and remains heavily blurred.\n\nThe main subject remains the visual focus.\n\nThe camera is positioned close enough that the facial reaction and slap impact are clearly visible.\n\nThe scene should feel like authentic live-action footage from an emotional drama.\n\n━━━━━━━━━━━━━━━━━━━━ VERY HARD SLAP ━━━━━━━━━━━━━━━━━━━━\n\nIMPORTANT:\n\nThe slap must be MUCH HARDER and more forceful than an ordinary slap.\n\nThe foreground person suddenly swings their open palm with strong realistic acceleration toward the main subject's cheek.\n\nThe movement must have visible momentum.\n\nThe palm must make CLEAR, FULL PHYSICAL CONTACT with the cheek.\n\nThe impact must feel powerful enough to produce an immediate involuntary reaction.\n\nAt the exact moment of impact:\n\ncheek naturally compresses\n\nhead sharply jerks sideways\n\nhair moves from the force\n\nshoulders react\n\nupper body shifts slightly\n\nfacial expression instantly changes\n\neyes briefly react to the shock\n\nbody weight shifts naturally\n\nclothing reacts subtly to the movement\n\nThe reaction should be strong but physically realistic.\n\nDO NOT make the subject fly backward.\n\nDO NOT make the subject fall.\n\nDO NOT break bones.\n\nDO NOT create exaggerated action-movie physics.\n\nThe strength should come from the speed and momentum of the slap and the subject's realistic involuntary reaction.\n\nONLY ONE SLAP.\n\nNo second slap.\n\n━━━━━━━━━━━━━━━━━━━━ IMPACT TIMING ━━━━━━━━━━━━━━━━━━━━\n\nThe striking hand must visibly travel from the foreground person's starting position to the subject's cheek.\n\nDo NOT begin with the hand already touching the face.\n\nDo NOT hide the impact.\n\nDo NOT make the hand pass through the face.\n\nDo NOT make contact occur before the hand reaches the cheek.\n\nThe exact sequence must be:\n\nhand raises → rapid swing → palm contacts cheek → cheek compresses → head sharply turns → body reacts → emotional shock begins.\n\nThe reaction must happen AFTER contact.\n\n━━━━━━━━━━━━━━━━━━━━ EMOTIONAL PERFORMANCE ━━━━━━━━━━━━━━━━━━━━\n\nImmediately after the powerful slap, the subject becomes completely stunned.\n\nThey remain silent for a brief moment.\n\nTheir head stays slightly turned from the impact.\n\nThey slowly return their gaze toward the person who slapped them.\n\nTheir already-red eyes become even wetter.\n\nThe expression changes from physical shock into deep emotional pain.\n\nThe lips tremble subtly.\n\nThe jaw becomes slightly tense.\n\nBreathing becomes heavier.\n\nThe subject swallows as if trying desperately not to cry.\n\nThe performance must remain restrained and realistic.\n\nNo screaming.\n\nNo exaggerated theatrical crying.\n\n━━━━━━━━━━━━━━━━━━━━ REALISTIC CRYING ━━━━━━━━━━━━━━━━━━━━\n\nThe subject begins silently crying after the impact.\n\nBecause the eyes are already heavily bloodshot, the tears should appear especially visible against the red, wet eyes.\n\nA realistic tear forms naturally along the lower eyelid.\n\nIt gathers at the corner of the eye.\n\nIt slowly rolls down the cheek.\n\nThe tear must follow the natural contour of the face.\n\nThe tear must remain attached to the skin.\n\nIt should reflect the warm cinematic light.\n\nA second tear gradually forms from the opposite eye.\n\nBoth tear trails should remain subtle but clearly visible.\n\nThe cheeks should become slightly wet.\n\nNo oversized tears.\n\nNo artificial tear streams.\n\nNo floating droplets.\n\nNo tears appearing from nowhere.\n\n━━━━━━━━━━━━━━━━━━━━ HAND TO STRUCK CHEEK ━━━━━━━━━━━━━━━━━━━━\n\nImmediately after processing the shock, the subject slowly raises one hand toward the cheek that was struck.\n\nThe movement should be delayed naturally.\n\nTheir fingertips gently touch the painful cheek.\n\nThey hold the cheek briefly.\n\nTheir bloodshot eyes remain fixed emotionally toward the person who slapped them.\n\nThe expression communicates:\n\nshock, pain, disbelief, humiliation, sadness, betrayal, emotional devastation.\n\nThe hand then slowly lowers.\n\nCorrect anatomy at all times.\n\n━━━━━━━━━━━━━━━━━━━━ EXACT 10-SECOND TIMELINE ━━━━━━━━━━━━━━━━━━━━\n\n0.0–1.5 SECONDS:\n\nMain subject stands close to the foreground person.\n\nThe subject already has noticeably RED, BLOODSHOT, WET eyes.\n\nThe eyes contain visible natural red veins.\n\nThey look emotionally exhausted and close to tears.\n\nThe foreground person remains heavily blurred.\n\nThe atmosphere is tense.\n\nCamera stays close.\n\n━━━━━━━━━━━━━━━━━━━━\n\n1.5–2.3 SECONDS:\n\nThe foreground person suddenly raises their hand.\n\nThe movement is fast and aggressive.\n\nThe subject does NOT anticipate the attack.\n\nNo pre-impact flinch.\n\nThe hand rapidly accelerates toward the cheek.\n\n━━━━━━━━━━━━━━━━━━━━\n\n2.3–2.8 SECONDS:\n\nVERY HARD OPEN-PALM SLAP.\n\nThe palm makes full physical contact with the cheek.\n\nStrong realistic impact.\n\nCheek compresses naturally.\n\nThe head sharply snaps sideways.\n\nHair reacts to the force.\n\nShoulders and upper torso move naturally.\n\nThe camera makes a tiny realistic reaction to the sudden impact.\n\nNo excessive camera shake.\n\n━━━━━━━━━━━━━━━━━━━━\n\n2.8–4.2 SECONDS:\n\nThe subject remains stunned.\n\nTheir head slowly returns.\n\nTheir VERY RED, BLOODSHOT eyes look toward the person who slapped them.\n\nTheir eyes immediately begin filling with tears.\n\nTheir lips tremble subtly.\n\nThey breathe shakily.\n\nThe emotional pain becomes visible.\n\n━━━━━━━━━━━━━━━━━━━━\n\n4.2–5.8 SECONDS:\n\nThe subject slowly raises one hand to the struck cheek.\n\nThey gently touch the cheek.\n\nA tear visibly forms in the lower eyelid.\n\nThe bloodshot redness remains clearly visible around both eyes.\n\nThe subject tries to hold back crying.\n\n━━━━━━━━━━━━━━━━━━━━\n\n5.8–7.2 SECONDS:\n\nThe first tear slowly travels down the cheek.\n\nA second tear begins forming in the opposite eye.\n\nThe subject lowers their gaze.\n\nTheir eyes remain extremely red, wet and glossy.\n\nTheir facial muscles subtly tremble.\n\n━━━━━━━━━━━━━━━━━━━━\n\n7.2–8.6 SECONDS:\n\nThe subject looks back toward the foreground person.\n\nBoth eyes are now visibly bloodshot and tear-filled.\n\nTear trails remain visible on the cheeks.\n\nThey slowly lower their hand.\n\nHold this emotional eye contact briefly.\n\n━━━━━━━━━━━━━━━━━━━━\n\n8.6–10.0 SECONDS:\n\nThe subject slowly turns away.\n\nThey begin walking away with restrained emotional pain.\n\nThe camera smoothly follows.\n\nTransition from intimate close-up to slightly wider cinematic framing.\n\nThe foreground person remains blurred behind them.\n\nThe subject's red eyes and tear-streaked cheeks remain visible for as long as the camera angle allows.\n\nEnd naturally.\n\n━━━━━━━━━━━━━━━━━━━━ CAMERA AND LENS ━━━━━━━━━━━━━━━━━━━━\n\nPhotorealistic handheld cinema-camera look.\n\n50mm–85mm equivalent perspective during close-up.\n\nWide aperture.\n\nStrong natural shallow depth of field.\n\nForeground person heavily blurred.\n\nMain subject's face and eyes sharply focused.\n\nAt the slap, maintain enough framing to clearly see:\n\nstriking hand\n\ncheek contact\n\nhead reaction\n\nupper body reaction.\n\nDo NOT crop away the impact.\n\nUse subtle handheld camera movement.\n\nNo robotic movement.\n\nNo excessive shake.\n\nUse a tiny natural camera reaction at the moment of impact.\n\nAfterward, smoothly stabilize.\n\nDuring the final walk-away, slowly widen the shot.\n\n━━━━━━━━━━━━━━━━━━━━ LIGHTING ━━━━━━━━━━━━━━━━━━━━\n\nWarm cinematic lighting.\n\nSoft directional light across the face.\n\nSubtle highlights in the wet eyes.\n\nNatural reflections on tears.\n\nThe bloodshot eye veins must remain visible.\n\nRealistic skin texture.\n\nNatural shadows.\n\nSubtle rim light around hair and shoulders.\n\nNo artificial glow.\n\nNo beauty lighting.\n\n━━━━━━━━━━━━━━━━━━━━ REALISM AND PHYSICS ━━━━━━━━━━━━━━━━━━━━\n\nEvery movement must obey real-world physics.\n\nRealistic hand acceleration.\n\nRealistic palm impact.\n\nRealistic facial compression.\n\nRealistic head movement.\n\nRealistic body momentum.\n\nRealistic hair movement.\n\nRealistic clothing movement.\n\nRealistic tears.\n\nRealistic blinking.\n\nRealistic breathing.\n\nRealistic walking.\n\nNo impossible motion.\n\nNo exaggerated physics.\n\n━━━━━━━━━━━━━━━━━━━━ FINAL VISUAL QUALITY ━━━━━━━━━━━━━━━━━━━━\n\nUltra-photorealistic live-action footage.\n\nProfessional cinematic realism.\n\nNatural skin pores.\n\nAuthentic facial micro-expressions.\n\nHighly realistic bloodshot eyes.\n\nPhysically accurate tears.\n\nRealistic hand anatomy.\n\nRealistic impact physics.\n\nNatural motion blur.\n\nNatural depth of field.\n\nNatural cinematic color grading.\n\nThe final result must look like a real emotional drama scene filmed with a professional cinema camera.\n\nNOT CGI.\n\nNOT animation.\n\nNOT cartoon.\n\nNOT AI-looking.\n\n━━━━━━━━━━━━━━━━━━━━ NEGATIVE PROMPT ━━━━━━━━━━━━━━━━━━━━\n\nNO identity change, NO face morphing, NO facial redesign, NO face reshaping, NO beauty filter, NO artificial skin smoothing, NO plastic skin, NO CGI appearance, NO cartoon, NO animation, NO supernatural red eyes, NO glowing red eyes, NO neon red eyes, NO horror eyes, NO artificial eye veins, NO exaggerated bloodshot eyes, NO fake tears, NO oversized tears, NO floating tears, NO tears appearing from nowhere, NO artificial tear streams, NO repeated slap, NO second slap, NO punching, NO kicking, NO excessive violence, NO hand passing through face, NO missed contact, NO fake impact, NO weak slap, NO slow casual slap, NO invisible impact, NO exaggerated head rotation, NO broken anatomy, NO flying backward, NO falling, NO distorted face, NO stretched face, NO distorted hands, NO extra fingers, NO extra arms, NO duplicated people, NO sudden character appearance, NO teleportation, NO robotic movement, NO excessive camera shake, NO sudden camera cuts, NO jump cuts, NO background changes, NO clothing changes, NO hairstyle changes, NO lighting flicker, NO exposure flicker, NO watermark, NO text, NO logo.\n\n━━━━━━━━━━━━━━━━━━━━ FINAL PRIORITY ━━━━━━━━━━━━━━━━━━━━\n\nPRIORITY 1: EXACT IDENTITY PRESERVATION.\n\nPRIORITY 2: ONE VERY HARD, FAST, CLEAR OPEN-PALM SLAP.\n\nPRIORITY 3: VISIBLE FULL PALM-TO-CHEEK CONTACT.\n\nPRIORITY 4: STRONG BUT REALISTIC HEAD AND BODY REACTION.\n\nPRIORITY 5: VERY RED, BLOODSHOT, WET AND IRRITATED EYES.\n\nPRIORITY 6: CLEAR REALISTIC TEAR FORMATION AND TEAR TRAILS.\n\nPRIORITY 7: NATURAL HAND-TO-CHEEK REACTION.\n\nPRIORITY 8: QUIET, RESTRAINED EMOTIONAL BREAKDOWN.\n\nPRIORITY 9: FINAL SAD LOOK AND SLOW WALK-AWAY.\n\nPRIORITY 10: MATCH THE REFERENCE VIDEO'S INTIMATE CINEMATIC FEEL AND NATURAL CAMERA MOVEMENT.\n\nThe slap must feel powerful enough that the audience immediately understands that the subject has been genuinely shocked and emotionally hurt, while the entire scene remains physically realistic, photorealistic and cinematic."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "",
+      "videoUrl": "https://yourimageshare.com/ib/oo6x4ChvqZ.mp4",
+      "tags": [
+        "Emotional",
+        "Drama",
+        "Cinematic",
+        "Crying",
+        "Reaction",
+        "Realistic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
+    },
+    {
+      "id": "emotional-crying-performance-cinematic-video-prompt-tears-walk-away",
+      "title": "Emotional Crying Performance Cinematic Video Prompt – Tears & Walk-Away",
+      "description": "A 10-second cinematic video prompt for a restrained, realistic crying performance with glossy red eyes, physically accurate tears, a focus pull from a blurred foreground person and a slow walk-away.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Create a highly realistic cinematic video from the provided image, closely matching the provided reference video.\n\nSTRICT IDENTITY PRESERVATION:\nKeep the main subject’s face, identity, facial structure, hairstyle, clothing, skin tone, body proportions and overall appearance exactly consistent with the input image. Do not beautify, redesign, morph or alter the face.\n\nEMOTIONAL CRYING PERFORMANCE\n\nThe main subject is experiencing deep, genuine sadness while looking emotionally toward the blurred opposite-gender person standing very close in the foreground.\n\nThe crying must be clearly visible and unmistakable, not just watery eyes.\n\nStart with the subject holding back tears. Their eyes gradually become glossy and filled with tears. The subject blinks slowly as if trying to control their emotions. A visible tear forms naturally at the lower eyelid, gathers at the corner of the eye, then slowly rolls down the cheek due to gravity.\n\nAs the emotion becomes stronger, a second tear appears from the other eye and gently travels down the cheek. The subject's eyes become noticeably red and wet, with realistic tear reflections catching the warm cinematic light.\n\nThe subject subtly lowers their gaze, their lips and facial muscles tremble very slightly, and they take a soft emotional breath as they struggle not to cry. Their expression should communicate heartbreak, sadness and emotional pain without exaggerated acting.\n\nThe subject briefly looks back toward the blurred person with tear-filled eyes. Tears remain visibly present on the cheeks. The crying should feel like a quiet, restrained emotional breakdown, not loud sobbing.\n\nTIMING AND ACTION\n\n0–2 seconds:\nSubject looks emotionally toward the blurred foreground person. Eyes gradually become glossy and tear-filled.\n\n2–4 seconds:\nSubject slowly blinks and tries to hold back tears. A visible tear forms in the lower eyelid.\n\n4–6 seconds:\nThe tear slowly rolls down the cheek. The subject lowers their gaze, showing subtle emotional pain and a slight trembling expression.\n\n6–8 seconds:\nSubject looks back emotionally toward the foreground person. Another tear rolls down the opposite cheek. Eyes remain visibly wet and red.\n\n8–10 seconds:\nSubject turns away slowly and begins walking away with restrained sadness. Tears remain visible on the cheeks as the camera smoothly transitions into a slightly wider cinematic shot.\n\nCINEMATIC LOOK\n\nShallow depth of field, heavily blurred foreground person, warm golden nighttime bokeh, realistic skin texture, natural facial micro-expressions, realistic tear reflections, soft cinematic lighting, subtle rim light, realistic shadows, smooth focus pull from foreground to subject, gentle handheld cinematic camera movement, photorealistic detail.\n\nThe tears must behave physically realistically: tears originate from the eyes, accumulate naturally, reflect the surrounding light, and travel downward along the natural contours of the cheeks.\n\nNEGATIVE PROMPT\n\nNo fake-looking tears, no oversized tears, no tear streams appearing suddenly, no crying exaggerated like an actor, no screaming, no open-mouth sobbing, no cartoon crying, no artificial glossy face, no plastic skin, no face morphing, no identity change, no facial distortion, no changing hairstyle, no clothing change, no distorted hands, no extra fingers, no extra people, no duplicated person, no sudden camera cuts, no unnatural body movement, no floating tears, no tears appearing from nowhere, no tear droplets detached from the eyes, no unrealistic facial expressions.\n\nIMPORTANT: The crying must be clearly visible throughout the emotional peak. At least one realistic tear must visibly form at the eye and slowly roll down the subject’s cheek before the subject turns away."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "",
+      "videoUrl": "https://yourimageshare.com/ib/qehBx9npk8.mp4",
+      "tags": [
+        "Emotional",
+        "Crying",
+        "Cinematic",
+        "Tears",
+        "Drama",
+        "Realistic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
+    },
+    {
+      "id": "luxury-mustang-coastal-road-cinematic-video-prompt-cherry-blossoms-rolex",
+      "title": "Luxury Mustang Coastal Road Cinematic Video Prompt – Cherry Blossoms & Rolex",
+      "description": "A 15-second, 5-shot cinematic luxury video prompt with slow motion, speed ramps and smooth arcs: a young man in a white puffer jacket with a Mustang and Rolex on a wet coastal road lined with cherry blossoms.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "VIDEO PROMPT (15s |5 shots | slomo +speed ramps | arcs + push/pull I cinematic luxury)\n\nYoung man in a white puffer jacket, black baggy jeans, black sneakers, black sunglasses, wearing a black Rolex watch. Wet coastal road, \n\ncherry blossoms, ocean backdrop, strong wind, drifting petals, soft overcast lighting, glossy reflections.\n\nSHOT 1(0:00-0:03)\n\nOver-shoulder interior - steering\n\nwheel (Mustang logo)\n\nArc right + push-in\n\nSlow motion\n\nCamera behind his shoulder framing\n\nthe steering wheel and logo, his\n\nhand resting lightly on it, subtle\n\nmovement, reflections sliding across interior.\n\nSHOT 2(0:03-0:06)\n\nExtreme close-up - wrist\n\nMicro arc + push-in\n\nSlow motion\n\nHe slightly pulls back his sleeve, \n\nrevealing a black Rolex watch, metal\n\ncatching soft light, reflections shimmering.\n\nSHOT 3(0:06-0:09)\n\nTight face shot\n\nArc left + push-in\n\nSpeed ramp: real-time → slow\n\nmotionHe lifts one hand and lowers\n\nsunglasses from the middle just a little, giving a quick subtle wink through the gap, then holds a calm.confident expression. Petals drift across foreground.\n\nSHOT 4(0:09-0:12\n\n.HERO\n\nDriver-side window (tight, slightly\n\nlow angle)\n\nArc right + slow push-in\n\nSlow motion\n\nSeated low, arm on window edge.\n\nHe keeps the glasses slightly\n\nlowered - partial eye reveal only -holding a sharp, steady stare into camera. Wind moves collar, \n\nreflections glide across door.\n\nSHOT 5(0:12-0:15)\n\nDriver seat, door fully open (wide\n\nexterior)\n\nArc left + slow pull-out\n\nUO!1oU MOIS\n\nDoor wide open. He sits relaxed, one\n\nleg slightly out, arm resting\n\nnaturally, minimal movement. Wind lifts jacket, petals blow across frame, clean cinematic end.\n\nSTYLE\n\nMinimal, controlled, premium\n\naesthetic - smooth arcs only, \n\nshallow DOF, strong wind\n\ninteraction, micro-expressions carry the energy."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "",
+      "videoUrl": "https://yourimageshare.com/ib/PbKc7qWePN.mp4",
+      "tags": [
+        "Luxury",
+        "Cinematic",
+        "Mustang",
+        "Cherry Blossom",
+        "Slow Motion",
+        "Boys"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
     }
   ]
 }
