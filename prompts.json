@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
-  "version": 29,
-  "updatedAt": "2026-11-01T03:36:00Z",
+  "version": 30,
+  "updatedAt": "2026-11-01T06:19:20Z",
   "categories": [
     {
       "id": "trending",
@@ -1832,6 +1832,45 @@
           "title": "Template PDF",
           "type": "file",
           "url": "https://.../guide.pdf"
+        }
+      ]
+    },
+    {
+      "id": "diwali-haveli-rangoli-champagne-gold-lehenga-cinematic-video-prompt",
+      "title": "Diwali Haveli Rangoli Cinematic Video Prompt – Champagne-Gold Lehenga & Diyas",
+      "description": "A cinematic Diwali video prompt that keeps the uploaded person's face identical: a champagne-gold lehenga, a Rajasthani haveli courtyard, a colorful rangoli, glowing diyas and a slow push-in from full-body to close-up.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Transform the person in the uploaded reference photo into a beautiful, cinematic Diwali celebration scene.\nIMPORTANT: Preserve the exact facial identity of the person in the uploaded photo. Do not change their face, facial structure, eyes, nose, lips, skin tone, age, or natural features. The final video must clearly look like the same person in the original photograph.\nDress the person in a luxurious champagne-gold traditional Indian lehenga with intricate embroidery, elegant gold jewelry, jhumka earrings, bangles, and a beautiful dupatta.\nPlace them in a magnificent traditional Rajasthani haveli courtyard decorated with marigold flower garlands, glowing golden lanterns, and traditional clay diyas.\nCreate a spectacular, colorful circular Diwali rangoli beneath their feet, decorated with intricate floral patterns in pink, purple, orange, blue, and golden colors.\nStart with a full-body cinematic shot. Hundreds of tiny golden glowing particles and orange marigold petals gently float through the air. Diyas gradually illuminate around the rangoli.\nThe person gently smiles and looks toward the camera. The camera slowly moves forward, transitioning smoothly from a full-body shot into an elegant close-up portrait.\nBeautiful warm golden lighting, magical festive atmosphere, realistic diya flames, cinematic depth of field, professional photography, ultra-realistic details, 4K quality.\nMaintain perfect facial consistency throughout the video. Natural human movements, realistic hands, no face distortion, no identity changes."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/BKCfNYlNtC.png",
+      "videoUrl": "https://yourimageshare.com/ib/R9qphY99Ij.mp4",
+      "tags": [
+        "Diwali",
+        "Lehenga",
+        "Rangoli",
+        "Haveli",
+        "Festival",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/qM6SB7IXcq.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/R9qphY99Ij.mp4"
         }
       ]
     }
