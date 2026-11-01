@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 5,
-  "version": 28,
-  "updatedAt": "2026-10-31T13:20:00Z",
+  "schemaVersion": 6,
+  "version": 29,
+  "updatedAt": "2026-11-01T03:36:00Z",
   "categories": [
     {
       "id": "trending",
@@ -1476,6 +1476,141 @@
       "type": "image"
     },
     {
+      "id": "real-camera-black-mercedes-driver-cinematic-video-prompt",
+      "title": "Real Camera Black Mercedes Driver Cinematic Video Prompt",
+      "description": "An ultra-realistic video prompt using a reference video and a character image: a black Mercedes approaches, cuts to the driver's seat, then a natural hand gesture and a subtle smile, with strict identity preservation.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Create an ultra-realistic REAL-WORLD CAMERA VIDEO, not an AI-looking or CGI-looking video. Use TWO uploaded references: REFERENCE VIDEO: This controls the exact car, car movement, camera movement, camera angle, framing, timing, scene transition, environment, lighting, actions and overall visual composition. CHARACTER IMAGE: This controls the exact identity and appearance of the person. The final result must look like an actual real camera recording of a real person inside a real physical Mercedes-Benz car. IMPORTANT — DO NOT GENERATE A 3D RENDER: The car must NOT look computer-generated, game-engine rendered, 3D modeled or digitally reconstructed. The person must NOT look AI-generated, plastic, overly smooth, beautified or digitally composited. Everything must have the small imperfections and optical characteristics of genuine real-world camera footage. REAL CAMERA LOOK: Use physically believable camera optics and real-world photography characteristics. Natural exposure. Natural dynamic range. Natural highlight roll-off. Realistic motion blur. Realistic shutter motion. Natural depth of field. Natural lens distortion. Natural focus transition. Realistic sensor noise/grain at a very subtle level. Natural skin texture. Natural micro-contrast. Realistic reflections. Realistic shadows. Realistic ambient light. Do NOT make the image excessively sharp, glossy, HDR, oversaturated or digitally perfect. Avoid the typical AI-generated “perfect image” appearance. REAL HUMAN: The uploaded person must look like a real human being physically present inside the car. Preserve the exact identity from the uploaded image: same face shape, same eyes, same eyebrows, same nose, same lips, same jawline, same skin tone, same hairstyle, same facial hair, same age, same natural facial proportions. Preserve realistic skin pores, tiny skin imperfections, natural facial asymmetry and realistic skin texture. Do not smooth the skin. Do not beautify. Do not reshape the jaw. Do not enlarge the eyes. Do not change the nose. Do not modify the lips. Do not make the face symmetrical. Do not make the person look like an AI model. The person’s face must remain stable throughout the entire video. REAL EYES AND FACE: Eyes must have realistic wetness, reflections and natural blinking. Facial expressions must be produced through subtle realistic facial muscle movement. No frozen expression. No rubber-like facial movement. No face warping. No identity drift. REAL HAIR: Individual hair strands should behave naturally. Hair must respond naturally to head movement and airflow. Do not create painted or plastic-looking hair. REAL HANDS: Hands must have physically correct anatomy. Five fingers on each hand. Natural finger joints. Natural skin texture. Realistic fingernails. Correct hand proportions. Natural wrist movement. No extra fingers. No fused fingers. No malformed palms. No disappearing fingers. REAL MERCEDES: The black Mercedes-Benz must look like an actual photographed physical vehicle. Preserve realistic: metallic black paint, clear-coat reflections, chrome grille, Mercedes emblem, LED headlights, windshield glass, side mirrors, body panels, panel gaps, rubber seals, tires, dashboard, steering wheel, leather seats, interior materials. The paint must reflect the real surrounding environment naturally. Do NOT make the bodywork look like a smooth CGI model. Do NOT create impossible reflections. The windshield must behave like real glass: realistic transparency, realistic reflections, subtle tint, correct refraction, natural highlights and glare. CAR MOVEMENT: Recreate the exact vehicle movement from the uploaded reference video. When the car approaches the camera, its apparent size must increase because of REAL PHYSICAL MOVEMENT through space — NOT because of a digital zoom. The grille, headlights, hood and windshield must naturally become larger in the frame as the vehicle approaches. Perspective must change naturally according to the changing distance between the real camera and the real car. Maintain realistic wheel/body motion and natural vehicle movement. Do not make the car slide. Do not make the car float. Do not make the car move like a 3D animation. CAMERA: Reproduce the reference video’s camera position and movement exactly. The camera must behave like a real handheld or mounted camera physically positioned in the real environment. Match: camera height, camera distance, lens perspective, field of view, framing, camera movement, camera speed, camera acceleration/deceleration, focus behavior, motion blur, and timing. Do not invent camera movements. Do not use artificial digital zoom to imitate physical camera movement. Do not orbit around the car unless the reference video does so. Do not create drone-like movement unless present in the reference. SCENE 1 — EXTERIOR: Recreate the opening exterior shot exactly from the reference video. The real black Mercedes approaches the camera. Maintain the same front-facing composition and camera position as the reference. As the vehicle comes closer, naturally reveal more detail in: grille, Mercedes emblem, headlights, hood, windshield and driver. The driver must remain physically inside the real vehicle. Realistic windshield reflections should partially interact with the driver’s face without completely hiding it. Maintain natural daylight and real environmental reflections. SCENE 2 — EXACT TRANSITION: At the same moment as the reference video, transition/cut to the interior shot. Do not invent a new transition. SCENE 3 — INTERIOR: Recreate the exact interior composition from the reference. The uploaded person sits naturally in the driver’s seat. Show the real steering wheel in the foreground. Show realistic dashboard materials and beige/cream leather interior. The person looks naturally toward the side, then toward the front/camera according to the reference. One hand remains naturally positioned on or around the steering wheel when appropriate. SCENE 4 — HUMAN MOVEMENT: Recreate the exact hand gesture, head movement, eye movement and smile from the reference video. Movement must be subtle and physically realistic. Natural blinking. Natural breathing. Natural shoulder movement. Natural head rotation. Natural facial muscle movement. SCENE 5 — FINAL EXPRESSION: Recreate the final expression and head position from the reference. The person gives a subtle natural smile. Do not exaggerate the expression. Keep the same face identity and realistic skin texture. LIGHTING: Match the real lighting conditions visible in the reference video. Use physically believable daylight. Light must naturally interact with: skin, hair, glass, metal, paint, chrome, dashboard, steering wheel and leather. Shadows must have realistic softness and direction. No artificial studio lighting. No excessive cinematic glow. No fake rim light. No neon lighting unless it exists in the reference. COLOR: Natural real-camera color science. Realistic skin tones. Realistic black car paint. Natural beige interior. Natural highlights and shadows. Avoid excessive saturation. Avoid excessive contrast. Avoid HDR appearance. Avoid Create a highly realistic 10-second cinematic video using the reference image/person as the exact identity reference.\n\nIMPORTANT:\n\nPreserve the person’s exact face, facial structure, skin tone, hairstyle, body proportions, outfit, and overall appearance throughout the entire video.\n\nDo not change identity.\n\nUse realistic human body-motion tracking and natural facial movement.\n\nMaintain temporal consistency from frame to frame.\n\nCAMERA / SCENE:\n\nA young man is sitting naturally in the driver’s seat of a black luxury Mercedes sedan at night.\n\nCamera is positioned outside/front of the car and gradually feels closer to the person through the windshield.\n\nInterior is dimly lit with soft cool nighttime lighting.\n\nThe steering wheel remains visible in the foreground.\n\nRealistic windshield reflections, subtle dashboard lighting, natural shadows and cinematic DSLR look.\n\nNo camera shake or unnatural warping.\n\nBODY MOTION TRACKING – FOLLOW\n\nTHIS EXACT SEQUENCE:\n\n0.0-1.2 seconds:\n\nThe person is seated naturally behind the steering wheel.\n\nUpper body relaxed and centered.\n\nBoth shoulders remain stable.\n\nHe looks toward the camera with a calm expression.\n\nVery subtle breathing movement in chest and shoulders.\n\nNatural blinking.\n\nHands remain in a believable driving position.\n\n1.2-2.5 seconds:\n\nHe begins moving his upper body slightly toward the camera.\n\nHis head moves naturally with the torso.\n\nHe starts smiling.\n\nOne hand gradually lifts away from the steering wheel.\n\nTrack the hand from shoulder → elbow → wrist → fingers with correct human joint movement.\n\nNo floating or disconnected fingers.\n\n2.5-3.8 seconds:\n\nHe raises one hand beside his face and makes a casual two/three-finger gesture.\n\nElbow bends naturally.\n\nWrist rotates slightly.\n\nFingers move independently and realistically.\n\nAt the same time, he tilts his head slightly to one side.\n\nHis eyes remain directed toward the camera.\n\nExpression becomes playful and confident.\n\n3.8-5.2 seconds:\n\nHe lowers the raised hand slightly. His smile becomes wider.\n\nNatural cheek movement and subtle eye squint.\n\nHead returns partially toward center.\n\nShoulders and neck follow the head movement naturally.\n\nKeep the steering wheel and car interior fixed in"
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://yourimageshare.com/ib/S5lOMtcO3q.png",
+      "videoUrl": "https://yourimageshare.com/ib/jzGNzCJkis.mp4",
+      "tags": [
+        "Mercedes",
+        "Car",
+        "Cinematic",
+        "Realistic",
+        "Boys",
+        "Night Drive"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
+    },
+    {
+      "id": "luxury-mustang-coastal-road-cinematic-video-prompt-cherry-blossoms-rolex",
+      "title": "Luxury Mustang Coastal Road Cinematic Video Prompt – Cherry Blossoms & Rolex",
+      "description": "A 15-second, 5-shot cinematic luxury video prompt with slow motion, speed ramps and smooth arcs: a young man in a white puffer jacket with a Mustang and Rolex on a wet coastal road lined with cherry blossoms.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "VIDEO PROMPT (15s |5 shots | slomo +speed ramps | arcs + push/pull I cinematic luxury)\n\nYoung man in a white puffer jacket, black baggy jeans, black sneakers, black sunglasses, wearing a black Rolex watch. Wet coastal road, \n\ncherry blossoms, ocean backdrop, strong wind, drifting petals, soft overcast lighting, glossy reflections.\n\nSHOT 1(0:00-0:03)\n\nOver-shoulder interior - steering\n\nwheel (Mustang logo)\n\nArc right + push-in\n\nSlow motion\n\nCamera behind his shoulder framing\n\nthe steering wheel and logo, his\n\nhand resting lightly on it, subtle\n\nmovement, reflections sliding across interior.\n\nSHOT 2(0:03-0:06)\n\nExtreme close-up - wrist\n\nMicro arc + push-in\n\nSlow motion\n\nHe slightly pulls back his sleeve, \n\nrevealing a black Rolex watch, metal\n\ncatching soft light, reflections shimmering.\n\nSHOT 3(0:06-0:09)\n\nTight face shot\n\nArc left + push-in\n\nSpeed ramp: real-time → slow\n\nmotionHe lifts one hand and lowers\n\nsunglasses from the middle just a little, giving a quick subtle wink through the gap, then holds a calm.confident expression. Petals drift across foreground.\n\nSHOT 4(0:09-0:12\n\n.HERO\n\nDriver-side window (tight, slightly\n\nlow angle)\n\nArc right + slow push-in\n\nSlow motion\n\nSeated low, arm on window edge.\n\nHe keeps the glasses slightly\n\nlowered - partial eye reveal only -holding a sharp, steady stare into camera. Wind moves collar, \n\nreflections glide across door.\n\nSHOT 5(0:12-0:15)\n\nDriver seat, door fully open (wide\n\nexterior)\n\nArc left + slow pull-out\n\nUO!1oU MOIS\n\nDoor wide open. He sits relaxed, one\n\nleg slightly out, arm resting\n\nnaturally, minimal movement. Wind lifts jacket, petals blow across frame, clean cinematic end.\n\nSTYLE\n\nMinimal, controlled, premium\n\naesthetic - smooth arcs only, \n\nshallow DOF, strong wind\n\ninteraction, micro-expressions carry the energy."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://yourimageshare.com/ib/Sdc3hZY1fv.png",
+      "videoUrl": "https://yourimageshare.com/ib/PbKc7qWePN.mp4",
+      "tags": [
+        "Luxury",
+        "Cinematic",
+        "Mustang",
+        "Cherry Blossom",
+        "Slow Motion",
+        "Boys"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
+    },
+    {
+      "id": "emotional-crying-performance-cinematic-video-prompt-tears-walk-away",
+      "title": "Emotional Crying Performance Cinematic Video Prompt – Tears & Walk-Away",
+      "description": "A 10-second cinematic video prompt for a restrained, realistic crying performance with glossy red eyes, physically accurate tears, a focus pull from a blurred foreground person and a slow walk-away.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Create a highly realistic cinematic video from the provided image, closely matching the provided reference video.\n\nSTRICT IDENTITY PRESERVATION:\nKeep the main subject’s face, identity, facial structure, hairstyle, clothing, skin tone, body proportions and overall appearance exactly consistent with the input image. Do not beautify, redesign, morph or alter the face.\n\nEMOTIONAL CRYING PERFORMANCE\n\nThe main subject is experiencing deep, genuine sadness while looking emotionally toward the blurred opposite-gender person standing very close in the foreground.\n\nThe crying must be clearly visible and unmistakable, not just watery eyes.\n\nStart with the subject holding back tears. Their eyes gradually become glossy and filled with tears. The subject blinks slowly as if trying to control their emotions. A visible tear forms naturally at the lower eyelid, gathers at the corner of the eye, then slowly rolls down the cheek due to gravity.\n\nAs the emotion becomes stronger, a second tear appears from the other eye and gently travels down the cheek. The subject's eyes become noticeably red and wet, with realistic tear reflections catching the warm cinematic light.\n\nThe subject subtly lowers their gaze, their lips and facial muscles tremble very slightly, and they take a soft emotional breath as they struggle not to cry. Their expression should communicate heartbreak, sadness and emotional pain without exaggerated acting.\n\nThe subject briefly looks back toward the blurred person with tear-filled eyes. Tears remain visibly present on the cheeks. The crying should feel like a quiet, restrained emotional breakdown, not loud sobbing.\n\nTIMING AND ACTION\n\n0–2 seconds:\nSubject looks emotionally toward the blurred foreground person. Eyes gradually become glossy and tear-filled.\n\n2–4 seconds:\nSubject slowly blinks and tries to hold back tears. A visible tear forms in the lower eyelid.\n\n4–6 seconds:\nThe tear slowly rolls down the cheek. The subject lowers their gaze, showing subtle emotional pain and a slight trembling expression.\n\n6–8 seconds:\nSubject looks back emotionally toward the foreground person. Another tear rolls down the opposite cheek. Eyes remain visibly wet and red.\n\n8–10 seconds:\nSubject turns away slowly and begins walking away with restrained sadness. Tears remain visible on the cheeks as the camera smoothly transitions into a slightly wider cinematic shot.\n\nCINEMATIC LOOK\n\nShallow depth of field, heavily blurred foreground person, warm golden nighttime bokeh, realistic skin texture, natural facial micro-expressions, realistic tear reflections, soft cinematic lighting, subtle rim light, realistic shadows, smooth focus pull from foreground to subject, gentle handheld cinematic camera movement, photorealistic detail.\n\nThe tears must behave physically realistically: tears originate from the eyes, accumulate naturally, reflect the surrounding light, and travel downward along the natural contours of the cheeks.\n\nNEGATIVE PROMPT\n\nNo fake-looking tears, no oversized tears, no tear streams appearing suddenly, no crying exaggerated like an actor, no screaming, no open-mouth sobbing, no cartoon crying, no artificial glossy face, no plastic skin, no face morphing, no identity change, no facial distortion, no changing hairstyle, no clothing change, no distorted hands, no extra fingers, no extra people, no duplicated person, no sudden camera cuts, no unnatural body movement, no floating tears, no tears appearing from nowhere, no tear droplets detached from the eyes, no unrealistic facial expressions.\n\nIMPORTANT: The crying must be clearly visible throughout the emotional peak. At least one realistic tear must visibly form at the eye and slowly roll down the subject’s cheek before the subject turns away."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://yourimageshare.com/ib/lbLqrypbYY.png",
+      "videoUrl": "https://yourimageshare.com/ib/qehBx9npk8.mp4",
+      "tags": [
+        "Emotional",
+        "Crying",
+        "Cinematic",
+        "Tears",
+        "Drama",
+        "Realistic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
+    },
+    {
+      "id": "emotional-slap-reaction-cinematic-video-prompt-bloodshot-eyes-tears",
+      "title": "Emotional Slap Reaction Cinematic Video Prompt – Bloodshot Eyes, Tears & Walk-Away",
+      "description": "A 10-second cinematic drama video prompt with a realistic open-palm slap, strict identity lock, bloodshot teary eyes, a restrained emotional reaction and a slow walk-away.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "CREATE A HIGHLY REALISTIC CINEMATIC 10-SECOND VIDEO FROM THE PROVIDED IMAGE.\n\nUse the provided reference video as the PRIMARY REFERENCE for the overall composition, character positioning, camera distance, physical interaction, timing, emotional pacing, camera movement and final walk-away.\n\nThe central event is a SUDDEN, VERY HARD, REALISTIC OPEN-PALM SLAP delivered to the main subject by the person standing extremely close in the foreground.\n\nThe slap must feel significantly stronger and more impactful than a normal casual slap, while still remaining physically believable and cinematic.\n\nThe main subject's eyes must remain noticeably RED, BLOODSHOT, IRRITATED, WET AND EMOTIONALLY DISTRESSED throughout the scene.\n\n━━━━━━━━━━━━━━━━━━━━ STRICT IDENTITY PRESERVATION ━━━━━━━━━━━━━━━━━━━━\n\nKeep the main subject EXACTLY identical to the input image.\n\nSTRICT IDENTITY LOCK.\n\nPreserve the exact:\n\nface\n\nfacial structure\n\neyes\n\neyebrows\n\nnose\n\nlips\n\njawline\n\nhairstyle\n\nhairline\n\nskin tone\n\nbody proportions\n\nclothing\n\naccessories\n\nage\n\noverall appearance\n\nDO NOT beautify.\n\nDO NOT reshape the face.\n\nDO NOT change facial proportions.\n\nDO NOT change the person's identity.\n\nDO NOT make the subject look like an AI-generated beauty model.\n\nMaintain authentic skin texture, pores and natural facial imperfections.\n\nThe subject must remain unmistakably the same person from the first frame to the final frame.\n\n━━━━━━━━━━━━━━━━━━━━ VERY RED BLOODSHOT EYES ━━━━━━━━━━━━━━━━━━━━\n\nIMPORTANT VISUAL REQUIREMENT:\n\nThe main subject's eyes must be VERY NOTICEABLY RED.\n\nBoth eyes should have clearly visible bloodshot redness around the whites of the eyes.\n\nThe redness should look like genuine emotional distress, prolonged crying and irritation.\n\nThe sclera should contain subtle but clearly visible natural red veins.\n\nThe eyes must also appear:\n\nwet\n\nglossy\n\nirritated\n\nswollen very slightly\n\nemotionally exhausted\n\nfilled with tears\n\nThe redness must NOT look like glowing red eyes.\n\nNo supernatural effect.\n\nNo horror effect.\n\nNo artificial neon red.\n\nThe red veins must remain anatomically realistic.\n\nThe eyes should look like a real person who has been crying intensely and is emotionally devastated.\n\nThe bloodshot appearance must remain visible even when the subject looks away.\n\n━━━━━━━━━━━━━━━━━━━━ REFERENCE VIDEO COMPOSITION ━━━━━━━━━━━━━━━━━━━━\n\nRecreate the intimate confrontation style of the reference video.\n\nThe main subject stands very close to the opposite-gender person.\n\nThe foreground person occupies part of the near foreground and remains heavily blurred.\n\nThe main subject remains the visual focus.\n\nThe camera is positioned close enough that the facial reaction and slap impact are clearly visible.\n\nThe scene should feel like authentic live-action footage from an emotional drama.\n\n━━━━━━━━━━━━━━━━━━━━ VERY HARD SLAP ━━━━━━━━━━━━━━━━━━━━\n\nIMPORTANT:\n\nThe slap must be MUCH HARDER and more forceful than an ordinary slap.\n\nThe foreground person suddenly swings their open palm with strong realistic acceleration toward the main subject's cheek.\n\nThe movement must have visible momentum.\n\nThe palm must make CLEAR, FULL PHYSICAL CONTACT with the cheek.\n\nThe impact must feel powerful enough to produce an immediate involuntary reaction.\n\nAt the exact moment of impact:\n\ncheek naturally compresses\n\nhead sharply jerks sideways\n\nhair moves from the force\n\nshoulders react\n\nupper body shifts slightly\n\nfacial expression instantly changes\n\neyes briefly react to the shock\n\nbody weight shifts naturally\n\nclothing reacts subtly to the movement\n\nThe reaction should be strong but physically realistic.\n\nDO NOT make the subject fly backward.\n\nDO NOT make the subject fall.\n\nDO NOT break bones.\n\nDO NOT create exaggerated action-movie physics.\n\nThe strength should come from the speed and momentum of the slap and the subject's realistic involuntary reaction.\n\nONLY ONE SLAP.\n\nNo second slap.\n\n━━━━━━━━━━━━━━━━━━━━ IMPACT TIMING ━━━━━━━━━━━━━━━━━━━━\n\nThe striking hand must visibly travel from the foreground person's starting position to the subject's cheek.\n\nDo NOT begin with the hand already touching the face.\n\nDo NOT hide the impact.\n\nDo NOT make the hand pass through the face.\n\nDo NOT make contact occur before the hand reaches the cheek.\n\nThe exact sequence must be:\n\nhand raises → rapid swing → palm contacts cheek → cheek compresses → head sharply turns → body reacts → emotional shock begins.\n\nThe reaction must happen AFTER contact.\n\n━━━━━━━━━━━━━━━━━━━━ EMOTIONAL PERFORMANCE ━━━━━━━━━━━━━━━━━━━━\n\nImmediately after the powerful slap, the subject becomes completely stunned.\n\nThey remain silent for a brief moment.\n\nTheir head stays slightly turned from the impact.\n\nThey slowly return their gaze toward the person who slapped them.\n\nTheir already-red eyes become even wetter.\n\nThe expression changes from physical shock into deep emotional pain.\n\nThe lips tremble subtly.\n\nThe jaw becomes slightly tense.\n\nBreathing becomes heavier.\n\nThe subject swallows as if trying desperately not to cry.\n\nThe performance must remain restrained and realistic.\n\nNo screaming.\n\nNo exaggerated theatrical crying.\n\n━━━━━━━━━━━━━━━━━━━━ REALISTIC CRYING ━━━━━━━━━━━━━━━━━━━━\n\nThe subject begins silently crying after the impact.\n\nBecause the eyes are already heavily bloodshot, the tears should appear especially visible against the red, wet eyes.\n\nA realistic tear forms naturally along the lower eyelid.\n\nIt gathers at the corner of the eye.\n\nIt slowly rolls down the cheek.\n\nThe tear must follow the natural contour of the face.\n\nThe tear must remain attached to the skin.\n\nIt should reflect the warm cinematic light.\n\nA second tear gradually forms from the opposite eye.\n\nBoth tear trails should remain subtle but clearly visible.\n\nThe cheeks should become slightly wet.\n\nNo oversized tears.\n\nNo artificial tear streams.\n\nNo floating droplets.\n\nNo tears appearing from nowhere.\n\n━━━━━━━━━━━━━━━━━━━━ HAND TO STRUCK CHEEK ━━━━━━━━━━━━━━━━━━━━\n\nImmediately after processing the shock, the subject slowly raises one hand toward the cheek that was struck.\n\nThe movement should be delayed naturally.\n\nTheir fingertips gently touch the painful cheek.\n\nThey hold the cheek briefly.\n\nTheir bloodshot eyes remain fixed emotionally toward the person who slapped them.\n\nThe expression communicates:\n\nshock, pain, disbelief, humiliation, sadness, betrayal, emotional devastation.\n\nThe hand then slowly lowers.\n\nCorrect anatomy at all times.\n\n━━━━━━━━━━━━━━━━━━━━ EXACT 10-SECOND TIMELINE ━━━━━━━━━━━━━━━━━━━━\n\n0.0–1.5 SECONDS:\n\nMain subject stands close to the foreground person.\n\nThe subject already has noticeably RED, BLOODSHOT, WET eyes.\n\nThe eyes contain visible natural red veins.\n\nThey look emotionally exhausted and close to tears.\n\nThe foreground person remains heavily blurred.\n\nThe atmosphere is tense.\n\nCamera stays close.\n\n━━━━━━━━━━━━━━━━━━━━\n\n1.5–2.3 SECONDS:\n\nThe foreground person suddenly raises their hand.\n\nThe movement is fast and aggressive.\n\nThe subject does NOT anticipate the attack.\n\nNo pre-impact flinch.\n\nThe hand rapidly accelerates toward the cheek.\n\n━━━━━━━━━━━━━━━━━━━━\n\n2.3–2.8 SECONDS:\n\nVERY HARD OPEN-PALM SLAP.\n\nThe palm makes full physical contact with the cheek.\n\nStrong realistic impact.\n\nCheek compresses naturally.\n\nThe head sharply snaps sideways.\n\nHair reacts to the force.\n\nShoulders and upper torso move naturally.\n\nThe camera makes a tiny realistic reaction to the sudden impact.\n\nNo excessive camera shake.\n\n━━━━━━━━━━━━━━━━━━━━\n\n2.8–4.2 SECONDS:\n\nThe subject remains stunned.\n\nTheir head slowly returns.\n\nTheir VERY RED, BLOODSHOT eyes look toward the person who slapped them.\n\nTheir eyes immediately begin filling with tears.\n\nTheir lips tremble subtly.\n\nThey breathe shakily.\n\nThe emotional pain becomes visible.\n\n━━━━━━━━━━━━━━━━━━━━\n\n4.2–5.8 SECONDS:\n\nThe subject slowly raises one hand to the struck cheek.\n\nThey gently touch the cheek.\n\nA tear visibly forms in the lower eyelid.\n\nThe bloodshot redness remains clearly visible around both eyes.\n\nThe subject tries to hold back crying.\n\n━━━━━━━━━━━━━━━━━━━━\n\n5.8–7.2 SECONDS:\n\nThe first tear slowly travels down the cheek.\n\nA second tear begins forming in the opposite eye.\n\nThe subject lowers their gaze.\n\nTheir eyes remain extremely red, wet and glossy.\n\nTheir facial muscles subtly tremble.\n\n━━━━━━━━━━━━━━━━━━━━\n\n7.2–8.6 SECONDS:\n\nThe subject looks back toward the foreground person.\n\nBoth eyes are now visibly bloodshot and tear-filled.\n\nTear trails remain visible on the cheeks.\n\nThey slowly lower their hand.\n\nHold this emotional eye contact briefly.\n\n━━━━━━━━━━━━━━━━━━━━\n\n8.6–10.0 SECONDS:\n\nThe subject slowly turns away.\n\nThey begin walking away with restrained emotional pain.\n\nThe camera smoothly follows.\n\nTransition from intimate close-up to slightly wider cinematic framing.\n\nThe foreground person remains blurred behind them.\n\nThe subject's red eyes and tear-streaked cheeks remain visible for as long as the camera angle allows.\n\nEnd naturally.\n\n━━━━━━━━━━━━━━━━━━━━ CAMERA AND LENS ━━━━━━━━━━━━━━━━━━━━\n\nPhotorealistic handheld cinema-camera look.\n\n50mm–85mm equivalent perspective during close-up.\n\nWide aperture.\n\nStrong natural shallow depth of field.\n\nForeground person heavily blurred.\n\nMain subject's face and eyes sharply focused.\n\nAt the slap, maintain enough framing to clearly see:\n\nstriking hand\n\ncheek contact\n\nhead reaction\n\nupper body reaction.\n\nDo NOT crop away the impact.\n\nUse subtle handheld camera movement.\n\nNo robotic movement.\n\nNo excessive shake.\n\nUse a tiny natural camera reaction at the moment of impact.\n\nAfterward, smoothly stabilize.\n\nDuring the final walk-away, slowly widen the shot.\n\n━━━━━━━━━━━━━━━━━━━━ LIGHTING ━━━━━━━━━━━━━━━━━━━━\n\nWarm cinematic lighting.\n\nSoft directional light across the face.\n\nSubtle highlights in the wet eyes.\n\nNatural reflections on tears.\n\nThe bloodshot eye veins must remain visible.\n\nRealistic skin texture.\n\nNatural shadows.\n\nSubtle rim light around hair and shoulders.\n\nNo artificial glow.\n\nNo beauty lighting.\n\n━━━━━━━━━━━━━━━━━━━━ REALISM AND PHYSICS ━━━━━━━━━━━━━━━━━━━━\n\nEvery movement must obey real-world physics.\n\nRealistic hand acceleration.\n\nRealistic palm impact.\n\nRealistic facial compression.\n\nRealistic head movement.\n\nRealistic body momentum.\n\nRealistic hair movement.\n\nRealistic clothing movement.\n\nRealistic tears.\n\nRealistic blinking.\n\nRealistic breathing.\n\nRealistic walking.\n\nNo impossible motion.\n\nNo exaggerated physics.\n\n━━━━━━━━━━━━━━━━━━━━ FINAL VISUAL QUALITY ━━━━━━━━━━━━━━━━━━━━\n\nUltra-photorealistic live-action footage.\n\nProfessional cinematic realism.\n\nNatural skin pores.\n\nAuthentic facial micro-expressions.\n\nHighly realistic bloodshot eyes.\n\nPhysically accurate tears.\n\nRealistic hand anatomy.\n\nRealistic impact physics.\n\nNatural motion blur.\n\nNatural depth of field.\n\nNatural cinematic color grading.\n\nThe final result must look like a real emotional drama scene filmed with a professional cinema camera.\n\nNOT CGI.\n\nNOT animation.\n\nNOT cartoon.\n\nNOT AI-looking.\n\n━━━━━━━━━━━━━━━━━━━━ NEGATIVE PROMPT ━━━━━━━━━━━━━━━━━━━━\n\nNO identity change, NO face morphing, NO facial redesign, NO face reshaping, NO beauty filter, NO artificial skin smoothing, NO plastic skin, NO CGI appearance, NO cartoon, NO animation, NO supernatural red eyes, NO glowing red eyes, NO neon red eyes, NO horror eyes, NO artificial eye veins, NO exaggerated bloodshot eyes, NO fake tears, NO oversized tears, NO floating tears, NO tears appearing from nowhere, NO artificial tear streams, NO repeated slap, NO second slap, NO punching, NO kicking, NO excessive violence, NO hand passing through face, NO missed contact, NO fake impact, NO weak slap, NO slow casual slap, NO invisible impact, NO exaggerated head rotation, NO broken anatomy, NO flying backward, NO falling, NO distorted face, NO stretched face, NO distorted hands, NO extra fingers, NO extra arms, NO duplicated people, NO sudden character appearance, NO teleportation, NO robotic movement, NO excessive camera shake, NO sudden camera cuts, NO jump cuts, NO background changes, NO clothing changes, NO hairstyle changes, NO lighting flicker, NO exposure flicker, NO watermark, NO text, NO logo.\n\n━━━━━━━━━━━━━━━━━━━━ FINAL PRIORITY ━━━━━━━━━━━━━━━━━━━━\n\nPRIORITY 1: EXACT IDENTITY PRESERVATION.\n\nPRIORITY 2: ONE VERY HARD, FAST, CLEAR OPEN-PALM SLAP.\n\nPRIORITY 3: VISIBLE FULL PALM-TO-CHEEK CONTACT.\n\nPRIORITY 4: STRONG BUT REALISTIC HEAD AND BODY REACTION.\n\nPRIORITY 5: VERY RED, BLOODSHOT, WET AND IRRITATED EYES.\n\nPRIORITY 6: CLEAR REALISTIC TEAR FORMATION AND TEAR TRAILS.\n\nPRIORITY 7: NATURAL HAND-TO-CHEEK REACTION.\n\nPRIORITY 8: QUIET, RESTRAINED EMOTIONAL BREAKDOWN.\n\nPRIORITY 9: FINAL SAD LOOK AND SLOW WALK-AWAY.\n\nPRIORITY 10: MATCH THE REFERENCE VIDEO'S INTIMATE CINEMATIC FEEL AND NATURAL CAMERA MOVEMENT.\n\nThe slap must feel powerful enough that the audience immediately understands that the subject has been genuinely shocked and emotionally hurt, while the entire scene remains physically realistic, photorealistic and cinematic."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://yourimageshare.com/ib/6WWiF3VFJC.png",
+      "videoUrl": "https://yourimageshare.com/ib/oo6x4ChvqZ.mp4",
+      "tags": [
+        "Emotional",
+        "Drama",
+        "Cinematic",
+        "Crying",
+        "Reaction",
+        "Realistic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
+    },
+    {
+      "id": "drone-style-zoom-out-reveal-video-prompt",
+      "title": "Drone-Style Zoom Out Reveal Video Prompt",
+      "description": "A video prompt for a smooth drone-like zoom out that reveals more of the surroundings, with stabilized camera, dynamic depth and natural lighting.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "zooming out to reveal more of the surroundings. Maintain professional camera stabilization, dynamic depth, and natural lighting for a real drone-like look."
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://yourimageshare.com/ib/0bdrb9DVOy.png",
+      "videoUrl": "https://yourimageshare.com/ib/UIerDkgXW7.mp4",
+      "tags": [
+        "Drone",
+        "Zoom Out",
+        "Cinematic",
+        "Camera Movement",
+        "Reveal",
+        "Realistic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
+    },
+    {
       "id": "village-cricket-shot-ai-video-trend",
       "title": "Village Cricket Shot AI Video Trend in Google Flow",
       "description": "Create a cinematic AI cricket video in a rural Indian village using a reference video and your own photo, with realistic batting movements, natural cloth physics, and a continuous slow-motion cinematic shot.",
@@ -1549,6 +1684,36 @@
       "difficulty": "intermediate",
       "views": 0,
       "isFeatured": false
+    },
+    {
+      "id": "boat-embrace-dip-finale-bollywood-couple-cinematic-video-prompt",
+      "title": "Boat Embrace & Dip Finale – Bollywood Couple Cinematic Video Prompt",
+      "description": "A 10-second cinematic couple video prompt with strict identity lock for two reference images: a low-angle boat shot, a tight embrace, a hair whip and a final backward dip on a black-sand beach at sunset.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "“MALE CHARACTER — USER REFERENCE IMAGE\n\nUse the user's uploaded male reference image as the strict and primary identity reference. Preserve the exact same face, facial structure, skin tone, hairstyle, beard/facial hair, age appearance, body proportions and natural appearance throughout all shots. Do not redesign, beautify, de-age, age-up, replace or reinterpret the face. The male must look like the exact same person in every shot, regardless of wardrobe, lighting, camera angle or location.\n\nFEMALE CHARACTER — USER REFERENCE IMAGE\n\nUse the user's uploaded female reference image as the strict and primary identity reference. Preserve her exact facial identity, facial structure, skin tone, hairstyle/hair characteristics, age appearance and body proportions throughout all shots. Do not redesign, beautify, de-age, age-up or replace her face. She must remain the exact same woman throughout all three videos.\n\nGLOBAL IDENTITY RULE:\n\nBoth reference images are persistent character references for the entire sequence. Maintain identity continuity across cuts, wardrobe changes, extreme close-ups, wide shots, profile views, back views and slow-motion movement. No face drift, no identity morphing, no facial substitution.🎬 VIDEO PROMPT 3 — 00:20–00:30\n\nBOAT EMBRACE + DIP FINALE\n\nDuration: 10 seconds\n\nAspect Ratio: 16:9 cinematic widescreen\n\nContinue seamlessly from Video 2.\n\nSame exact male Gemini Avatar identity and same exact female reference identity.\n\n00:00–00:03 — SHOT 9\n\nCut to a static low-angle camera positioned inside the wooden boat hull.\n\nVisible wooden ribs and the boat's internal structure frame the lower edges of the composition.\n\nAbove them is a rich blue sky with scattered clouds.\n\nThe couple stands on the boat bench.\n\nThe male character takes a slow step toward the female while holding one of her hands.\n\nShe raises her opposite arm vertically toward the sky.\n\nThe wind moves her black gown and orange lining continuously.\n\nMetal horn cleats are visible on the boat gunwales.\n\nCamera remains low and stable, creating a heroic romantic silhouette.\n\n00:03–00:05 — SHOT 9B\n\nThe male gently places both hands around the woman's waist.\n\nShe arches both arms above her head.\n\nThey move closer together.\n\nHer silver chain-and-leaf shoulder details catch the sunlight.\n\nThe male's black leather jacket catches subtle highlights from the sunset.\n\nThe camera performs a very slow push-in.\n\nAudio: romantic duet continues, soft tabla/dholak groove, wind.\n\n00:05–00:07 — SHOT 10\n\nCut to a waist-up medium close-up against a cloud-streaked sky.\n\nThe couple is now in a tight embrace.\n\nHer arms loop naturally around his neck.\n\nHis hands remain around her back/waist.\n\nThey look directly at each other and appear to sing the romantic duet toward one another.\n\nBoth gradually break into broad, genuine smiles.\n\nPreserve exact facial identity and natural skin texture.\n\nSoft golden rim light outlines both faces.\n\n00:07–00:08 — SHOT 10B\n\nShe suddenly turns her head.\n\nHer long hair whips dramatically across the frame with realistic motion blur.\n\nA section of orange/red gown lining enters from frame right.\n\nThe male remains visible behind her, smiling.\n\nThe camera subtly pushes closer during the hair movement.\n\nAudio: synchronized hair-whip whoosh.\n\n00:08–00:10 — SHOT 11 — FINAL HERO SHOT\n\nTransition back to a wide cinematic shot of the stranded white wooden rowboat on the black-sand beach.\n\nThe couple stands at the bow in a close embrace.\n\nThe woman slowly melts into the male's chest.\n\nHe supports her securely.\n\nShe then moves into a graceful backward dip.\n\nHer hair falls downward toward the black sand.\n\nThe male holds her steadily.\n\nHer enormous black train with orange/red underside catches the wind and streams horizontally across the frame like giant wings.\n\nThe camera performs a slow pull-back combined with a gentle crane-down.\n\nThe boat bow sits lower-left.\n\nThe distant black rock spire sits near center background.\n\nGolden sunset clouds fill the upper half of the frame.\n\nHold the dip pose for the final moment.\n\nThe fabric sweeps across part of the foreground while the couple remains clearly visible.\n\nFinal visual: romantic, monumental Bollywood-style freeze-like held composition, warm sun flare, teal sky, amber highlights, fine film grain.\n\nAudio: final orchestral romantic swell, strings crescendo, soft wind and fabric flap gradually fading.”"
+        }
+      ],
+      "categoryId": "trending",
+      "imageUrl": "https://yourimageshare.com/ib/pDKAaIatet.png",
+      "videoUrl": "https://yourimageshare.com/ib/NoFpNRIzB1.mp4",
+      "tags": [
+        "Couple",
+        "Romantic",
+        "Bollywood",
+        "Cinematic",
+        "Boat",
+        "Beach",
+        "Gerua",
+        "Srk",
+        "Song"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video"
     },
     {
       "id": "miniature-instagram-profile-ai-video",
@@ -1651,115 +1816,24 @@
       "difficulty": "beginner",
       "isFeatured": false,
       "views": 0,
-      "type": "video"
-    },
-    {
-      "id": "drone-style-zoom-out-reveal-video-prompt",
-      "title": "Drone-Style Zoom Out Reveal Video Prompt",
-      "description": "A video prompt for a smooth drone-like zoom out that reveals more of the surroundings, with stabilized camera, dynamic depth and natural lighting.",
-      "content": "",
-      "prompts": [
+      "type": "video",
+      "assets": [
         {
-          "title": "Prompt 1 · Video",
-          "text": "zooming out to reveal more of the surroundings. Maintain professional camera stabilization, dynamic depth, and natural lighting for a real drone-like look."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://yourimageshare.com/ib/0bdrb9DVOy.png",
-      "videoUrl": "https://yourimageshare.com/ib/UIerDkgXW7.mp4",
-      "tags": [
-        "Drone",
-        "Zoom Out",
-        "Cinematic",
-        "Camera Movement",
-        "Reveal",
-        "Realistic"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "video"
-    },
-    {
-      "id": "emotional-slap-reaction-cinematic-video-prompt-bloodshot-eyes-tears",
-      "title": "Emotional Slap Reaction Cinematic Video Prompt – Bloodshot Eyes, Tears & Walk-Away",
-      "description": "A 10-second cinematic drama video prompt with a realistic open-palm slap, strict identity lock, bloodshot teary eyes, a restrained emotional reaction and a slow walk-away.",
-      "content": "",
-      "prompts": [
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/HNk3h3HPEV.png"
+        },
         {
-          "title": "Prompt 1 · Video",
-          "text": "CREATE A HIGHLY REALISTIC CINEMATIC 10-SECOND VIDEO FROM THE PROVIDED IMAGE.\n\nUse the provided reference video as the PRIMARY REFERENCE for the overall composition, character positioning, camera distance, physical interaction, timing, emotional pacing, camera movement and final walk-away.\n\nThe central event is a SUDDEN, VERY HARD, REALISTIC OPEN-PALM SLAP delivered to the main subject by the person standing extremely close in the foreground.\n\nThe slap must feel significantly stronger and more impactful than a normal casual slap, while still remaining physically believable and cinematic.\n\nThe main subject's eyes must remain noticeably RED, BLOODSHOT, IRRITATED, WET AND EMOTIONALLY DISTRESSED throughout the scene.\n\n━━━━━━━━━━━━━━━━━━━━ STRICT IDENTITY PRESERVATION ━━━━━━━━━━━━━━━━━━━━\n\nKeep the main subject EXACTLY identical to the input image.\n\nSTRICT IDENTITY LOCK.\n\nPreserve the exact:\n\nface\n\nfacial structure\n\neyes\n\neyebrows\n\nnose\n\nlips\n\njawline\n\nhairstyle\n\nhairline\n\nskin tone\n\nbody proportions\n\nclothing\n\naccessories\n\nage\n\noverall appearance\n\nDO NOT beautify.\n\nDO NOT reshape the face.\n\nDO NOT change facial proportions.\n\nDO NOT change the person's identity.\n\nDO NOT make the subject look like an AI-generated beauty model.\n\nMaintain authentic skin texture, pores and natural facial imperfections.\n\nThe subject must remain unmistakably the same person from the first frame to the final frame.\n\n━━━━━━━━━━━━━━━━━━━━ VERY RED BLOODSHOT EYES ━━━━━━━━━━━━━━━━━━━━\n\nIMPORTANT VISUAL REQUIREMENT:\n\nThe main subject's eyes must be VERY NOTICEABLY RED.\n\nBoth eyes should have clearly visible bloodshot redness around the whites of the eyes.\n\nThe redness should look like genuine emotional distress, prolonged crying and irritation.\n\nThe sclera should contain subtle but clearly visible natural red veins.\n\nThe eyes must also appear:\n\nwet\n\nglossy\n\nirritated\n\nswollen very slightly\n\nemotionally exhausted\n\nfilled with tears\n\nThe redness must NOT look like glowing red eyes.\n\nNo supernatural effect.\n\nNo horror effect.\n\nNo artificial neon red.\n\nThe red veins must remain anatomically realistic.\n\nThe eyes should look like a real person who has been crying intensely and is emotionally devastated.\n\nThe bloodshot appearance must remain visible even when the subject looks away.\n\n━━━━━━━━━━━━━━━━━━━━ REFERENCE VIDEO COMPOSITION ━━━━━━━━━━━━━━━━━━━━\n\nRecreate the intimate confrontation style of the reference video.\n\nThe main subject stands very close to the opposite-gender person.\n\nThe foreground person occupies part of the near foreground and remains heavily blurred.\n\nThe main subject remains the visual focus.\n\nThe camera is positioned close enough that the facial reaction and slap impact are clearly visible.\n\nThe scene should feel like authentic live-action footage from an emotional drama.\n\n━━━━━━━━━━━━━━━━━━━━ VERY HARD SLAP ━━━━━━━━━━━━━━━━━━━━\n\nIMPORTANT:\n\nThe slap must be MUCH HARDER and more forceful than an ordinary slap.\n\nThe foreground person suddenly swings their open palm with strong realistic acceleration toward the main subject's cheek.\n\nThe movement must have visible momentum.\n\nThe palm must make CLEAR, FULL PHYSICAL CONTACT with the cheek.\n\nThe impact must feel powerful enough to produce an immediate involuntary reaction.\n\nAt the exact moment of impact:\n\ncheek naturally compresses\n\nhead sharply jerks sideways\n\nhair moves from the force\n\nshoulders react\n\nupper body shifts slightly\n\nfacial expression instantly changes\n\neyes briefly react to the shock\n\nbody weight shifts naturally\n\nclothing reacts subtly to the movement\n\nThe reaction should be strong but physically realistic.\n\nDO NOT make the subject fly backward.\n\nDO NOT make the subject fall.\n\nDO NOT break bones.\n\nDO NOT create exaggerated action-movie physics.\n\nThe strength should come from the speed and momentum of the slap and the subject's realistic involuntary reaction.\n\nONLY ONE SLAP.\n\nNo second slap.\n\n━━━━━━━━━━━━━━━━━━━━ IMPACT TIMING ━━━━━━━━━━━━━━━━━━━━\n\nThe striking hand must visibly travel from the foreground person's starting position to the subject's cheek.\n\nDo NOT begin with the hand already touching the face.\n\nDo NOT hide the impact.\n\nDo NOT make the hand pass through the face.\n\nDo NOT make contact occur before the hand reaches the cheek.\n\nThe exact sequence must be:\n\nhand raises → rapid swing → palm contacts cheek → cheek compresses → head sharply turns → body reacts → emotional shock begins.\n\nThe reaction must happen AFTER contact.\n\n━━━━━━━━━━━━━━━━━━━━ EMOTIONAL PERFORMANCE ━━━━━━━━━━━━━━━━━━━━\n\nImmediately after the powerful slap, the subject becomes completely stunned.\n\nThey remain silent for a brief moment.\n\nTheir head stays slightly turned from the impact.\n\nThey slowly return their gaze toward the person who slapped them.\n\nTheir already-red eyes become even wetter.\n\nThe expression changes from physical shock into deep emotional pain.\n\nThe lips tremble subtly.\n\nThe jaw becomes slightly tense.\n\nBreathing becomes heavier.\n\nThe subject swallows as if trying desperately not to cry.\n\nThe performance must remain restrained and realistic.\n\nNo screaming.\n\nNo exaggerated theatrical crying.\n\n━━━━━━━━━━━━━━━━━━━━ REALISTIC CRYING ━━━━━━━━━━━━━━━━━━━━\n\nThe subject begins silently crying after the impact.\n\nBecause the eyes are already heavily bloodshot, the tears should appear especially visible against the red, wet eyes.\n\nA realistic tear forms naturally along the lower eyelid.\n\nIt gathers at the corner of the eye.\n\nIt slowly rolls down the cheek.\n\nThe tear must follow the natural contour of the face.\n\nThe tear must remain attached to the skin.\n\nIt should reflect the warm cinematic light.\n\nA second tear gradually forms from the opposite eye.\n\nBoth tear trails should remain subtle but clearly visible.\n\nThe cheeks should become slightly wet.\n\nNo oversized tears.\n\nNo artificial tear streams.\n\nNo floating droplets.\n\nNo tears appearing from nowhere.\n\n━━━━━━━━━━━━━━━━━━━━ HAND TO STRUCK CHEEK ━━━━━━━━━━━━━━━━━━━━\n\nImmediately after processing the shock, the subject slowly raises one hand toward the cheek that was struck.\n\nThe movement should be delayed naturally.\n\nTheir fingertips gently touch the painful cheek.\n\nThey hold the cheek briefly.\n\nTheir bloodshot eyes remain fixed emotionally toward the person who slapped them.\n\nThe expression communicates:\n\nshock, pain, disbelief, humiliation, sadness, betrayal, emotional devastation.\n\nThe hand then slowly lowers.\n\nCorrect anatomy at all times.\n\n━━━━━━━━━━━━━━━━━━━━ EXACT 10-SECOND TIMELINE ━━━━━━━━━━━━━━━━━━━━\n\n0.0–1.5 SECONDS:\n\nMain subject stands close to the foreground person.\n\nThe subject already has noticeably RED, BLOODSHOT, WET eyes.\n\nThe eyes contain visible natural red veins.\n\nThey look emotionally exhausted and close to tears.\n\nThe foreground person remains heavily blurred.\n\nThe atmosphere is tense.\n\nCamera stays close.\n\n━━━━━━━━━━━━━━━━━━━━\n\n1.5–2.3 SECONDS:\n\nThe foreground person suddenly raises their hand.\n\nThe movement is fast and aggressive.\n\nThe subject does NOT anticipate the attack.\n\nNo pre-impact flinch.\n\nThe hand rapidly accelerates toward the cheek.\n\n━━━━━━━━━━━━━━━━━━━━\n\n2.3–2.8 SECONDS:\n\nVERY HARD OPEN-PALM SLAP.\n\nThe palm makes full physical contact with the cheek.\n\nStrong realistic impact.\n\nCheek compresses naturally.\n\nThe head sharply snaps sideways.\n\nHair reacts to the force.\n\nShoulders and upper torso move naturally.\n\nThe camera makes a tiny realistic reaction to the sudden impact.\n\nNo excessive camera shake.\n\n━━━━━━━━━━━━━━━━━━━━\n\n2.8–4.2 SECONDS:\n\nThe subject remains stunned.\n\nTheir head slowly returns.\n\nTheir VERY RED, BLOODSHOT eyes look toward the person who slapped them.\n\nTheir eyes immediately begin filling with tears.\n\nTheir lips tremble subtly.\n\nThey breathe shakily.\n\nThe emotional pain becomes visible.\n\n━━━━━━━━━━━━━━━━━━━━\n\n4.2–5.8 SECONDS:\n\nThe subject slowly raises one hand to the struck cheek.\n\nThey gently touch the cheek.\n\nA tear visibly forms in the lower eyelid.\n\nThe bloodshot redness remains clearly visible around both eyes.\n\nThe subject tries to hold back crying.\n\n━━━━━━━━━━━━━━━━━━━━\n\n5.8–7.2 SECONDS:\n\nThe first tear slowly travels down the cheek.\n\nA second tear begins forming in the opposite eye.\n\nThe subject lowers their gaze.\n\nTheir eyes remain extremely red, wet and glossy.\n\nTheir facial muscles subtly tremble.\n\n━━━━━━━━━━━━━━━━━━━━\n\n7.2–8.6 SECONDS:\n\nThe subject looks back toward the foreground person.\n\nBoth eyes are now visibly bloodshot and tear-filled.\n\nTear trails remain visible on the cheeks.\n\nThey slowly lower their hand.\n\nHold this emotional eye contact briefly.\n\n━━━━━━━━━━━━━━━━━━━━\n\n8.6–10.0 SECONDS:\n\nThe subject slowly turns away.\n\nThey begin walking away with restrained emotional pain.\n\nThe camera smoothly follows.\n\nTransition from intimate close-up to slightly wider cinematic framing.\n\nThe foreground person remains blurred behind them.\n\nThe subject's red eyes and tear-streaked cheeks remain visible for as long as the camera angle allows.\n\nEnd naturally.\n\n━━━━━━━━━━━━━━━━━━━━ CAMERA AND LENS ━━━━━━━━━━━━━━━━━━━━\n\nPhotorealistic handheld cinema-camera look.\n\n50mm–85mm equivalent perspective during close-up.\n\nWide aperture.\n\nStrong natural shallow depth of field.\n\nForeground person heavily blurred.\n\nMain subject's face and eyes sharply focused.\n\nAt the slap, maintain enough framing to clearly see:\n\nstriking hand\n\ncheek contact\n\nhead reaction\n\nupper body reaction.\n\nDo NOT crop away the impact.\n\nUse subtle handheld camera movement.\n\nNo robotic movement.\n\nNo excessive shake.\n\nUse a tiny natural camera reaction at the moment of impact.\n\nAfterward, smoothly stabilize.\n\nDuring the final walk-away, slowly widen the shot.\n\n━━━━━━━━━━━━━━━━━━━━ LIGHTING ━━━━━━━━━━━━━━━━━━━━\n\nWarm cinematic lighting.\n\nSoft directional light across the face.\n\nSubtle highlights in the wet eyes.\n\nNatural reflections on tears.\n\nThe bloodshot eye veins must remain visible.\n\nRealistic skin texture.\n\nNatural shadows.\n\nSubtle rim light around hair and shoulders.\n\nNo artificial glow.\n\nNo beauty lighting.\n\n━━━━━━━━━━━━━━━━━━━━ REALISM AND PHYSICS ━━━━━━━━━━━━━━━━━━━━\n\nEvery movement must obey real-world physics.\n\nRealistic hand acceleration.\n\nRealistic palm impact.\n\nRealistic facial compression.\n\nRealistic head movement.\n\nRealistic body momentum.\n\nRealistic hair movement.\n\nRealistic clothing movement.\n\nRealistic tears.\n\nRealistic blinking.\n\nRealistic breathing.\n\nRealistic walking.\n\nNo impossible motion.\n\nNo exaggerated physics.\n\n━━━━━━━━━━━━━━━━━━━━ FINAL VISUAL QUALITY ━━━━━━━━━━━━━━━━━━━━\n\nUltra-photorealistic live-action footage.\n\nProfessional cinematic realism.\n\nNatural skin pores.\n\nAuthentic facial micro-expressions.\n\nHighly realistic bloodshot eyes.\n\nPhysically accurate tears.\n\nRealistic hand anatomy.\n\nRealistic impact physics.\n\nNatural motion blur.\n\nNatural depth of field.\n\nNatural cinematic color grading.\n\nThe final result must look like a real emotional drama scene filmed with a professional cinema camera.\n\nNOT CGI.\n\nNOT animation.\n\nNOT cartoon.\n\nNOT AI-looking.\n\n━━━━━━━━━━━━━━━━━━━━ NEGATIVE PROMPT ━━━━━━━━━━━━━━━━━━━━\n\nNO identity change, NO face morphing, NO facial redesign, NO face reshaping, NO beauty filter, NO artificial skin smoothing, NO plastic skin, NO CGI appearance, NO cartoon, NO animation, NO supernatural red eyes, NO glowing red eyes, NO neon red eyes, NO horror eyes, NO artificial eye veins, NO exaggerated bloodshot eyes, NO fake tears, NO oversized tears, NO floating tears, NO tears appearing from nowhere, NO artificial tear streams, NO repeated slap, NO second slap, NO punching, NO kicking, NO excessive violence, NO hand passing through face, NO missed contact, NO fake impact, NO weak slap, NO slow casual slap, NO invisible impact, NO exaggerated head rotation, NO broken anatomy, NO flying backward, NO falling, NO distorted face, NO stretched face, NO distorted hands, NO extra fingers, NO extra arms, NO duplicated people, NO sudden character appearance, NO teleportation, NO robotic movement, NO excessive camera shake, NO sudden camera cuts, NO jump cuts, NO background changes, NO clothing changes, NO hairstyle changes, NO lighting flicker, NO exposure flicker, NO watermark, NO text, NO logo.\n\n━━━━━━━━━━━━━━━━━━━━ FINAL PRIORITY ━━━━━━━━━━━━━━━━━━━━\n\nPRIORITY 1: EXACT IDENTITY PRESERVATION.\n\nPRIORITY 2: ONE VERY HARD, FAST, CLEAR OPEN-PALM SLAP.\n\nPRIORITY 3: VISIBLE FULL PALM-TO-CHEEK CONTACT.\n\nPRIORITY 4: STRONG BUT REALISTIC HEAD AND BODY REACTION.\n\nPRIORITY 5: VERY RED, BLOODSHOT, WET AND IRRITATED EYES.\n\nPRIORITY 6: CLEAR REALISTIC TEAR FORMATION AND TEAR TRAILS.\n\nPRIORITY 7: NATURAL HAND-TO-CHEEK REACTION.\n\nPRIORITY 8: QUIET, RESTRAINED EMOTIONAL BREAKDOWN.\n\nPRIORITY 9: FINAL SAD LOOK AND SLOW WALK-AWAY.\n\nPRIORITY 10: MATCH THE REFERENCE VIDEO'S INTIMATE CINEMATIC FEEL AND NATURAL CAMERA MOVEMENT.\n\nThe slap must feel powerful enough that the audience immediately understands that the subject has been genuinely shocked and emotionally hurt, while the entire scene remains physically realistic, photorealistic and cinematic."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://yourimageshare.com/ib/6WWiF3VFJC.png",
-      "videoUrl": "https://yourimageshare.com/ib/oo6x4ChvqZ.mp4",
-      "tags": [
-        "Emotional",
-        "Drama",
-        "Cinematic",
-        "Crying",
-        "Reaction",
-        "Realistic"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "video"
-    },
-    {
-      "id": "emotional-crying-performance-cinematic-video-prompt-tears-walk-away",
-      "title": "Emotional Crying Performance Cinematic Video Prompt – Tears & Walk-Away",
-      "description": "A 10-second cinematic video prompt for a restrained, realistic crying performance with glossy red eyes, physically accurate tears, a focus pull from a blurred foreground person and a slow walk-away.",
-      "content": "",
-      "prompts": [
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/zrWIsHLXPr.mp4"
+        },
         {
-          "title": "Prompt 1 · Video",
-          "text": "Create a highly realistic cinematic video from the provided image, closely matching the provided reference video.\n\nSTRICT IDENTITY PRESERVATION:\nKeep the main subject’s face, identity, facial structure, hairstyle, clothing, skin tone, body proportions and overall appearance exactly consistent with the input image. Do not beautify, redesign, morph or alter the face.\n\nEMOTIONAL CRYING PERFORMANCE\n\nThe main subject is experiencing deep, genuine sadness while looking emotionally toward the blurred opposite-gender person standing very close in the foreground.\n\nThe crying must be clearly visible and unmistakable, not just watery eyes.\n\nStart with the subject holding back tears. Their eyes gradually become glossy and filled with tears. The subject blinks slowly as if trying to control their emotions. A visible tear forms naturally at the lower eyelid, gathers at the corner of the eye, then slowly rolls down the cheek due to gravity.\n\nAs the emotion becomes stronger, a second tear appears from the other eye and gently travels down the cheek. The subject's eyes become noticeably red and wet, with realistic tear reflections catching the warm cinematic light.\n\nThe subject subtly lowers their gaze, their lips and facial muscles tremble very slightly, and they take a soft emotional breath as they struggle not to cry. Their expression should communicate heartbreak, sadness and emotional pain without exaggerated acting.\n\nThe subject briefly looks back toward the blurred person with tear-filled eyes. Tears remain visibly present on the cheeks. The crying should feel like a quiet, restrained emotional breakdown, not loud sobbing.\n\nTIMING AND ACTION\n\n0–2 seconds:\nSubject looks emotionally toward the blurred foreground person. Eyes gradually become glossy and tear-filled.\n\n2–4 seconds:\nSubject slowly blinks and tries to hold back tears. A visible tear forms in the lower eyelid.\n\n4–6 seconds:\nThe tear slowly rolls down the cheek. The subject lowers their gaze, showing subtle emotional pain and a slight trembling expression.\n\n6–8 seconds:\nSubject looks back emotionally toward the foreground person. Another tear rolls down the opposite cheek. Eyes remain visibly wet and red.\n\n8–10 seconds:\nSubject turns away slowly and begins walking away with restrained sadness. Tears remain visible on the cheeks as the camera smoothly transitions into a slightly wider cinematic shot.\n\nCINEMATIC LOOK\n\nShallow depth of field, heavily blurred foreground person, warm golden nighttime bokeh, realistic skin texture, natural facial micro-expressions, realistic tear reflections, soft cinematic lighting, subtle rim light, realistic shadows, smooth focus pull from foreground to subject, gentle handheld cinematic camera movement, photorealistic detail.\n\nThe tears must behave physically realistically: tears originate from the eyes, accumulate naturally, reflect the surrounding light, and travel downward along the natural contours of the cheeks.\n\nNEGATIVE PROMPT\n\nNo fake-looking tears, no oversized tears, no tear streams appearing suddenly, no crying exaggerated like an actor, no screaming, no open-mouth sobbing, no cartoon crying, no artificial glossy face, no plastic skin, no face morphing, no identity change, no facial distortion, no changing hairstyle, no clothing change, no distorted hands, no extra fingers, no extra people, no duplicated person, no sudden camera cuts, no unnatural body movement, no floating tears, no tears appearing from nowhere, no tear droplets detached from the eyes, no unrealistic facial expressions.\n\nIMPORTANT: The crying must be clearly visible throughout the emotional peak. At least one realistic tear must visibly form at the eye and slowly roll down the subject’s cheek before the subject turns away."
+          "title": "Template PDF",
+          "type": "file",
+          "url": "https://.../guide.pdf"
         }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://yourimageshare.com/ib/lbLqrypbYY.png",
-      "videoUrl": "https://yourimageshare.com/ib/qehBx9npk8.mp4",
-      "tags": [
-        "Emotional",
-        "Crying",
-        "Cinematic",
-        "Tears",
-        "Drama",
-        "Realistic"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "video"
-    },
-    {
-      "id": "luxury-mustang-coastal-road-cinematic-video-prompt-cherry-blossoms-rolex",
-      "title": "Luxury Mustang Coastal Road Cinematic Video Prompt – Cherry Blossoms & Rolex",
-      "description": "A 15-second, 5-shot cinematic luxury video prompt with slow motion, speed ramps and smooth arcs: a young man in a white puffer jacket with a Mustang and Rolex on a wet coastal road lined with cherry blossoms.",
-      "content": "",
-      "prompts": [
-        {
-          "title": "Prompt 1 · Video",
-          "text": "VIDEO PROMPT (15s |5 shots | slomo +speed ramps | arcs + push/pull I cinematic luxury)\n\nYoung man in a white puffer jacket, black baggy jeans, black sneakers, black sunglasses, wearing a black Rolex watch. Wet coastal road, \n\ncherry blossoms, ocean backdrop, strong wind, drifting petals, soft overcast lighting, glossy reflections.\n\nSHOT 1(0:00-0:03)\n\nOver-shoulder interior - steering\n\nwheel (Mustang logo)\n\nArc right + push-in\n\nSlow motion\n\nCamera behind his shoulder framing\n\nthe steering wheel and logo, his\n\nhand resting lightly on it, subtle\n\nmovement, reflections sliding across interior.\n\nSHOT 2(0:03-0:06)\n\nExtreme close-up - wrist\n\nMicro arc + push-in\n\nSlow motion\n\nHe slightly pulls back his sleeve, \n\nrevealing a black Rolex watch, metal\n\ncatching soft light, reflections shimmering.\n\nSHOT 3(0:06-0:09)\n\nTight face shot\n\nArc left + push-in\n\nSpeed ramp: real-time → slow\n\nmotionHe lifts one hand and lowers\n\nsunglasses from the middle just a little, giving a quick subtle wink through the gap, then holds a calm.confident expression. Petals drift across foreground.\n\nSHOT 4(0:09-0:12\n\n.HERO\n\nDriver-side window (tight, slightly\n\nlow angle)\n\nArc right + slow push-in\n\nSlow motion\n\nSeated low, arm on window edge.\n\nHe keeps the glasses slightly\n\nlowered - partial eye reveal only -holding a sharp, steady stare into camera. Wind moves collar, \n\nreflections glide across door.\n\nSHOT 5(0:12-0:15)\n\nDriver seat, door fully open (wide\n\nexterior)\n\nArc left + slow pull-out\n\nUO!1oU MOIS\n\nDoor wide open. He sits relaxed, one\n\nleg slightly out, arm resting\n\nnaturally, minimal movement. Wind lifts jacket, petals blow across frame, clean cinematic end.\n\nSTYLE\n\nMinimal, controlled, premium\n\naesthetic - smooth arcs only, \n\nshallow DOF, strong wind\n\ninteraction, micro-expressions carry the energy."
-        }
-      ],
-      "categoryId": "trending",
-      "imageUrl": "https://yourimageshare.com/ib/Sdc3hZY1fv.png",
-      "videoUrl": "https://yourimageshare.com/ib/PbKc7qWePN.mp4",
-      "tags": [
-        "Luxury",
-        "Cinematic",
-        "Mustang",
-        "Cherry Blossom",
-        "Slow Motion",
-        "Boys"
-      ],
-      "difficulty": "beginner",
-      "isFeatured": false,
-      "views": 0,
-      "type": "video"
+      ]
     }
   ]
 }
