@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
-  "version": 31,
-  "updatedAt": "2026-11-01T12:04:20Z",
+  "version": 32,
+  "updatedAt": "2026-11-02T04:33:20Z",
   "categories": [
     {
       "id": "trending",
@@ -1963,7 +1963,7 @@
           "text": "Cinematic medium shot of the person from the reference image, gracefully smiling warmly at the camera. The character is wearing an elegant maroon and gold embroidered saree with traditional jewelry and a delicate bindi. Set in the center of a historic traditional street lined with glowing earthen diyas and festive marigold floral garlands hanging from heritage buildings. In the background, family members and friends walk by joyfully, and celebratory fireworks bloom in the twilight sky. Smooth slow-motion camera push-in, warm festive lighting, high detail, photorealistic, 4k."
         }
       ],
-      "categoryId": "trending",
+      "categoryId": "diwali",
       "imageUrl": "https://yourimageshare.com/ib/W8y4lAayCi.png",
       "videoUrl": "https://yourimageshare.com/ib/97T1qWeFmf.mp4",
       "tags": [
@@ -1993,6 +1993,318 @@
           "title": "Reference photo 2",
           "type": "image",
           "url": "https://yourimageshare.com/ib/df9Zyt7jiK.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-diya-lighting-ritual-saree-cinematic-video-prompt",
+      "title": "Diwali Diya Lighting Ritual Saree Cinematic Video Prompt",
+      "description": "A cinematic Diwali video prompt using a reference image: a woman in a vibrant saree kneels and lights a circle of diyas under soft fairy lights while the camera slowly pans around her.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "“Cinematic medium shot of the person from the reference image,The character is wearing an vibrant saree is kneeling on the ground, carefully lighting a circle of small oil lamps (diyas) arranged around her. The warm glow illuminates her face and traditional attire. Soft fairy lights hang in the background, creating a serene and festive atmosphere. The camera slowly pans around her as she completes the circle.”\nCaptures a moment of quiet devotion and ritual—perfect for heartfelt Diwali wishes."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/6jI6QF1p2D.png",
+      "videoUrl": "https://yourimageshare.com/ib/5U9BhJuxiu.mp4",
+      "tags": [
+        "Diwali",
+        "Saree",
+        "Diya",
+        "Ritual",
+        "Festival",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/5U9BhJuxiu.mp4"
+        },
+        {
+          "title": "sample photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/6jI6QF1p2D.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-anarkali-suit-diya-plate-dusk-cinematic-video-prompt",
+      "title": "Diwali Anarkali Suit Diya Plate at Dusk Cinematic Video Prompt",
+      "description": "A cinematic Diwali video prompt using a reference image: a woman in an Anarkali suit places diyas on the ground at dusk with fairy lights, a warm glow and a soft lens flare.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "“the person from the reference image in a beautiful Anarkali suit stands at dusk, holding a plate full of diyas in her hands. She gently places one diya on the ground, then picks up another, her long hair blowing softly in the breeze. The background is filled with the warm glow of countless other diyas already lit on the ground, with strings of fairy lights hanging above. A soft lens flare enhances the nostalgic, festive mood.”\nJoyful and focused, ideal for a personal or family Diwali greeting."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/0udg1vThHI.png",
+      "videoUrl": "https://yourimageshare.com/ib/iiGz4DC9hk.mp4",
+      "tags": [
+        "Diwali",
+        "Anarkali",
+        "Diya",
+        "Festival",
+        "Dusk",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/iiGz4DC9hk.mp4"
+        },
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/0udg1vThHI.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-couple-terrace-diya-circle-romantic-cinematic-video-prompt",
+      "title": "Diwali Couple Terrace Diya Circle Romantic Cinematic Video Prompt",
+      "description": "A cinematic Diwali couple video prompt using a reference image: a young couple in matching festive outfits kneel on a terrace, lighting a large circle of diyas under distant fireworks.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "“A young couple, dressed in matching festive outfits from the reference image, are kneeling together on a terrace floor. They are arranging and lighting a large, intricate circle of diyas around them. The man holds a plate of unlit diyas while the woman lights each one with a gentle smile. Fireworks burst faintly in the night sky behind them, adding to the romantic and celebratory ambiance.”\nRomantic and collaborative—great for couples or newlyweds sharing their Diwali joy."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/fYhLXFWeRK.png",
+      "videoUrl": "https://yourimageshare.com/ib/SgyIfCWQ6O.mp4",
+      "tags": [
+        "Diwali",
+        "Couple",
+        "Diya",
+        "Romantic",
+        "Terrace",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/SgyIfCWQ6O.mp4"
+        },
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/fYhLXFWeRK.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-family-diya-ring-togetherness-cinematic-video-prompt",
+      "title": "Diwali Family Diya Ring Togetherness Cinematic Video Prompt",
+      "description": "A cinematic Diwali family video prompt using a reference image: a family in colorful traditional clothes gathers around a large ring of diyas and lights them together under fairy lights and lanterns.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "“A family from the reference image, dressed in colorful traditional clothes, gathers around a large ring of diyas they have placed on the ground. Each member holds a small diya in their hands, ready to light it. As they simultaneously light the lamps, their faces glow with happiness and warmth. Strings of fairy lights and lanterns illuminate the scene from above, capturing the essence of togetherness during Diwali.”\nLighthearted and communal—ideal for family messages or community celebrations."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/mYT59hUoXz.png",
+      "videoUrl": "https://yourimageshare.com/ib/VRiFKQ9utP.mp4",
+      "tags": [
+        "Diwali",
+        "Family",
+        "Diya",
+        "Festival",
+        "Togetherness",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/VRiFKQ9utP.mp4"
+        },
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/mYT59hUoXz.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-yellow-lehenga-devotional-diyas-close-up-cinematic-video-prompt",
+      "title": "Diwali Yellow Lehenga Devotional Diyas Close-Up Cinematic Video Prompt",
+      "description": "A cinematic Diwali video prompt: a young woman in a bright yellow lehenga sits cross-legged holding lit diyas in cupped hands, with a softly blurred background and a close focus on her hands and the flickering flames.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "“A young woman from the reference image in a bright yellow lehenga sits cross-legged on the floor, her hands cupped together, holding several small, lit diyas. Her expression is serene and devotional as she gazes at the flames. The background is softly blurred, filled with the bokeh of distant diyas and a subtle outline of a traditional idol, creating a magical, ethereal glow. The camera focuses on her hands and the flickering flames.”\nSpiritual and intimate—perfect for conveying deep blessings and gratitude."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/2NqNVeQMax.png",
+      "videoUrl": "https://yourimageshare.com/ib/ikv3fvNmPE.mp4",
+      "tags": [
+        "Diwali",
+        "Lehenga",
+        "Diya",
+        "Devotional",
+        "Festival",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/ikv3fvNmPE.mp4"
+        },
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/2NqNVeQMax.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-sequined-lehenga-high-rise-balcony-diya-circle-cinematic-video-prompt",
+      "title": "Diwali Sequined Lehenga High-Rise Balcony Diya Circle Cinematic Video Prompt",
+      "description": "A cinematic Diwali video prompt using a reference image: a young woman in a modern sequined lehenga lights a circle of diyas on a high-rise balcony with a glowing city skyline, LED fairy lights and fireworks.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "“A young woman using a reference image in a modern, sequined lehenga stands on a high-rise balcony, city skyline glowing behind her. She is carefully placing and lighting a circle of diyas on the floor around her feet. The LED fairy lights and fireworks in the background blend tradition with modernity. The shot is cinematic, with a glossy magazine-style look, focusing on her graceful movements and the warm glow of the lamps.”\nStylish and contemporary—great for influencers or brands targeting a younger audience."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/xGbJfr246D.png",
+      "videoUrl": "https://yourimageshare.com/ib/P2r3Gk7DbA.mp4",
+      "tags": [
+        "Diwali",
+        "Lehenga",
+        "Diya",
+        "Balcony",
+        "Modern",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/P2r3Gk7DbA.mp4"
+        },
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/xGbJfr246D.png"
+        }
+      ]
+    },
+    {
+      "id": "retro-90s-diwali-white-lehenga-diya-circle-portrait-video-prompt",
+      "title": "Retro 90s Diwali White Lehenga Diya Circle Portrait Video Prompt",
+      "description": "A retro 4K Diwali portrait video prompt using a reference image: a girl in a white lehenga with jewelry and henna stands inside a circle of lit diyas, with a warm glow, soft bokeh and a nostalgic grainy 90s look.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "“Create a stunning retro 4K professional Diwali portrait of a girl using a reference image. She is dressed in a traditional white lehenga with charm jewelry and henna, standing amidst a circle of lit diyas on the ground. The warm glow of the lamps illuminates her face as she gently touches one of the lamps. The vibrant pink and gold tones of the outfit reflect the light, and the background includes soft bokeh effects from distant lights. Style: nostalgic 90s aesthetic with a slightly grainy texture.”\nArtistic and nostalgic—celebrates Diwali’s timeless traditions with a vintage feel."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/b4QOnAOULc.png",
+      "videoUrl": "https://yourimageshare.com/ib/7yuLfwhkLu.mp4",
+      "tags": [
+        "Diwali",
+        "Retro",
+        "90s",
+        "Lehenga",
+        "Diya",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/7yuLfwhkLu.mp4"
+        },
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/b4QOnAOULc.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-cream-kurta-rooftop-terrace-diya-circle-cinematic-video-prompt-for-boys",
+      "title": "Diwali Cream Kurta Rooftop Terrace Diya Circle Cinematic Video Prompt for Boys",
+      "description": "A cinematic Diwali video prompt using a reference image with the face kept unchanged: a man in a cream kurta lights a circle of diyas on a modern rooftop terrace at night, with fireworks, fairy lights and glowing rangoli patterns.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "“Do not alter the face  using a reference image. A man in a cream kurta stands on a modern rooftop terrace under the night sky. He is bending down to light a circle of diyas he has arranged on the floor. The background is filled with fireworks, fairy lights, and glowing rangoli patterns. A single diya flickers gently in his hand as he places it down, casting warm golden highlights. Shot in DSLR-style sharpness, 4K cinematic effect.”\nGrand and personal—combines the intimacy of the ritual with the grandeur of the festival."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/54RlMM8Twk.png",
+      "videoUrl": "https://yourimageshare.com/ib/QjyAGQLjH6.mp4",
+      "tags": [
+        "Diwali",
+        "Boys",
+        "Kurta",
+        "Diya",
+        "Rooftop",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/QjyAGQLjH6.mp4"
+        },
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/54RlMM8Twk.png"
         }
       ]
     }
