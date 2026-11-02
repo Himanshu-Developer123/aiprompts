@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
-  "version": 32,
-  "updatedAt": "2026-11-02T04:33:20Z",
+  "version": 33,
+  "updatedAt": "2026-11-02T13:07:20Z",
   "categories": [
     {
       "id": "trending",
@@ -1832,6 +1832,558 @@
           "title": "Template PDF",
           "type": "file",
           "url": "https://.../guide.pdf"
+        }
+      ]
+    },
+    {
+      "id": "diwali-night-terrace-phuljhari-white-kurta-portrait-image-prompt",
+      "title": "Diwali Night Terrace Portrait Image Prompt – White Kurta, Phuljhari & Fireworks",
+      "description": "An ultra-realistic 4K Diwali night portrait that keeps the uploaded man's real face and hair identical: a white kurta, a lit phuljhari in hand, a terrace wall with glowing diyas, fireworks in the sky and metallic 'Happy Diwali' text.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra realistic 4K cinematic portrait of the same young man from the uploaded reference photo.\nIMPORTANT: Preserve his real face and real hair exactly as in the reference photo. Do not change his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHe is standing on a terrace on Diwali night, wearing a white kurta with white pajama. One hand holds a lit phuljhari (sparkler) and he looks at it happily, while the other hand rests in his pajama pocket.\nThe background shows a dark night sky filled with colorful fireworks, and a terrace wall decorated with rows of glowing clay diyas.\nAdd elegant metallic gold 3D text \"Happy Diwali\" in the background, glowing softly behind him.\nWarm festive lighting from the sparkler and diyas, natural skin texture, realistic hands, cinematic depth of field, professional photography, highly realistic and natural, 4K quality."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://yourimageshare.com/ib/Tw0PNlBkwx.avif",
+      "tags": [
+        "Diwali",
+        "Phuljhari",
+        "Terrace",
+        "White Kurta",
+        "Fireworks",
+        "Portrait",
+        "men"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/Tw0PNlBkwx.avif"
+        }
+      ]
+    },
+    {
+      "id": "diwali-balcony-linen-shirt-diya-lighting-portrait-image-prompt",
+      "title": "Diwali Balcony Portrait Image Prompt – Linen Shirt, Diya Lighting & Rangoli",
+      "description": "An ultra-realistic 4K Diwali portrait that keeps the uploaded man's face identical: a stylish traditional linen shirt, an earthen diya being lit, and a balcony or terrace decorated with fairy lights, lanterns, candles, garlands and rangoli.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra realistic 4K HD Diwali festival scene of the same handsome young man from the uploaded reference photo.\nIMPORTANT: Keep his face exactly the same as in the reference photo. No face change. Do not alter his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHe is wearing a stylish traditional linen shirt and gracefully lighting an earthen diya lamp, holding the diya in his hand.\nThe background is an outdoor balcony or terrace with a modern festival look, decorated with fairy lights, lanterns, glowing candles, flower garlands, and an elegant rangoli.\nWarm golden cinematic lighting, realistic diya flame glow on his face and hands, natural skin tone, realistic hands, cinematic depth of field, professional photography, high quality, 4K HD."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali5.png",
+      "tags": [
+        "Diwali",
+        "Diya",
+        "Balcony",
+        "Linen Shirt",
+        "Rangoli",
+        "Portrait",
+        "men"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali5.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-terrace-linen-shirt-diya-lamp-portrait-image-prompt",
+      "title": "Diwali Terrace Portrait Image Prompt – Linen Shirt, Earthen Diya & Fairy Lights",
+      "description": "An ultra-realistic 4K Diwali portrait that keeps the uploaded man's face identical: a stylish traditional linen shirt, an earthen diya lamp being lit, and a festive terrace with fairy lights, lanterns, candles, flower garlands and rangoli.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra realistic 4K HD Diwali festival scene of the same handsome young man from the uploaded reference photo.\nIMPORTANT: Keep his face exactly the same as in the reference photo. No face change. Do not alter his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHe is wearing a stylish traditional linen shirt and gracefully lighting an earthen diya lamp, holding the diya in his hand.\nThe background is an outdoor balcony or terrace with a modern festival look, decorated with fairy lights, lanterns, glowing candles, flower garlands, and an elegant rangoli.\nWarm golden cinematic lighting, realistic diya flame glow on his face and hands, natural skin tone, realistic hands, cinematic depth of field, professional photography, high quality, 4K HD."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali6.png",
+      "tags": [
+        "Diwali",
+        "Diya",
+        "Terrace",
+        "Linen Shirt",
+        "Fairy Lights",
+        "Portrait",
+        "men"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali6.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-rooftop-cream-kurta-silk-dupatta-fireworks-image-prompt",
+      "title": "Diwali Rooftop Portrait Image Prompt – Cream Kurta, Silk Dupatta & Fireworks",
+      "description": "A cinematic 4K Diwali night portrait that keeps the uploaded man's face unchanged: a cream kurta with a silk dupatta, a flickering diya in his hand, and a modern rooftop terrace with fireworks, fairy lights and glowing rangoli.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Do not alter the face. Keep the man's face exactly the same as in the uploaded reference photo, including his facial structure, eyes, nose, lips, skin tone, age, hairstyle, and natural features. He must clearly look like the same person.\nA man in a cream kurta with a silk dupatta stands on a modern rooftop terrace under the night sky.\nThe background is filled with colorful fireworks, fairy lights, and glowing rangoli patterns.\nA diya flickers gently in his hand, casting warm golden highlights on his face and clothes.\nShot in DSLR-style sharpness, natural skin texture, realistic hands, cinematic depth of field, 4K cinematic effect."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali11.png",
+      "tags": [
+        "Diwali",
+        "Rooftop",
+        "Cream Kurta",
+        "Silk Dupatta",
+        "Fireworks",
+        "Portrait",
+        "men"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali11.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-balcony-white-kurta-clay-diya-lighting-image-prompt",
+      "title": "Diwali Balcony Portrait Image Prompt – White Kurta, Clay Diya & Festive Lights",
+      "description": "A hyper-realistic 4K Diwali portrait that keeps the uploaded man's face identical: an elegant white kurta, a clay diya being lit, and a modern balcony or terrace with colored lights, lanterns, candles, garlands and rangoli.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A hyper-realistic 4K HD Diwali scene of the same handsome young man from the uploaded reference photo.\nIMPORTANT: His face must be identical to the reference photo, with no variations. Do not alter his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHe is wearing a white kurta and looks elegant and cultured. He gracefully lights a clay diya, holding the diya upright in his hand.\nThe background is a modern, festive outdoor atmosphere: a balcony or terrace decorated with colored lights, lanterns, glowing candles, garlands, and an elegant rangoli.\nWarm golden cinematic lighting, realistic diya flame glow on his face and hands, natural skin tones, realistic hands, cinematic depth of field, professional photography, high quality, 4K HD."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali-13.png",
+      "tags": [
+        "Diwali",
+        "Diya",
+        "Balcony",
+        "White Kurta",
+        "Rangoli",
+        "Portrait",
+        "men"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali-13.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-retro-1990s-white-embroidered-dress-phuljhari-woman-image-prompt",
+      "title": "Diwali Retro 1990s Portrait Image Prompt – White Embroidered Dress, Phuljhari & Diyas",
+      "description": "A retro 1990s-style 4K Diwali portrait that keeps the uploaded woman's face identical: a white embroidered traditional dress, a vibrant scarf, a lit phuljhari in hand, and a dusk setting with countless diyas and fairy lights.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "An Indian woman lighting firecrackers in an open space at dusk, based on the uploaded reference photo.\nIMPORTANT: Her face must remain exactly the same as in the reference photo, with no alterations. Do not change her facial structure, eyes, nose, lips, skin tone, age, or natural features. She must look 100% like the same person in the uploaded photo.\nShe is wearing a traditional white embroidered dress with a vibrant scarf draped over one shoulder, fluttering in the light breeze. Her long, dark brown wavy hair blows to one side in the wind, revealing her face clearly.\nIn her other hand she holds a lit phuljhari (sparkler).\nThe background is filled with the warm glow of countless small oil lamps (diyas) placed on the ground, and strings of fairy lights hang from unseen structures, creating a festive Diwali atmosphere.\nStyled with a soft, nostalgic 1990s aesthetic, a slightly grainy film texture, and warm cinematic lighting from the diyas and fairy lights. Retro 4K quality, natural skin texture, realistic hands, professional and timeless Diwali portrait."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali1.png",
+      "tags": [
+        "Diwali",
+        "Retro",
+        "1990s",
+        "Phuljhari",
+        "White Dress",
+        "Diyas",
+        "Portrait",
+        "women",
+        "girl"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali1.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-ghat-white-anarkali-diya-plate-bollywood-2000s-image-prompt",
+      "title": "Diwali Ghat Portrait Image Prompt – White Anarkali, Diya Plate & 2000s Bollywood Look",
+      "description": "A retro 4K Diwali portrait that keeps the uploaded girl's face identical: a white Anarkali suit with a multi-colored dupatta, a plate of diyas in hand, and an evening ghat lit by countless oil lamps and fairy lights in a 2000s Bollywood style.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A young Indian girl at a ghat in the evening, decorating it with diyas, based on the uploaded reference photo.\nIMPORTANT: Her face must remain exactly the same as in the reference photo, with no alterations. Do not change her facial structure, eyes, nose, lips, skin tone, age, or natural features. She must clearly look like the same person.\nShe is wearing a white Anarkali suit with a multi-colored dupatta featuring tiny gold hearts. Her pallu flows in the gentle breeze, while her long, dark brown wavy hair blows to one side, clearly showing her face. In her other hand she holds a plate full of diyas.\nThe background is filled with the warm glow of countless small oil lamps placed on the ground, with strings of fairy lights hanging from invisible structures, creating a festive Diwali atmosphere.\nCaptured in retro 4K quality with a soft, nostalgic aesthetic reminiscent of Bollywood films from the 2000s, enhanced by a subtle lens flare effect. Warm cinematic lighting, natural skin texture, realistic hands, cinematic depth of field."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali2.png",
+      "tags": [
+        "Diwali",
+        "Ghat",
+        "Anarkali",
+        "Diyas",
+        "Retro",
+        "Bollywood",
+        "Portrait",
+        "girl",
+        "women"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali2.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-white-lehenga-henna-diya-glow-retro-portrait-image-prompt",
+      "title": "Diwali Retro Portrait Image Prompt – White Lehenga, Henna & Diya Glow",
+      "description": "A retro 4K Diwali portrait that keeps the uploaded girl's face identical: a traditional white lehenga with pink and gold tones, charm jewelry and henna, the warm glow of diyas on her face, and soft bokeh lights in the background.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A stunning retro 4K professional Diwali portrait of a girl, based on the uploaded reference photo.\nIMPORTANT: Her face must remain exactly the same as in the reference photo, with no alterations. Do not change her facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. She must clearly look like the same person.\nShe is dressed in a traditional white lehenga with charm jewelry and henna on her hands. The vibrant pink and gold tones of the outfit reflect the light.\nThe warm glow of Diwali diyas illuminates her face as she gently touches them, creating a serene and festive atmosphere.\nThe background has soft bokeh effects from distant lights.\nWarm cinematic lighting, natural skin texture, realistic hands, cinematic depth of field, professional photography, retro 4K quality."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali3.png",
+      "tags": [
+        "Diwali",
+        "Lehenga",
+        "Henna",
+        "Diyas",
+        "Bokeh",
+        "Retro",
+        "Portrait",
+        "girl",
+        "women"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali3.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-temple-courtyard-red-silk-saree-diyas-marigold-image-prompt",
+      "title": "Diwali Temple Courtyard Portrait Image Prompt – Red Silk Saree, Marigold & Diyas",
+      "description": "A cinematic 4K Diwali portrait that keeps the uploaded woman's face unchanged: a red silk saree with gold embroidery, a temple courtyard with marigold garlands and rows of diyas, glowing sparklers and warm festive bokeh.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Keep the face exactly as in the uploaded reference photo. Do not change her facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. She must clearly look like the same person.\nA young woman in a red silk saree with gold embroidery stands in a temple courtyard decorated with marigold garlands and rows of diyas.\nA soft golden glow from the lamps lights her face, with sparklers glowing in the background.\nCinematic 4K portrait with warm colors and subtle festive bokeh, natural skin texture, realistic hands, cinematic depth of field, professional photography."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali8.png",
+      "tags": [
+        "Diwali",
+        "Saree",
+        "Temple",
+        "Marigold",
+        "Diyas",
+        "Sparklers",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali8.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-high-rise-balcony-sequin-lehenga-city-skyline-fireworks-image-prompt",
+      "title": "Diwali High-Rise Balcony Portrait Image Prompt – Sequin Lehenga, City Skyline & Fireworks",
+      "description": "A cinematic 4K Diwali portrait that keeps the uploaded woman's face unchanged: a shimmering modern sequin lehenga, a high-rise balcony with a glowing city skyline, fireworks and LED fairy lights, in a glossy magazine-style festive look.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Keep the face exactly the same as in the uploaded reference photo. Do not change her facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. She must clearly look like the same person.\nA young woman in a shimmering modern lehenga with sequins stands on a high-rise balcony, with a glowing city skyline behind her.\nThe background is filled with colorful fireworks and LED fairy lights, blending tradition and modernity.\nShot in cinematic 4K with a glossy magazine-style festive look, natural skin texture, realistic hands, cinematic depth of field, professional photography."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali9.png",
+      "tags": [
+        "Diwali",
+        "Lehenga",
+        "Balcony",
+        "City Skyline",
+        "Fireworks",
+        "Fairy Lights",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali9.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-yellow-mirror-work-lehenga-choli-diya-platter-garba-marigold-image-prompt",
+      "title": "Diwali Garba Portrait Image Prompt – Yellow Mirror-Work Lehenga Choli & Diya Platter",
+      "description": "A magical Diwali portrait that keeps the uploaded woman's face and body features unchanged: a bright yellow embroidered lehenga choli with mirror work, maang tikka, a platter of lit diyas, and a Garba-style marigold backdrop with bokeh lights.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A young woman celebrating the festival of Diwali, based on the uploaded reference photo.\nIMPORTANT: Keep the same face and body features as in the reference photo. Do not change her facial structure, eyes, nose, lips, skin tone, age, hair type, or natural features. She must clearly look like the same person.\nShe is wearing a bright yellow embroidered lehenga choli with mirror and thread work, paired with colorful bangles, a necklace, and earrings. Her long, dark hair keeps its original hair type and flows over one shoulder, with a delicate maang tikka on her forehead.\nHer expression is sweet and inviting, with a gentle smile and her eyes looking directly at the camera, conveying warmth and grace.\nHer pose is poised and devotional: she is seated, holding a platter with multiple lit diyas (oil lamps) in both hands, extended forward. The camera angle is at eye level, capturing her full presence.\nThe background is a softly blurred, dark, enchanting setting filled with numerous bokeh lights from other diyas in the foreground and background, creating a magical, ethereal glow. In the distance, a subtle outline of a traditional Indian idol or statue (Krishna or Radha) hints at a spiritual context.\nAdd festive Garba decorations with marigold flowers, an orange-yellow backdrop, and lights.\nWarm cinematic lighting, natural skin texture, realistic hands, cinematic depth of field, professional photography, 4K quality."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali-14.png",
+      "tags": [
+        "Diwali",
+        "Lehenga Choli",
+        "Garba",
+        "Marigold",
+        "Diyas",
+        "Maang Tikka",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali-14.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-night-red-sheer-saree-phuljhari-festive-crowd-fireworks-image-prompt",
+      "title": "Diwali Night Portrait Image Prompt – Red Sheer Saree, Phuljhari & Festive Crowd",
+      "description": "An ultra-detailed Diwali night portrait that keeps the uploaded woman's face identical: a red sheer saree with a matching blouse, a glowing phuljhari lighting her face, a festive crowd, fairy lights, diyas and multicolor fireworks.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A beautiful young woman in a stunning red sheer saree with a matching blouse, joyfully celebrating Diwali night, based on the uploaded reference photo.\nIMPORTANT: Her face must be exactly the same as the uploaded reference, 100% identical with no alteration. Do not change her facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. She must clearly look like the same person.\nShe is holding a glowing phuljhari (sparkler) in her hand, and the golden sparks light up her face with a festive glow. Her expression is full of happiness and excitement, with the sparkling light reflected in her eyes.\nIn the background, a large festive crowd is also celebrating Diwali, lighting diyas, waving sparklers, and enjoying the atmosphere, adding depth and realism to the scene.\nThe environment feels vibrant and alive, with multicolor fairy lights twinkling on nearby houses, diyas glowing on the ground, and the night sky bursting with multicolor fireworks that illuminate the surroundings.\nCaptured in the style of a professional DSLR night photograph, ultra-detailed, cinematic, natural skin texture, realistic hands, cinematic depth of field, 8K Full HD quality."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali-15.png",
+      "tags": [
+        "Diwali",
+        "Saree",
+        "Phuljhari",
+        "Fireworks",
+        "Festive Crowd",
+        "Night",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali-15.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-night-terrace-couple-white-kurta-yellow-lehenga-choli-phuljhari-image-prompt",
+      "title": "Diwali Night Couple Portrait Image Prompt – White Kurta, Yellow Lehenga Choli & Phuljhari",
+      "description": "A hyper-realistic 4K Diwali night portrait of a couple that keeps both faces and hair identical to the reference: a man in a white kurta, a woman in a yellow mirror-work lehenga choli with maang tikka, glowing sparklers, fireworks and a terrace wall lined with diyas.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A hyper-realistic 4K cinematic portrait of a young man and a young woman, based on the uploaded reference photo.\nIMPORTANT: Both faces must be identical to the reference photo. Preserve their real faces and real hair exactly. Do not change facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. They must clearly look like the same people.\nThey stand close together on a terrace on Diwali night.\nThe man, wearing a white kurta with white pajama, holds a lit phuljhari (sparkler) in one hand and looks at it with amusement, while his other hand is tucked into his pajama pocket.\nThe woman wears a bright yellow embroidered lehenga choli embellished with mirrors and thread work, accessorized with colorful bracelets, a necklace, and earrings. Her long, dark hair flows over her shoulders, and her forehead is adorned with an intricate maang tikka. She also holds a glittering phuljhari, and the golden sparks give her face a festive glow. The glittering light reflects in her eyes, and her expression is full of happiness and excitement.\nThe background features a night sky filled with fireworks and terrace walls adorned with gleaming oil lamps (diyas).\nNatural, festive, and highly realistic, with natural skin texture, realistic hands, warm cinematic lighting, cinematic depth of field, professional photography, 4K quality."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali-16.png",
+      "tags": [
+        "Diwali",
+        "Couple",
+        "Terrace",
+        "White Kurta",
+        "Lehenga Choli",
+        "Phuljhari",
+        "Fireworks",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali-16.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-terrace-couple-royal-red-kurta-green-lehenga-diya-thali-image-prompt",
+      "title": "Diwali Terrace Couple Portrait Image Prompt – Royal Red Kurta, Green Lehenga & Diya Thali",
+      "description": "An ultra-realistic 8K half-body Diwali couple portrait that keeps both faces identical to the reference: a young man in a royal red embroidered kurta holding a thali of diyas, a woman in a shimmering green lehenga lighting a diya, and a terrace with fairy lights and distant fireworks in soft bokeh.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic 8K hyper-detailed, vibrant Diwali half-body couple portrait, based on the uploaded reference photo.\nIMPORTANT: Both faces must match the reference image exactly. Do not change facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. They must clearly look like the same people.\nThe setting is a beautifully decorated Indian terrace with fairy lights and glowing diyas, with a soft DSLR-style blurred background of distant fireworks in cinematic bokeh.\nThe young man (20 years old, slim fit) wears a royal red embroidered kurta and holds a decorated thali with glowing diyas, with a soft festive smile.\nThe young woman wears a shimmering green lehenga with embroidery, a festive hairstyle, and traditional jewelry. She is lighting a diya, her face softly glowing, with a graceful and happy expression.\nGreen glow from the diya, sparkling highlights, dreamy cinematic look, natural skin texture, realistic hands, cinematic depth of field, professional photography, 8K quality."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali7.png",
+      "tags": [
+        "Diwali",
+        "Couple",
+        "Terrace",
+        "Red Kurta",
+        "Green Lehenga",
+        "Diya Thali",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali7.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-palace-entrance-couple-lehenga-sherwani-90s-bollywood-image-prompt",
+      "title": "Diwali Palace Couple Portrait Image Prompt – Lehenga, Sherwani & 90s Bollywood Glow",
+      "description": "A retro 90s Bollywood-style Diwali portrait that keeps both faces unchanged: a couple in a coordinated lehenga and sherwani posing at a palace entrance decorated with hundreds of diyas and flower garlands, with warm golden tones and distant fireworks.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Keep both faces unchanged, exactly the same as in the uploaded reference photo. Do not change facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. They must clearly look like the same people.\nA couple in a coordinated lehenga and sherwani pose in front of a palace entrance decorated with hundreds of diyas and flower garlands.\nThe lighting is styled like a 90s Bollywood film, with soft grain, warm golden tones, and a dreamy cinematic glow.\nFireworks burst faintly in the distance, adding a festive atmosphere.\nNatural skin texture, realistic hands, cinematic depth of field, professional photography, retro 4K quality."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali10.png",
+      "tags": [
+        "Diwali",
+        "Couple",
+        "Palace",
+        "Lehenga",
+        "Sherwani",
+        "Retro",
+        "Bollywood",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali10.png"
+        }
+      ]
+    },
+    {
+      "id": "diwali-family-of-four-rangoli-diyas-fairy-lights-image-prompt",
+      "title": "Diwali Family Portrait Image Prompt – Family of Four, Rangoli & Diyas",
+      "description": "A realistic 4K Diwali family portrait that keeps all four real faces unchanged: a family in traditional festive outfits gathered around a large colored-powder rangoli, each holding a diya, with fairy lights, lanterns and sparklers lighting the night.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Preserve all real faces exactly as in the uploaded reference photo. Do not change anyone's facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. All four people must clearly look like the same people.\nA family of four dressed in traditional festive outfits gathers around a large rangoli made of colored powders, each person holding a diya.\nStrings of fairy lights hang across the walls, with lanterns and sparklers illuminating the night.\nThe image glows with authentic Diwali warmth, with natural skin texture, realistic hands, warm cinematic lighting, cinematic depth of field, professional photography, realistic 4K detail."
+        }
+      ],
+      "categoryId": "diwali",
+      "imageUrl": "https://images.media.io/ai-effects/diwali12.png",
+      "tags": [
+        "Diwali",
+        "Family",
+        "Rangoli",
+        "Diyas",
+        "Fairy Lights",
+        "Lanterns",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://images.media.io/ai-effects/diwali12.png"
         }
       ]
     },
