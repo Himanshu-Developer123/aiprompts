@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
-  "version": 37,
-  "updatedAt": "2026-11-06T11:27:00Z",
+  "version": 38,
+  "updatedAt": "2026-11-06T10:07:00Z",
   "categories": [
     {
       "id": "trending",
@@ -4132,6 +4132,439 @@
           "title": "Sample video",
           "type": "video",
           "url": "https://yourimageshare.com/ib/nS54FvyB9q.mp4"
+        }
+      ]
+    },
+    {
+      "id": "romantic-couple-wooden-door-twirl-holding-hands-warm-daylight-vertical-video-prompt",
+      "title": "Romantic Couple Wooden Door Video Prompt – Playful Twirl, Holding Hands & Warm Daylight",
+      "description": "A vertical 9:16 cinematic video prompt of a young couple outdoors in front of a rustic wooden door: she walks up to him, he smiles, twirls her playfully, and they stand close holding both hands, with warm natural daylight and romantic Hindi background music.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Vertical 9:16 cinematic video. A young man with dark curly hair, wearing a white button-up shirt and beige trousers, stands near a large wooden door. A young woman with long dark wavy hair, in a brown one-shoulder top and beige trousers, approaches him. He smiles warmly. They hold hands, he playfully twirls her around, and they stand close together, smiling affectionately while holding both hands.\nEnvironment: Warm natural daylight, outdoor setting with a rustic textured wooden backdrop.\nAudio: Romantic Hindi background music, no spoken dialogue or lip-syncing required.\nText: No on-screen text or subtitles."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/LVMf9zaafb.png",
+      "videoUrl": "https://yourimageshare.com/ib/t2bPG5p5ox.mp4",
+      "tags": [
+        "Couple",
+        "Romantic",
+        "Wooden Door",
+        "Twirl",
+        "Holding Hands",
+        "Cinematic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/LVMf9zaafb.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/t2bPG5p5ox.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ghibli-character-and-anime-couple-motorcycle-dusk-city-street-romantic-video-prompts",
+      "title": "Ghibli Character & Anime Couple on Motorcycle Video Prompts – Dusk City Street & Romantic Cheek Kiss",
+      "description": "A two-step couple prompt set: first turn the uploaded photo into a Studio Ghibli-inspired anime character, then animate a 10-second vertical 9:16 anime reel of a couple on a black sports motorcycle on a dusk city street, where she rests her head on his shoulder and kisses his cheek, with the man's face kept identical to the uploaded photo.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the uploaded photo into a beautiful Studio Ghibli-inspired anime character.\n\nIdentity preservation:\n- Keep the original facial features and face shape recognizable.\n- Preserve the hairstyle, hair length, skin tone, eyes, and natural expression.\n- Make sure the character still looks like the person in the photo.\n\nArt style:\n- Hand-painted Japanese anime aesthetic.\n- Soft watercolor textures.\n- Warm cinematic lighting.\n- Beautiful expressive eyes.\n- Delicate linework and smooth shading.\n- Dreamy, magical atmosphere.\n- Rich but natural colors.\n\nQuality: Highly detailed, polished anime illustration, beautiful background, professional animation-film aesthetic, 4K quality.\n\nDo not change the identity, hairstyle, outfit, or pose unless necessary for the artistic transformation."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Create a brand-new vertical reel of the young man from the uploaded photo riding a motorcycle with a woman sitting behind him. Use the uploaded photo ONLY as a face reference. Keep the face 100% identical to the uploaded photo throughout the entire video: same face structure, skin tone, and features exactly matched in every frame, with no face morphing and no identity drift. Do NOT use the uploaded photo as the first frame. Do not copy its background, clothing, pose, lighting, or framing; all of those must come only from the description below. The video must start directly in the new scene from the very first frame.\n\nVideo opens on a full-body shot of a young man and woman on a black sports motorcycle. The man is driving, facing forward and slightly to the right, wearing a black shirt over a white t-shirt. The woman sits behind him, her right arm around his shoulder, wearing a black outfit, with long hair. They are on a city street with buildings in the background.\n\nOutfit: Man: black shirt over white t-shirt, silver chain. Woman: black top, long black hair with a braid and white flowers, red bangles.\nSetting: City street with buildings.\nLighting: Soft sunset/dusk lighting.\nStyle: Digital art/anime style.\n\nTimeline:\n0.0-1.0s: The man is driving the motorcycle, looking forward and slightly right. The woman is sitting behind him, her arm around his shoulder. The camera slowly zooms in. The woman's hair is blowing slightly in the wind.\n1.0-2.0s: The woman leans in closer to the man. The man turns his head slightly more towards her. The camera continues to zoom in slowly.\n2.0-3.0s: The woman leans her head on the man's shoulder. The man smiles slightly. The camera continues to zoom in.\n3.0-4.0s: The woman turns her head and kisses the man on the cheek. The man closes his eyes and smiles. The camera continues to zoom in.\n4.0-6.0s: The woman rests her head on the man's shoulder and closes her eyes. The man smiles. The camera continues to zoom in slowly.\n6.0-10.0s: The couple remains in this pose, the woman's head on the man's shoulder, both with eyes closed, smiling. The camera continues its slow zoom in. The background buildings are slightly blurred.\n\nRomantic pacing, soft romantic audio mood. 10 seconds, 9:16 vertical, 24fps, artistic 4K, vivid colors, smooth animation, consistent character, no face distortion, no flickering, no warping, stable background, consistent outfit throughout, no frame from the uploaded photo visible in the video."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/Br7w9XYUuL.png",
+      "videoUrl": "https://emojora.com/uploads/prompts/1792034589_6ad0471d33e94.mp4",
+      "tags": [
+        "Couple",
+        "Ghibli",
+        "Anime",
+        "Motorcycle",
+        "Romantic",
+        "City Street",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/Br7w9XYUuL.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://emojora.com/uploads/prompts/1792034589_6ad0471d33e94.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ghibli-character-and-anime-couple-bedroom-mirror-red-saree-helping-hand-video-prompts",
+      "title": "Ghibli Character & Anime Couple Bedroom Mirror Video Prompts – Red Saree & Sweet Helping Hand",
+      "description": "A two-step couple prompt set: first turn the uploaded photo into a Studio Ghibli-inspired anime character, then animate a 10-second vertical 9:16 2D anime reel of a woman in a red saree at a bedroom mirror, where her partner walks in, helps her with her blouse button, and they share a loving smile, with her face kept identical to the uploaded photo.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the uploaded photo into a beautiful Studio Ghibli-inspired anime character.\n\nIdentity preservation:\n- Keep the original facial features and face shape recognizable.\n- Preserve the hairstyle, hair length, skin tone, eyes, and natural expression.\n- Make sure the character still looks like the person in the photo.\n\nArt style:\n- Hand-painted Japanese anime aesthetic.\n- Soft watercolor textures.\n- Warm cinematic lighting.\n- Beautiful expressive eyes.\n- Delicate linework and smooth shading.\n- Dreamy, magical atmosphere.\n- Rich but natural colors.\n\nQuality: Highly detailed, polished anime illustration, beautiful background, professional animation-film aesthetic, 4K quality.\n\nDo not change the identity, hairstyle, outfit, or pose unless necessary for the artistic transformation."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Create a brand-new vertical reel of the woman from the uploaded photo standing in front of a mirror. Use the uploaded photo ONLY as a face reference. Keep the face 100% the same throughout the entire video: same face structure and skin tone, no face morphing. Do NOT use the uploaded photo as the first frame. Do not copy its background, clothes, or pose; everything must come from the description. The video starts in the new scene from the very first frame.\n\nVideo opens on: The woman stands in front of a mirror in a bedroom, her back to the camera, looking at herself in the mirror.\n\nStatic details: She wears a red patterned saree with a red blouse. The man who comes in behind her wears a white kurta. Location: a cozy bedroom with a mirror and a dresser. Lighting: warm and soft. Style: 2D digital animation.\n\nTimeline:\n0.0-5.0s: The woman tries to fasten the button of her blouse behind her back with both hands. In the mirror, her face shows a little frustration. The camera is completely static, in a half-body shot.\n5.0-8.0s: A man enters the frame from behind. He smiles and helps her fasten the blouse button. In the mirror, the woman smiles with relief and happiness. The camera stays static.\n8.0-10.0s: Hard cut. A front-angle shot from beside the mirror. The man places his hand on her shoulder, and they look at each other lovingly and smile.\n\nRomantic mood. 10 seconds, 9:16 vertical, 24fps, 4K high-quality 2D animation, vivid colors, smooth motion, no face distortion, no flickering, stable background, consistent outfit throughout, no frame from the uploaded photo visible."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/nL5qVhuU5I.png",
+      "videoUrl": "https://emojora.com/uploads/prompts/1791777668_6acc5b843dfb2.mp4",
+      "tags": [
+        "Couple",
+        "Ghibli",
+        "Anime",
+        "Red Saree",
+        "Bedroom",
+        "Romantic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/nL5qVhuU5I.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://emojora.com/uploads/prompts/1791777668_6acc5b843dfb2.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ghibli-character-and-romantic-couple-rustic-kitchen-green-lehenga-rolling-dough-video-prompts",
+      "title": "Ghibli Character & Romantic Couple Kitchen Video Prompts – Green Lehenga & Rolling Dough",
+      "description": "A two-step couple prompt set: first turn the uploaded photo into a Studio Ghibli-inspired anime character, then animate a 9-second vertical 9:16 3D romantic reel of a woman in a green embroidered lehenga rolling dough in a rustic kitchen while her partner holds her waist from behind, with her face kept identical to the uploaded photo.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the uploaded photo into a beautiful Studio Ghibli-inspired anime character.\n\nIdentity preservation:\n- Keep the original facial features and face shape recognizable.\n- Preserve the hairstyle, hair length, skin tone, eyes, and natural expression.\n- Make sure the character still looks like the person in the photo.\n\nArt style:\n- Hand-painted Japanese anime aesthetic.\n- Soft watercolor textures.\n- Warm cinematic lighting.\n- Beautiful expressive eyes.\n- Delicate linework and smooth shading.\n- Dreamy, magical atmosphere.\n- Rich but natural colors.\n\nQuality: Highly detailed, polished anime illustration, beautiful background, professional animation-film aesthetic, 4K quality.\n\nDo not change the identity, hairstyle, outfit, or pose unless necessary for the artistic transformation."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Create a brand-new vertical reel of the woman from the uploaded photo cooking. Use the uploaded photo ONLY as a face reference. Keep the face 100% identical to the uploaded photo throughout the entire video: same face structure, skin tone, and features exactly matched in every frame, with no face morphing and no identity drift. Do NOT use the uploaded photo as the first frame. Do not copy its background, clothing, pose, lighting, or framing. The video must start directly in the new scene from the very first frame.\n\nVideo opens on a half-body shot of the woman in a green embroidered blouse and lehenga, rolling dough on a counter. A man in a dark shirt gently holds her waist from behind.\n\nStatic details: Green bangles, rustic cozy kitchen, warm sunlight, 3D romantic realism.\n\nTimeline:\n0.0-2.0s: The woman rolls the dough slowly; the man holds her waist. Camera static, half-body.\n2.0-4.0s: The man leans very close to her cheek, smiling. She looks forward, slightly surprised.\n4.0-6.0s: She blushes and laughs. He rests his chin gently on her shoulder.\n6.0-8.0s: They look at each other with warm smiles.\n8.0-9.0s: They embrace in a close, gentle hug.\n\n9 seconds, 9:16 vertical, 30fps, 4K HDR, rich colors, smooth motion, temporal consistency, no face distortion, stable background, consistent outfit throughout, no frame from the uploaded photo visible in the video."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/Fe8l2YGY61.png",
+      "videoUrl": "https://emojora.com/uploads/prompts/1791947570_6acef3323144b.mp4",
+      "tags": [
+        "Couple",
+        "Ghibli",
+        "Romantic",
+        "Green Lehenga",
+        "Kitchen",
+        "3D",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/Fe8l2YGY61.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://emojora.com/uploads/prompts/1791947570_6acef3323144b.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ghibli-character-and-anime-couple-mangalsutra-red-saree-rose-petals-romantic-video-prompts",
+      "title": "Ghibli Character & Anime Couple Mangalsutra Video Prompts – Red Saree & Falling Rose Petals",
+      "description": "A two-step couple prompt set: first turn the uploaded photo into a Studio Ghibli-inspired anime character, then animate a 10-second vertical 9:16 2D anime reel of a bride in a red saree and gold jewelry as her partner fastens a black-beaded mangalsutra around her neck while rose petals fall, with her face kept identical to the uploaded photo.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the uploaded photo into a beautiful Studio Ghibli-inspired anime character.\n\nIdentity preservation:\n- Keep the original facial features and face shape recognizable.\n- Preserve the hairstyle, hair length, skin tone, eyes, and natural expression.\n- Make sure the character still looks like the person in the photo.\n\nArt style:\n- Hand-painted Japanese anime aesthetic.\n- Soft watercolor textures.\n- Warm cinematic lighting.\n- Beautiful expressive eyes.\n- Delicate linework and smooth shading.\n- Dreamy, magical atmosphere.\n- Rich but natural colors.\n\nQuality: Highly detailed, polished anime illustration, beautiful background, professional animation-film aesthetic, 4K quality.\n\nDo not change the identity, hairstyle, outfit, or pose unless necessary for the artistic transformation."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Create a brand-new vertical reel of the woman from the uploaded photo in an anime-style romantic scene.\n\nUse the uploaded photo ONLY as a face reference. Keep the face 100% the same as the photo throughout the entire video: same facial structure, with no morphing or identity drift. Do NOT use the uploaded photo as the first frame. Do not copy its background, clothes, pose, or lighting; everything must come from the description below. The video starts directly in the new scene.\n\nVideo opens on: A medium close-up shot. The woman (right side) sits wearing a red saree, a bindi and gold jewelry. A man (left side, in a white kurta) fastens a black-beaded necklace (mangalsutra) around her neck. In the background there is soft romantic lighting and red rose petals falling.\n\nStatic details:\nOutfit: The woman wears a red traditional outfit and heavy gold jewelry. The man wears a plain white kurta.\nStyle: High-quality 2D anime / digital art style.\nLocation: Indoor festive romantic setup.\n\nTimeline:\n0.0-3.0s: The man fastens the necklace around her neck. She looks down shyly with her eyelids lowered. Rose petals fall slowly. The camera is completely static.\n3.0-6.0s: The man takes his hands away. She softly holds the necklace with her hands and slowly looks up at the man. The petals keep falling.\n6.0-10.0s: The woman and the man look into each other's eyes lovingly and share a big, sweet smile. The camera zooms in very slowly toward the faces.\n\nAudio mood: Soft romantic devotional music.\n\nTechnical details: 10 seconds, 9:16 vertical, 24fps, 4K anime style, ultra-detailed, vivid colors, smooth animation, temporal consistency, no face distortion, no flickering, stable background, consistent outfit throughout, no frame from the uploaded photo visible in the video."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/dwPBKabxcn.png",
+      "videoUrl": "https://emojora.com/uploads/prompts/1791525343_6ac881df00725.mp4",
+      "tags": [
+        "Couple",
+        "Ghibli",
+        "Anime",
+        "Mangalsutra",
+        "Red Saree",
+        "Rose Petals",
+        "Romantic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/dwPBKabxcn.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://emojora.com/uploads/prompts/1791525343_6ac881df00725.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ghibli-character-and-anime-couple-eating-together-on-floor-steel-thalis-feeding-each-other-video-prompts",
+      "title": "Ghibli Character & Anime Couple Feeding Each Other Video Prompts – Steel Thalis & Cozy Floor Meal",
+      "description": "A two-step couple prompt set: first turn the uploaded photo into a Studio Ghibli-inspired anime character, then animate a 10-second vertical 9:16 2D anime reel of a man and a woman sitting on the floor with steel thalis, lovingly feeding each other, with the man's face kept identical to the uploaded photo.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the uploaded photo into a beautiful Studio Ghibli-inspired anime character.\n\nIdentity preservation:\n- Keep the original facial features and face shape recognizable.\n- Preserve the hairstyle, hair length, skin tone, eyes, and natural expression.\n- Make sure the character still looks like the person in the photo.\n\nArt style:\n- Hand-painted Japanese anime aesthetic.\n- Soft watercolor textures.\n- Warm cinematic lighting.\n- Beautiful expressive eyes.\n- Delicate linework and smooth shading.\n- Dreamy, magical atmosphere.\n- Rich but natural colors.\n\nQuality: Highly detailed, polished anime illustration, beautiful background, professional animation-film aesthetic, 4K quality.\n\nDo not change the identity, hairstyle, outfit, or pose unless necessary for the artistic transformation."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Create a brand-new vertical reel in a 2D anime style of the man from the uploaded photo sitting on the floor with a woman. Use the uploaded photo ONLY as a face reference. His face must match exactly, with no morphing. Do not copy the photo's background, pose, or clothes. The video starts in the new scene from the very first frame.\n\nVideo opens on: A static medium shot. The man (white t-shirt, blue pants) and a woman (green kurta, red bangles) sit on the floor facing each other. Food is served in front of them on steel thalis.\n\nStatic details: 2D anime style, bright flat shading. Indoor background with blue curtains and a brown door.\n\nTimeline:\n0.0-4.0s: The woman feeds the man with her hand; he smiles as he looks at her.\n4.0-6.0s: The man eats and closes his eyes happily.\n6.0-10.0s: The man picks up food from his own thali and feeds the woman; she happily opens her mouth. The camera stays completely static.\n\n10 seconds, 9:16 vertical, 24fps, 4K 2D animation, smooth motion, no face distortion, stable background, consistent outfit."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/dNhN4x5Eeo.png",
+      "videoUrl": "https://emojora.com/uploads/prompts/1791618403_6ac9ed63ad7d4.mp4",
+      "tags": [
+        "Couple",
+        "Ghibli",
+        "Anime",
+        "Eating Together",
+        "Steel Thali",
+        "Romantic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/dNhN4x5Eeo.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://emojora.com/uploads/prompts/1791618403_6ac9ed63ad7d4.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ghibli-character-and-family-scene-garden-swing-lakeside-sunset-3d-video-prompts",
+      "title": "Ghibli Character & Family Scene Video Prompts – Garden Swing, Walk & Lakeside Sunset",
+      "description": "A two-step prompt set: first turn the uploaded photo into a Studio Ghibli-inspired anime character, then animate a 10-second vertical 9:16 3D family reel with a woman on a rose-decorated garden swing holding a child, a walk down a garden path, and a lakeside sunset, with the uploaded person's face kept identical.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the uploaded photo into a beautiful Studio Ghibli-inspired anime character.\n\nIdentity preservation:\n- Keep the original facial features and face shape recognizable.\n- Preserve the hairstyle, hair length, skin tone, eyes, and natural expression.\n- Make sure the character still looks like the person in the photo.\n\nArt style:\n- Hand-painted Japanese anime aesthetic.\n- Soft watercolor textures.\n- Warm cinematic lighting.\n- Beautiful expressive eyes.\n- Delicate linework and smooth shading.\n- Dreamy, magical atmosphere.\n- Rich but natural colors.\n\nQuality: Highly detailed, polished anime illustration, beautiful background, professional animation-film aesthetic, 4K quality.\n\nDo not change the identity, hairstyle, outfit, or pose unless necessary for the artistic transformation."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Create a brand-new vertical reel in which the person from the uploaded photo is part of a family scene. Use the uploaded photo ONLY as a face reference. The face must be 100% identical to the photo throughout the entire video, with the same features and skin tone. Do NOT copy the photo's background, clothes, or pose; everything must come only from this description. The video must start directly in the new scene.\n\nVideo opens on: In a beautiful garden, a woman sits on a swing.\n\nStatic details: The woman is in a red dress, the man is in a dark shirt and green t-shirt, and the child is in light pink clothes. 3D animated cinematic style, warm golden hour lighting, garden setting.\n\nTimeline:\n0.0-3.0s: The woman sits on a wooden swing decorated with roses, holding the child in her lap. The man stands near the swing, looking at them lovingly and smiling. Medium shot, slow natural movement.\n3.0-6.0s: Hard cut. The two walk along a garden path holding hands. The woman carries the child. The camera tracks them from the front.\n6.0-10.0s: Hard cut. At sunset, the two stand by the side of a lake. The man stands close to the woman, and they look at each other lovingly with the child between them. Warm glowing light.\n\n10 seconds, 9:16 vertical, 24fps, cinematic 4K, ultra-realistic animation, smooth motion, temporal consistency, no face distortion, stable background, consistent outfit throughout."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/T5eErKt1Ln.png",
+      "videoUrl": "https://emojora.com/uploads/prompts/1791430158_6ac70e0e4e5c1.mp4",
+      "tags": [
+        "Couple",
+        "Family",
+        "Ghibli",
+        "Garden Swing",
+        "Sunset",
+        "3D Animation",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/T5eErKt1Ln.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://emojora.com/uploads/prompts/1791430158_6ac70e0e4e5c1.mp4"
+        }
+      ]
+    },
+    {
+      "id": "romantic-couple-traditional-attire-moonlit-garden-white-red-saree-white-kurta-lantern-video-prompt",
+      "title": "Romantic Couple Moonlit Garden Video Prompt – White & Red Saree, White Kurta & Lantern Glow",
+      "description": "A 10-second vertical 9:16 cinematic video prompt that keeps both uploaded faces identical: a couple in traditional attire stands in a moonlit garden with blooming flowers and a lantern, and the camera slowly zooms in on the woman's gentle smile as she looks affectionately at him.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Create a brand-new vertical reel of the couple from the two uploaded photos, appearing as a romantic couple in traditional attire. Use the uploaded photos ONLY as face references. Keep both faces 100% identical to the uploaded photos throughout the entire video: same face structure, skin tone, and features exactly matched in every frame, with no face morphing and no identity drift. Do NOT use the uploaded photos as the first frame. Do not copy their background, clothing, pose, lighting, or framing; all of those must come only from the description below. The video must start directly in the new scene from the very first frame.\n\nVideo opens on an over-the-shoulder close-up of a woman looking affectionately at a man. She wears a white and red saree with gold jewelry and hair flowers; he wears a textured white kurta. They stand in a moonlit garden with blooming flowers and a lantern. The camera slowly zooms in on her gently smiling face. Soft moonlight, gentle breeze moving her hair, romantic cinematic mood.\n\n10 seconds, 9:16 vertical, 24fps, cinematic 4K, ultra-realistic, smooth motion, temporal consistency, no face distortion, no flickering, no warping, stable background, consistent outfit throughout, no frame from the uploaded photos visible in the video."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/ZOtZhVFqXy.png",
+      "videoUrl": "https://emojora.com/uploads/prompts/1791014878_6ac0b7de7bf47.mp4",
+      "tags": [
+        "Couple",
+        "Romantic",
+        "Traditional Attire",
+        "Saree",
+        "Moonlit Garden",
+        "Cinematic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/ZOtZhVFqXy.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://emojora.com/uploads/prompts/1791014878_6ac0b7de7bf47.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ghibli-couple-alpine-flower-meadow-daisy-crown-light-blue-saree-romantic-image-and-video-prompts",
+      "title": "Ghibli Couple Alpine Meadow Prompts – Daisy Crown, Light Blue Saree & Himalayan Mountains",
+      "description": "A two-step couple prompt set that keeps both uploaded faces identical: first a hand-painted Studio Ghibli-style illustration of a couple in an alpine flower meadow with the man placing a daisy crown on the woman's head, then a 10-second vertical 9:16 cinematic reel in the same meadow with petals falling and a walk toward the mountains.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the uploaded couple photograph into a beautiful, dreamy, hand-painted Studio Ghibli-inspired anime illustration.\n\nScene & Composition:\nA romantic couple standing together in a breathtaking alpine flower meadow. The man stands gently behind the woman, carefully placing a delicate crown of tiny white daisies on her head. The woman stands in front with her eyes softly closed, wearing a peaceful smile. Their expressions should convey love, warmth, innocence, and a magical romantic connection.\n\nCharacter Appearance:\n- Preserve the exact facial identity, facial structure, skin tone, hairstyle, and recognizable features of both people from the uploaded reference photograph.\n- The man wears a light blue casual button-down shirt and dark trousers.\n- The woman wears an elegant light blue saree with long flowing dark hair, a small bindi, and delicate traditional earrings.\n- Maintain natural body proportions and realistic hand positions.\n\nBackground & Environment:\nA magical green meadow filled with colorful wildflowers, white daisies, pink cosmos, red poppies, and purple lupines. Beautiful tall pine trees, distant majestic snow-covered Himalayan mountains, a dreamy blue sky with fluffy white clouds, and soft sunlight filtering through the trees.\n\nArt Style:\nClassic Studio Ghibli-inspired hand-painted animation aesthetic, soft watercolor textures, delicate anime detailing, painterly backgrounds, warm natural lighting, subtle film grain, beautiful color harmony, lush greenery, dreamy atmosphere, and cinematic composition.\n\nMood: Peaceful, romantic, magical, innocent love, fairytale atmosphere.\n\nQuality: Highly detailed 4K illustration, vertical 9:16 composition, beautiful depth of field, polished anime artwork.\n\nIMPORTANT: Use the uploaded photograph as the primary identity reference. Do not change the couple's faces or replace them with generic anime characters. Preserve their recognizable identities while transforming the entire scene into a beautiful hand-painted animated world.\n\nNEGATIVE PROMPT:\nDifferent faces, altered identity, face distortion, extra fingers, missing fingers, deformed hands, unnatural anatomy, blurry faces, photorealistic skin, 3D rendering, harsh shadows, oversaturated colors, text, watermark, logo."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Create a brand-new vertical reel of the couple from the two uploaded photos, appearing as a couple in a flower-filled mountain meadow. Use the uploaded photos ONLY as face references. Keep both faces 100% identical to the uploaded photos throughout the entire video: same face structure, skin tone, and features exactly matched in every frame, with no face morphing and no identity drift. Do NOT use the uploaded photos as the first frame. Do not copy their background, clothing, pose, lighting, or framing; all of those must come only from the description below. The video must start directly in the new scene from the very first frame.\n\nVideo opens on a half-body shot of a woman in a light blue sari and a man in a light blue button-down shirt standing in a field of colorful wildflowers with snow-capped mountains and trees in the background. The man gently places a crown of white daisies on the woman's head. The camera cuts to a close-up of the woman smiling radiantly as she touches the flower crown, then cuts to a wider shot of the couple holding hands and smiling at each other. Finally, the camera shows them from behind, walking hand-in-hand towards the mountains as pink flower petals fall around them.\n\nSoft, natural daylight, vibrant, romantic, and joyful mood.\n\n10 seconds, 9:16 vertical, 24fps, cinematic 4K, ultra-realistic, smooth motion, temporal consistency, film-grade color grading, no face distortion, no flickering, no warping, stable background, consistent outfit throughout, no frame from the uploaded photos visible in the video."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/lrRtDJgVMh.png",
+      "videoUrl": "https://emojora.com/uploads/prompts/1791340369_6ac5af51cc477.mp4",
+      "tags": [
+        "Couple",
+        "Ghibli",
+        "Flower Meadow",
+        "Daisy Crown",
+        "Light Blue Saree",
+        "Romantic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/lrRtDJgVMh.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://emojora.com/uploads/prompts/1791340369_6ac5af51cc477.mp4"
+        }
+      ]
+    },
+    {
+      "id": "indian-tv-drama-couple-stop-gesture-maroon-saree-mansion-image-and-video-prompts",
+      "title": "Indian TV Drama Couple Prompts – Maroon Saree, 'Stop' Gesture & Protective Husband in a Mansion",
+      "description": "A two-step couple prompt set that keeps both uploaded faces identical: first an ultra-realistic Indian TV serial still of a woman in a maroon saree raising her palm in a firm 'stop' gesture with her husband protectively behind her in a luxurious mansion, then a 10-second vertical 9:16 reel of the same tense family-drama moment with a spoken dialogue.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create an ultra-realistic cinematic Indian television drama scene using the uploaded reference images of the couple.\n\n1. Character Identity (Very Important)\nUse the uploaded male and female photographs as strict face references.\n- Preserve their exact facial identity, face shape, eyes, nose, lips, skin tone, and hairstyles.\n- Do not beautify, redesign, or replace their faces.\n- Both characters must look exactly like the people in the uploaded photographs.\n\n2. Scene & Pose\nCreate a dramatic romantic scene inside a luxurious Indian family mansion during a family gathering.\nThe woman stands in the foreground, slightly in front of the man. She raises one hand toward someone standing in front of her, with her palm facing outward, as if firmly saying \"STOP\".\nHer facial expression is serious, slightly emotional, protective, and determined. Her eyes look toward the person in front of her.\nThe man stands closely behind her, slightly to her right, looking at her with a caring, protective, and concerned expression. His body language suggests that he is supporting her.\n\n3. Outfits\n- Woman: Elegant deep maroon/wine-red traditional Indian saree with intricate golden embroidery, matching embroidered blouse, traditional gold jhumka earrings, small black bindi, delicate necklace, and green-and-gold bangles.\n- Man: Stylish fitted black button-down shirt with the top buttons open, beige trousers, neatly styled voluminous dark hair, and a sophisticated appearance.\n\n4. Background\nA luxurious Indian mansion interior with warm golden lighting, decorative floral arrangements, elegant wooden doors, and several family members standing in the background with surprised and serious expressions.\nKeep the background characters slightly out of focus so the main couple remains the center of attention.\n\n5. Cinematic Photography\nIndian television serial aesthetic, realistic human skin texture, expressive eyes, dramatic storytelling, professional cinematography, warm indoor lighting, shallow depth of field, beautifully detailed traditional clothing, natural body proportions.\n\n6. Composition\nVertical 9:16 portrait framing, medium-full body shot, woman in the foreground and man standing closely behind her. The raised palm should be clearly visible in the left foreground.\n\nQUALITY: Ultra-realistic 4K, cinematic color grading, premium Indian TV drama still, sharp facial details.\n\nNEGATIVE PROMPT:\nDifferent faces, identity changes, face swapping errors, distorted eyes, extra fingers, deformed hands, unnatural palm, incorrect saree draping, duplicate people, cartoon style, anime, illustration, blurry faces, text, subtitles, watermark."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Create a brand-new vertical reel of the couple from the two uploaded photos, appearing as a couple in a tense family drama. Use the uploaded photos ONLY as face references. Keep both faces 100% identical to the uploaded photos throughout the entire video: same face structure and skin tone exactly matched in every frame, with no face morphing. Do NOT use the uploaded photos as the first frame. Do not copy their background, clothing, pose, or lighting; all must come only from the description below.\n\nVideo opens on a medium shot of the woman in a maroon embroidered saree, with the man in a black shirt standing closely behind her. She fiercely raises her hand in a defensive stop gesture and points her finger, angrily speaking the dialogue: \"खानदान तो क्या, पूरी दुनिया से लड़ जाऊंगी अगर बात मेरे पति पर आ जाए। क्योंकि मेरा हिसाब बिल्कुल सीधा है। जो मेरे पति का सगा नहीं, वो मेरा भी सगा नहीं।\"\n\nThe camera slowly zooms in on her determined face. Bright lighting, tense dramatic pacing.\n\n10 seconds, 9:16 vertical, 30fps, cinematic 4K, ultra-realistic, smooth motion, no face distortion, stable background, consistent outfit throughout, no frame from the uploaded photos visible in the video."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/b05kS6H9N1.png",
+      "videoUrl": "https://emojora.com/uploads/prompts/1791182569_6ac346e9ceb7e.mp4",
+      "tags": [
+        "Couple",
+        "Indian TV Drama",
+        "Maroon Saree",
+        "Family Drama",
+        "Dialogue",
+        "Cinematic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/b05kS6H9N1.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://emojora.com/uploads/prompts/1791182569_6ac346e9ceb7e.mp4"
         }
       ]
     }
