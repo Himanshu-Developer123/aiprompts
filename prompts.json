@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
-  "version": 36,
-  "updatedAt": "2026-11-06T06:42:00Z",
+  "version": 37,
+  "updatedAt": "2026-11-06T11:27:00Z",
   "categories": [
     {
       "id": "trending",
@@ -4043,6 +4043,95 @@
           "title": "Sample video",
           "type": "video",
           "url": "https://i.yourimageshare.com/iiAtSMSkrH.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ghibli-style-character-transformation-and-diwali-sparklers-couple-3d-video-prompts",
+      "title": "Ghibli Character Transformation & Diwali Sparklers Couple 3D Video Prompts",
+      "description": "A two-step prompt set: first turn the uploaded photo into a Studio Ghibli-inspired anime character that keeps the face recognizable, then a vertical 9:16 3D animated Diwali video of a boy and girl lighting sparklers on a decorated patio with diyas, rangoli and fireworks.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the uploaded photo into a beautiful Studio Ghibli-inspired anime character.\nIdentity preservation:\n- Keep the original facial features and face shape recognizable.\n- Preserve the hairstyle, hair length, skin tone, eyes, and natural expression.\n- Make sure the character still looks like the person in the photo.\nArt style:\n- Hand-painted Japanese anime aesthetic.\n- Soft watercolor textures.\n- Warm cinematic lighting.\n- Beautiful expressive eyes.\n- Delicate linework and smooth shading.\n- Dreamy, magical atmosphere.\n- Rich but natural colors.\nQuality: Highly detailed, polished anime illustration, beautiful background, professional animation-film aesthetic, 4K quality.\nDo not change the identity, hairstyle, outfit, or pose unless necessary for the artistic transformation."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Vertical 9:16 high-quality 3D animated video of a young boy and girl joyfully lighting sparklers and firecrackers on a decorated patio. The boy wears a blue hoodie and white sneakers, and the girl wears a purple traditional Indian outfit with gold embroidery, jewelry, and a bindi. They smile warmly and make eye contact, subtly lip-syncing to a romantic background melody.\nThe camera alternates between wide shots of them crouching near glowing flower-pot crackers and intimate close-ups of their faces illuminated by the sparks.\nThe festive night environment features a multi-story house draped in warm string lights, traditional oil lamps (diyas), and a colorful rangoli on the ground, with vibrant fireworks exploding in the dark sky.\nCinematic, warm, festive lighting, highly detailed. No on-screen text or subtitles."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/8ob61u0vcT.png",
+      "videoUrl": "https://yourimageshare.com/ib/SKoa5TEa5C.mp4",
+      "tags": [
+        "Diwali",
+        "Ghibli",
+        "Anime",
+        "Sparklers",
+        "Couple",
+        "3D Animation",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/X8C1HcsQoG.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/SKoa5TEa5C.mp4"
+        }
+      ]
+    },
+    {
+      "id": "romantic-ghibli-couple-sunset-lake-umbrella-saree-anime-reel-image-and-video-prompts",
+      "title": "Romantic Ghibli Couple Sunset Prompts – Umbrella, Pink Saree & Falling Petals Anime Reel",
+      "description": "A two-step couple prompt set: first turn two uploaded photos into a romantic Studio Ghibli-style couple standing at a lake sunset with an umbrella, then animate a 10-second vertical 9:16 anime reel where the boy opens the umbrella and pink petals fall over the girl.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create an ultra-detailed, romantic Studio Ghibli-inspired anime illustration using the TWO uploaded reference photos.\n\nCHARACTER IDENTITY (VERY IMPORTANT):\n- Reference photo 1: Use the exact boy's facial identity, hairstyle, face shape and skin tone.\n- Reference photo 2: Use the exact girl's facial identity, hairstyle, face shape and skin tone.\n- Transform both into beautiful hand-painted Ghibli-style characters while keeping them recognizable.\n- Do not mix, replace or alter their facial identities.\n\nSCENE & POSE:\nA romantic couple standing together on a large rocky surface beside a peaceful lake during a breathtaking sunset.\n- The boy stands on the right, wearing a dark olive-green casual jacket over a light T-shirt, black trousers and stylish sneakers.\n- He holds a closed black umbrella high above them with one hand.\n- His other hand rests casually inside his pocket.\n- The girl stands on the left, wearing an elegant traditional pink Indian saree with beautiful embroidery.\n- Her long flowing hair moves gently in the evening breeze.\n- They stand close together, looking lovingly into each other's eyes.\n\nBACKGROUND:\n- Huge glowing orange and golden sunset.\n- Sun positioned directly between the couple.\n- Beautiful orange, red and purple gradient sky.\n- A few birds flying in the distance.\n- Calm lake reflecting the sunset.\n- Distant city skyline and natural vegetation.\n- Dark rocky foreground with warm sunset reflections.\n\nART STYLE:\n- Magical Studio Ghibli-inspired animation aesthetic.\n- Hand-painted watercolor textures.\n- Cinematic anime lighting.\n- Beautiful detailed character expressions.\n- Soft atmospheric glow.\n- Rich orange and golden color grading.\n- Romantic, dreamy storytelling atmosphere.\n\nCAMERA & COMPOSITION:\nFull-body vertical portrait, wide cinematic framing, couple positioned in the center, beautiful sunset filling the background.\n\nQUALITY: 4K, ultra-detailed, professional anime movie artwork, beautiful lighting, no text, no watermark.\n\nMOST IMPORTANT: Preserve the recognizable facial identities from both uploaded photographs. Make the final artwork look like the two real people transformed into Ghibli characters."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "Create a brand-new vertical reel of an anime sunset scene featuring the girl from the uploaded photo.\nUse the uploaded photo ONLY as a face reference. Keep the face 100% the same throughout the entire video: same face structure and skin tone, no face morphing or identity drift.\nDo NOT use the uploaded photo as the first frame. Do not copy its background, clothes, pose, or lighting. Everything must come from the description only. The video starts with a completely new scene.\n\nVideo opens on: A boy and the girl stand facing each other. Behind them, a huge setting orange sun and a river. The boy holds a closed umbrella over the girl.\n\nStatic details: The girl wears a pink saree, and her open hair blows in the wind. The boy wears a dark green shirt and black pants. Location: on a rock by the river, with distant city buildings visible. Lighting: golden warm sunset glow. Style: 2D anime illustration.\n\nTimeline:\n0.0-2.5s: The boy opens the umbrella. Many pink petals fall from inside the umbrella onto the girl. The camera is static and far away.\n2.5-6.0s: The petals keep falling as the girl looks up with surprise and joy. Her clothes and hair move in the wind.\n6.0-8.0s: The girl smiles at the boy and reaches her hand forward. The boy reaches his other hand toward her. The camera slowly zooms in.\n8.0-10.0s: They look into each other's eyes. The camera comes in to a half-body close-up, with petals still falling.\n\nPacing/mood: Romantic, slow, and calm.\n\n10 seconds, 9:16 vertical, 24fps, cinematic anime style, vibrant warm colors, smooth animation, no face distortion, no flickering, stable background, consistent outfit throughout, no frame from the uploaded photo visible in the video."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://yourimageshare.com/ib/hzPFGLoAl7.png",
+      "videoUrl": "https://yourimageshare.com/ib/nS54FvyB9q.mp4",
+      "tags": [
+        "Couple",
+        "Ghibli",
+        "Anime",
+        "Sunset",
+        "Umbrella",
+        "Pink Saree",
+        "Romantic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/hzPFGLoAl7.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/nS54FvyB9q.mp4"
         }
       ]
     }
