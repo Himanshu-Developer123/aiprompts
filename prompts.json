@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
-  "version": 35,
-  "updatedAt": "2026-11-06T10:07:00Z",
+  "version": 36,
+  "updatedAt": "2026-11-06T06:42:00Z",
   "categories": [
     {
       "id": "trending",
@@ -2861,6 +2861,142 @@
       ]
     },
     {
+      "id": "spiritual-portrait-ancient-indian-temple-sunrise-golden-light-beams-image-prompt",
+      "title": "Spiritual Temple Portrait Image Prompt – Ancient Indian Temple, Sunrise & Golden Light Beams",
+      "description": "An ultra-realistic spiritual portrait prompt that keeps the uploaded person's face identical: the subject stands before a magnificent ancient Indian temple at sunrise, with golden rays through the pillars forming volumetric light beams and a subtle divine glow.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create an ultra realistic spiritual portrait of the uploaded person standing before a magnificent ancient Indian temple during sunrise.\nIMPORTANT: Preserve facial identity perfectly without alteration. Do not change the person's face, eyes, nose, lips, skin tone, age, hairstyle, or natural features. The final image must clearly look like the same person.\nGolden rays shine through temple pillars, creating dramatic volumetric light beams around the subject.\nTraditional ethnic attire, realistic fabric folds, subtle divine glow, natural skin texture, cinematic atmosphere, detailed temple architecture, realistic shadows, luxury devotional poster composition, premium DSLR photography style, ultra detailed 8K quality."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_08-AM-1.webp",
+      "tags": [
+        "Temple",
+        "Sunrise",
+        "Spiritual",
+        "Devotional",
+        "Volumetric Light",
+        "Traditional Attire",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_08-AM-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "woman-meditating-rain-wet-street-lord-shiva-mural-reflections-image-prompt",
+      "title": "Woman Meditating Before Lord Shiva Street Mural Image Prompt – Rain-Wet Street & Reflections",
+      "description": "An image prompt that keeps the uploaded woman's face identical: she sits cross-legged in meditation on a rain-wet street in a white shirt and blue jeans, in front of a huge hand-painted Lord Shiva mural whose reflection shows in the puddles.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded reference image as the only identity reference. Maintain 100% exact face match, hairstyle, skin tone, facial features, body proportions, and natural expression with no alteration.\nThe subject is seated cross-legged on a rain-wet street in a deep meditative pose, with eyes gently closed, back straight, shoulders relaxed, and both hands resting naturally on the knees in a meditation mudra.\nShe wears a crisp white oversized button-down shirt, blue straight-fit jeans, and clean white sneakers. Her long dark hair falls naturally over her shoulders with a few loose strands moved gently by the breeze.\nBehind her is a massive hand-painted street mural of Lord Shiva, covering the entire wall. The mural features Lord Shiva's serene blue face, a crescent moon in the topknot, a coiled snake around the neck, a golden Trishul (trident), and a glowing Om symbol, painted with rich artistic detail and vibrant colors.\nThe wet road reflects both the mural and the subject, adding depth to the composition. Small puddles, subtle rainwater reflections, and a peaceful post-rain atmosphere enhance the scene. The background remains softly out of focus while keeping the mural clearly recognizable.\nNatural overcast daylight creates soft, even lighting with realistic shadows and reflections. The overall mood is calm, spiritual, and contemplative, with an authentic street-photography feel."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://i0.wp.com/promptshelf.in/wp-content/uploads/2026/08/1000048458.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Meditation",
+        "Street Mural",
+        "Rain Reflections",
+        "Om",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://i0.wp.com/promptshelf.in/wp-content/uploads/2026/08/1000048458.webp"
+        }
+      ]
+    },
+    {
+      "id": "young-man-leaning-lord-shiva-blue-mural-glowing-halo-90s-film-editorial-image-prompt",
+      "title": "Lord Shiva Mural Portrait Image Prompt – Man in White Shirt, Glowing Halo & 90s Film Grain",
+      "description": "A cinematic full-length 90s film-style editorial portrait of a young South Asian man leaning against a dark wall beside a huge serene blue Lord Shiva mural, with a glowing backlight halo around him and the artwork.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create a cinematic full-length portrait of a young South Asian man standing confidently with eyes closed and arms folded. He wears an oversized white button-down shirt with relaxed light-wash wide-leg jeans.\nThe subject leans against a dark textured wall beside a massive serene blue mural inspired by Lord Shiva's face. A dramatic glowing backlight creates a spiritual halo surrounding both the subject and the artwork.\nWarm vintage film grain, subtle 90s photography texture, cinematic atmosphere, realistic skin details, editorial photography style, shallow depth of field, DSLR realism, premium magazine-quality composition, ultra detailed 8K quality."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_23-AM-1.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Mural",
+        "Editorial",
+        "90s Film",
+        "Portrait",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_23-AM-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "young-woman-leaning-lord-shiva-blue-mural-divine-halo-90s-film-editorial-image-prompt",
+      "title": "Lord Shiva Mural Portrait Image Prompt – Woman in White Shirt, Divine Halo & 90s Film Grain",
+      "description": "A cinematic full-body 90s film-style editorial portrait of a young South Asian woman leaning against a dark textured wall beside a giant peaceful blue Lord Shiva mural, with a strong glowing backlight forming a divine halo around her and the artwork.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create a cinematic full-body portrait of a young South Asian woman with eyes peacefully closed and arms gently folded. She wears an oversized white button-up shirt and light-wash wide-leg jeans while leaning against a dark textured wall.\nBeside her appears a giant peaceful blue mural inspired by Lord Shiva. Strong glowing backlight forms a divine halo around the woman and mural.\nAdd warm cinematic film grain, subtle vintage 90s aesthetic, realistic skin texture, premium editorial photography style, shallow depth of field, cinematic lighting, DSLR-quality realism, magazine-cover composition, ultra realistic 8K quality."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_17-AM-1.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Mural",
+        "Editorial",
+        "90s Film",
+        "Portrait",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_17-AM-1.webp"
+        }
+      ]
+    },
+    {
       "id": "young-man-minimarket-night-five-goddess-inspired-women-comfort-smartphone-photo-image-prompt",
       "title": "Night Minimarket Scene Image Prompt – Young Man Comforted by Five Goddess-Inspired Women",
       "description": "An ultra-realistic vertical 9:16 smartphone-style night photo outside a bright minimarket: a young Indian man sits with his face in his hands while five women inspired by Saraswati, Lakshmi, Parvati, Durga and Radha comfort him.",
@@ -2892,6 +3028,526 @@
           "title": "Sample image",
           "type": "image",
           "url": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_29-AM-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "krishna-inspired-devotional-portrait-vrindavan-lotus-yamuna-golden-sunlight-image-prompt",
+      "title": "Krishna-Inspired Devotional Portrait Image Prompt – Vrindavan, Lotus Flowers & Yamuna Reflections",
+      "description": "A highly realistic devotional portrait prompt that keeps the uploaded person's face identical: a Vrindavan-inspired landscape with lotus flowers, peacock feathers, temple bells, Yamuna river reflections, soft golden sunlight and a subtle divine blue aura.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the uploaded portrait into a highly realistic devotional artwork inspired by Lord Krishna while preserving the exact facial identity, hairstyle, skin tone, expression, and facial structure. Do not change the person's face, eyes, nose, lips, age, or natural features. The final image must clearly look like the same person.\nPlace the subject within a Vrindavan-inspired landscape featuring lotus flowers, peacock feathers, temple bells, glowing particles, Yamuna river reflections, and soft golden sunlight. A subtle divine blue aura surrounds the scene.\nTraditional Indian attire with realistic fabric textures, cinematic depth of field, premium devotional poster aesthetics, natural skin details, spiritual atmosphere, DSLR photography realism, ultra detailed 8K quality."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_13-AM-1.webp",
+      "tags": [
+        "Lord Krishna",
+        "Krishna",
+        "Vrindavan",
+        "Lotus",
+        "Peacock Feather",
+        "Yamuna",
+        "Devotional",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_13-AM-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-in-black-holding-camera-giant-lord-shiva-brick-wall-mural-street-photo-image-prompt",
+      "title": "Man with Camera Before Giant Lord Shiva Mural Image Prompt – Cinematic Street Photograph",
+      "description": "An ultra-realistic cinematic street photograph prompt that keeps the uploaded man's face an exact match: he stands in an all-black outfit holding a camera and looks up at a massive, colorful Lord Shiva mural on a textured brick wall.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic cinematic street photograph of a young man, using the uploaded reference photo as the exact identity.\nThe face must be an exact 1:1 match with the uploaded image: same facial structure, same eyes, nose, lips, jawline, skin tone, beard, hairstyle, and expression. Do not alter the face in any way. Do not beautify or stylize the face.\nThe man is dressed in an all-black outfit, standing straight in a confident posture, holding a camera in his hand.\nHe is positioned in front of a large textured brick wall mural, looking thoughtfully upward at a massive, vibrant, colorful painting of Lord Shiva.\nDramatic scale contrast between the small human figure and the enormous Shiva mural.\nUrban street environment, natural daylight, realistic shadows.\nPhotography style: DSLR photo, ultra-sharp focus, cinematic lighting, high dynamic range, realistic skin texture, authentic street vibe.\nStrict rules:\n- No anime\n- No cartoon\n- No illustration\n- No AI-generated face\n- No face change\n- No face enhancement\n- Keep original identity exactly as uploaded\nUltra-realistic, cinematic, professional street photography look."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-1.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Street Photography",
+        "Mural",
+        "Brick Wall",
+        "Cinematic",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "split-poster-lonely-man-trishul-lord-shiva-line-art-kaafi-akela-hoon-tu-akela-kaafi-hai-image-prompt",
+      "title": "Lord Shiva Split Poster Image Prompt – Lonely Man, Trishul & 'Tu Akela Kaafi Hai' Hindi Text",
+      "description": "A split-composition devotional poster prompt that keeps the uploaded man's face an exact match: grayscale loneliness on the left with 'Kaafi Akela Hoon', a marigold-wrapped Trishul in the center, and a colorful sky with a blue line-art Lord Shiva and 'Tu Akela Kaafi Hai' on the right.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "CRITICAL FACE INSTRUCTION (VERY IMPORTANT):\nUse the uploaded photo of the man as the exact identity reference. The face must be a 100% perfect match to the uploaded image: same facial structure, same jawline, same nose, same eyes, same lips, same skin tone, same beard/moustache (if present), same expression style. No face modification, no beautification, no AI-generated new face, no resemblance, exact identity preservation only.\n\nLeft Side (Human / Loneliness Theme)\nThe left half is rendered in muted grayscale tones. The same young Indian man from the uploaded photo stands on a rocky mountain cliff, captured in side profile facing right. He is wearing a dark full-sleeve sweatshirt, black jeans, and casual sneakers. His posture is upright yet humble. Both hands firmly hold a tall black Trishul planted on the ground.\nHis face is exactly the same as the uploaded photo, tilted slightly upward with a calm, thoughtful, slightly emotional expression. Eyes looking toward the trident and sky. Background shows soft, misty mountain ranges fading into the distance, creating a lonely, introspective mood.\nHindi text on the left (clean modern sans-serif font):\n“Kaafi” (white)\n“AKELA” (bold black uppercase)\n“Hoon” (white)\n\nCenter Element (Spiritual Connection)\nA large black Trishul stands perfectly centered, dividing both halves. A small damru is tied just below the blades. A vibrant marigold garland (orange and yellow) wraps around the trident, flowing diagonally from left to right, symbolizing divine connection.\n\nRight Side (Divine Presence)\nThe right half appears in warm, colorful tones with a peaceful blue sky. A minimalist blue line-art illustration of Lord Shiva appears in the sky, facing left. Long flowing hair in a topknot with crescent moon, snake around the neck, sacred forehead markings, one hand raised in abhaya mudra.\nThe garland visually continues into this side, reinforcing the spiritual bond.\nHindi text on the right:\n“Tu” (white)\n“AKELA” (bold black uppercase)\n“Kaafi Hai” (white)\n\nLighting & Style\nSoft natural lighting, spiritual and emotional mood. Strong contrast between grayscale loneliness and colorful divine reassurance. Ultra-sharp focus, realistic textures, clean typography, poster-quality composition, perfect symmetry, cinematic spiritual artwork, inspirational, ultra-detailed, high resolution, realistic photography, identity-locked face, 8K quality, no anime, no illustration on the human face."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-2.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Trishul",
+        "Split Poster",
+        "Hindi Text",
+        "Motivational",
+        "Devotional",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-2.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-praying-waist-deep-holy-river-sunrise-trishul-back-tattoo-lord-shiva-statue-image-prompt",
+      "title": "Man Praying in Holy River at Sunrise Image Prompt – Trishul Back Tattoo & Lord Shiva Statue",
+      "description": "A hyper-realistic cinematic prompt that keeps the uploaded man's face an exact match: he stands waist-deep in a holy river at sunrise with raised hands in Anjali Mudra, wearing a Rudraksha necklace with a Trishul-and-Damru spine tattoo, and a faint ethereal Lord Shiva statue glows in the golden mist behind him.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Use the uploaded photo of the man as the absolute identity reference. The face must be a 100% exact match to the uploaded image: same facial structure, same head shape, same skin tone, same hairline, same beard/moustache (if any), same ear shape, same neck structure. No face alteration, no beautification, no enhancement, no AI-generated face, no resemblance, exact identity preservation only.\nA hyper-realistic, cinematic side-profile shot of the same man from the uploaded photo, standing waist-deep in a holy river at sunrise. The camera captures him from a side-back angle, but the visible facial portion must remain exactly identical to the uploaded image, maintaining true likeness and proportions.\nThe man is facing toward the horizon with both hands raised high above his head in a prayer gesture (Anjali Mudra). He is shirtless with wet skin, showcasing a naturally defined back and shoulders (realistic body proportions, not exaggerated). He wears a Rudraksha bead necklace.\nOn the center of his spine, there is a prominent black Trishul (Trident) tattoo with a Damru, aligned perfectly with the spine, realistic ink texture.\nIn the background, amidst golden river mist and soft morning sunlight, a faint, majestic, ethereal statue of Lord Shiva is visible, seated in deep meditation. Shiva appears subtle and divine, partially blended with light rays, not overpowering the scene.\nThe atmosphere feels divine, spiritual, calm, and serene.\nSoft sunrise lighting, warm golden tones, volumetric light rays, Tyndall effect, ultra-realistic reflections on water, photorealistic shadows, natural skin texture.\nStyle & Quality: Ultra-realistic photography, cinematic framing, hyper-detailed textures, balanced exposure, spiritual realism, identity-locked human face, no anime, no illustration on human body, no fantasy face, no AI morphing, 8K resolution, poster-quality output."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-3.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Holy River",
+        "Sunrise",
+        "Trishul Tattoo",
+        "Rudraksha",
+        "Anjali Mudra",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-3.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-looking-up-massive-lord-shiva-realistic-street-mural-28mm-urban-photo-image-prompt",
+      "title": "Man Looking Up at Massive Lord Shiva Street Mural Image Prompt – Realistic Urban Photography",
+      "description": "An ultra-realistic cinematic urban photography prompt that keeps the uploaded man's face an exact match: he stands in a kurta-style shirt and looks up at a massive, realistic Lord Shiva street mural on a weathered brick wall, shot with a 28mm wide-angle lens in natural daylight.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Ultra-realistic cinematic urban photography featuring the same man from the uploaded photo, standing at a three-quarter right angle. His posture is natural and grounded, hands relaxed by his side. The face visible must exactly match the uploaded photo, maintaining original proportions and natural skin texture. He is looking upward at a massive Shiva street mural.\nHe wears a simple kurta-style shirt and dark trousers in muted, earthy colors for a realistic, grounded look.\nThe mural dominates the frame: Lord Shiva with a calm, serene expression, realistically painted trident beside him, snake coiled naturally, flowing hair rendered with detailed, lifelike shading. The mural style is realistic street art, not fantasy or illustration-heavy.\nCamera & Lighting:\nCamera angle slightly tilted upward to emphasize scale contrast. 28mm wide-angle lens, dramatic yet natural perspective. Harsh daylight softened by wall shadows, no artificial glow.\nTextures & Mood:\nHighly detailed rough brick texture, chipped paint, natural weathering. Mood conveys strength, humility, and realism.\nStrict Style Rules:\nUltra-realistic photography only, no halos, no fantasy lighting, no over-stylization, no painterly effects, no anime, no cartoon, no face morphing, identity-locked realism, 8K resolution, cinematic but natural."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-4.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Street Mural",
+        "Urban Photography",
+        "Kurta",
+        "Realistic",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-4.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-embracing-black-stone-lord-shiva-bust-monsoon-rain-temple-courtyard-image-prompt",
+      "title": "Man Embracing Black Stone Lord Shiva Bust Image Prompt – Monsoon Rain & Temple Courtyard",
+      "description": "A hyper-realistic cinematic portrait prompt that keeps the uploaded man's face an exact match: he wears a red velvet shirt and gently embraces a massive black stone Shiva bust in a rain-soaked temple courtyard with white marble pillars.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A hyper-realistic, ultra-detailed, professional cinematic portrait of the same young Indian man from the uploaded photo, with his face perfectly matching the uploaded image in every detail.\nHe is wearing a red velvet shirt and black jeans, gently embracing a massive, striking black stone bust of Lord Shiva (Mahadev). His posture is respectful, emotional, and serene.\nOn his forehead, there is a vibrant red bindi and tilak, applied naturally and realistically (no glow, no exaggeration). His hands are clasped around the Shiva idol in a devotional gesture.\nThe scene takes place in an outdoor temple courtyard, surrounded by white marble pillars in the background. It is heavy monsoon rain: visible raindrops, wet fabric, water streaks on skin, and realistic rain splash details. The black stone Shiva bust is slick with rainwater, showing authentic stone texture and reflections.\nLighting & Atmosphere:\nNatural overcast monsoon lighting, soft diffused highlights, realistic shadows. Mood is deeply spiritual, calm, emotional, and serene.\nQuality & Style:\nHyper-realistic photography, cinematic depth, ultra-sharp focus, realistic skin texture, natural proportions, no fantasy glow, no stylization, no painterly look, no anime, no illustration on human face, identity-locked realism, professional portrait composition, 8K resolution."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-5.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Monsoon Rain",
+        "Temple Courtyard",
+        "Shiva Bust",
+        "Tilak",
+        "Devotional",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-5.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-holding-shiva-lingam-rain-forest-divine-blue-energy-golden-om-cobra-statue-image-prompt",
+      "title": "Man Holding Shiva Lingam in Rain Forest Image Prompt – Divine Blue Energy & Golden Om",
+      "description": "An ultra-realistic 8K cinematic prompt that keeps the uploaded man's face 100% identical: he stands barefoot in a rain-soaked forest holding a sacred Shiva Lingam while divine blue energy glows around him, with a towering cobra-hooded Shiva statue and a golden Om symbol behind him.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "An ultra-realistic 8K cinematic scene featuring the same man from the uploaded photo, with a 100% identical face. Do not change his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHe wears a white shirt and stands barefoot in a rain-soaked forest, holding a sacred Shiva Lingam at chest level. Water streams down from the sky as divine blue energy glows around his body.\nBehind him, a towering Shiva statue with multiple cobra hoods emerges from ancient tree roots, with a radiant golden “ॐ” symbol floating above it.\nHis eyes are closed and his head is slightly tilted upward, with light particles and divine mist swirling around him, representing spiritual awakening and connection to Shiva's power."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-6.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Shiva Lingam",
+        "Rain Forest",
+        "Om",
+        "Cobra",
+        "Devotional",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-6.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-kneeling-offering-glowing-shiva-lingam-rain-forest-sacred-tree-statue-golden-om-image-prompt",
+      "title": "Man Kneeling with Glowing Shiva Lingam Image Prompt – Sacred Tree Statue & Golden Om in Rain Forest",
+      "description": "A hyper-realistic cinematic 8K prompt that keeps the uploaded man's face 100% identical: he kneels in a misty rain forest offering a glowing Shiva Lingam toward a massive Shiva statue carved into a sacred tree with glowing cobra hoods and a radiant golden Om.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A hyper-realistic, cinematic 8K shot of the same man from the uploaded reference photo, with a 100% same face. Do not change his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHe is kneeling on the forest ground in the rain, both hands offering a glowing Shiva Lingam forward toward a massive Shiva statue behind him.\nThe statue is carved into a sacred tree with glowing cobra hoods and a bright golden “ॐ” radiating divine energy that lights up the misty forest.\nRaindrops shimmer through the light, and soft blue and amber hues fill the frame, evoking humility, power, and devotion. Cinematic volumetric lighting and fog depth add a divine, movie-like atmosphere."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-7.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Shiva Lingam",
+        "Rain Forest",
+        "Om",
+        "Cobra",
+        "Devotional",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-7.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-sitting-cross-legged-shiva-lingam-misty-forest-cobra-hood-root-statue-golden-om-image-prompt",
+      "title": "Man Sitting with Shiva Lingam in Misty Forest Image Prompt – Root-Carved Shiva Statue & Golden Om",
+      "description": "A hyper-realistic cinematic prompt that keeps the uploaded man's face 100% identical: he sits cross-legged in a misty rain forest holding a Shiva Lingam, in front of a stone Shiva statue carved into ancient tree roots with a cobra-hood canopy, a Trishul and a glowing golden Om.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A hyper-realistic, cinematic image of a young Indian man from the uploaded reference photo, with a 100% same face. Do not change his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHe is sitting cross-legged in a dense, misty forest during light rain. He is wearing a black traditional outfit and holding a sacred Shiva Lingam in his hands, with water droplets splashing from it.\nBehind him stands a majestic stone statue of Lord Shiva, carved into the roots of an ancient tree. The statue has multiple cobra hoods forming a protective canopy above Shiva's head, a crescent moon on the forehead, and a Trishul (trident) by its side.\nA radiant golden “ॐ” (Om) symbol glows brightly in front of the statue, casting divine light on the man and surroundings.\nThe ground is covered with moss and leaves, and the atmosphere feels serene, spiritual, and powerful, symbolizing devotion and divine connection.\nUltra-detailed, photo-realistic texture, cinematic lighting, divine energy glow, 8K resolution."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-8.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Shiva Lingam",
+        "Misty Forest",
+        "Om",
+        "Cobra",
+        "Devotional",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-8.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-holding-shiva-lingam-aloft-moonlit-waterfall-rock-carved-shiva-statue-golden-om-image-prompt",
+      "title": "Man Offering Shiva Lingam at Moonlit Waterfall Image Prompt – Rock-Carved Shiva Statue & Golden Om",
+      "description": "A hyper-realistic cinematic 8K prompt that keeps the uploaded man's face 100% identical: he stands at the edge of a waterfall in a moonlit, rain-soaked forest holding a glowing Shiva Lingam aloft, with a many-armed Shiva statue carved into the rock behind the falls and a luminous golden Om above.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A hyper-realistic, cinematic 8K scene featuring the same man from the uploaded reference photo, with a 100% same face. Do not change his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHe stands at the edge of a cascading waterfall in a moonlit, rain-soaked forest. He holds a glowing Shiva Lingam aloft, offering it to the heavens.\nBehind the waterfall, a magnificent Shiva statue is carved into the sheer rock face, its multiple arms holding various divine attributes. Cobra hoods crown the statue, and a luminous golden “ॐ” hovers like a celestial beacon.\nDynamic volumetric lighting, heavy mist, and the interplay of moonlight and divine glow create an epic, mystical tableau of offering and supreme devotion."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-9.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Shiva Lingam",
+        "Waterfall",
+        "Moonlight",
+        "Om",
+        "Devotional",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-9.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-head-bowed-cupped-hands-glowing-shiva-lingam-rain-close-up-colossal-statue-golden-om-image-prompt",
+      "title": "Man Bowing with Glowing Shiva Lingam Image Prompt – Rain Close-Up & Colossal Shiva Statue",
+      "description": "A hyper-realistic cinematic 8K close-up prompt that keeps the uploaded man's face 100% identical: his head is bowed in reverence over a small, intensely glowing Shiva Lingam in his cupped hands, with rain on his face and a colossal Shiva statue and golden Om in the misty background.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A hyper-realistic, cinematic 8K close-up of the same man from the uploaded reference photo, with a 100% same face. Do not change his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHis head is bowed in reverence, with his hands cupped around a small, intensely glowing Shiva Lingam. Rain streaks down his face, illuminated by the Lingam's light.\nThe background, softly blurred, reveals the silhouette of a colossal Shiva statue emerging from old growth trees, adorned with subtle serpentine details. A vibrant golden “ॐ” shines through the mist.\nDeep blue and amber cinematic lighting, light particles, and swirling fog evoke a profound sense of humility, grace, and spiritual awakening."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-10.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Shiva Lingam",
+        "Close-Up",
+        "Rain",
+        "Om",
+        "Devotional",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-10.webp"
+        }
+      ]
+    },
+    {
+      "id": "young-man-meditating-before-lord-shiva-stone-statue-waterfall-rainforest-namaste-image-prompt",
+      "title": "Man Meditating Before Lord Shiva Waterfall Statue Image Prompt – Rainforest, Namaste & Sacred Mist",
+      "description": "A serene spiritual image prompt of a large carved stone Lord Shiva statue meditating beneath a waterfall in a lush rainforest, with a bare-chested young Indian man in a white dhoti sitting on a mossy rock in front of it, hands in namaste, eyes closed, wrapped in mist.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A serene spiritual scene set in a lush rainforest. A large, intricately carved stone statue of Lord Shiva sits in a meditative posture beneath a cascading waterfall. Water flows continuously over the statue's head, shoulders, and body, creating a mystical, sacred ambiance. The statue features detailed ornaments, including layered rudraksha malas, a coiled serpent on the shoulder, and the traditional jata hairstyle with a crescent moon shape.\nIn the foreground, a young Indian man sits on a moss-covered rock directly in front of the statue. He is bare-chested and wearing a white dhoti wrapped neatly around his waist. His hands are held together in a prayer pose (namaste), eyes closed, and his expression is peaceful and meditative. Water droplets cover his skin as the mist from the waterfall surrounds him.\nThe environment is vibrant and natural: green ferns, moss, and wet rocks frame the scene, with soft diffused light filtering through the forest canopy. The entire atmosphere feels spiritual, calm, and divine, with a blend of nature, meditation, and sacred energy."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-11.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Waterfall",
+        "Rainforest",
+        "Meditation",
+        "Namaste",
+        "Devotional",
+        "Spiritual"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-11.webp"
+        }
+      ]
+    },
+    {
+      "id": "man-lifting-enormous-shivling-on-shoulder-black-rocks-waterfall-baahubali-style-image-prompt",
+      "title": "Man Lifting Enormous Shivling at Waterfall Image Prompt – Baahubali-Style Heroic Scene",
+      "description": "A 4K ultra-realistic prompt that keeps the uploaded man's face unchanged: he walks shirtless in a white dhoti across dramatic black rocks before a powerful waterfall, heroically carrying an enormous Shivling on one shoulder in a mystical, Baahubali-inspired scene.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "4K ultra realistic image of the man from the uploaded photo. Keep his face exactly as in the uploaded image. Do not change his facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. He must clearly look like the same person.\nHe is shirtless, wearing white dhoti pants, in a walking pose. He stands on dramatic black rocks before a powerful waterfall, heroically lifting an enormous Shivling on one shoulder and steadying it with both hands.\nMystical atmosphere resembling the iconic scene from \"Baahubali: The Beginning\".\nRealistic body proportions, natural skin texture, wet rocks, waterfall mist, cinematic lighting, cinematic depth of field, ultra-detailed, 4K quality."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-12.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Shivling",
+        "Waterfall",
+        "Baahubali",
+        "Cinematic",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-12.webp"
+        }
+      ]
+    },
+    {
+      "id": "devotee-half-submerged-dark-water-embracing-black-shiva-lingam-lotus-lily-pads-god-rays-image-prompt",
+      "title": "Devotee Embracing Black Shiva Lingam in Dark Water Image Prompt – Lotus Flowers & God Rays",
+      "description": "A hyperrealistic image prompt of a young shirtless devotee half-submerged in calm, dark water, embracing a large black stone Shiva Lingam marked with white and red Tripundra lines, with lily pads, pink lotus flowers and golden god rays piercing the mist.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A highly detailed, hyperrealistic (photorealistic), full-frame shot of a young, shirtless devotee, half-submerged in calm, dark water, embracing a large, black, stone Shiva Lingam with closed eyes in deep devotion.\nThe Shivalinga has the sacred Tripundra mark (three horizontal lines) in white and red.\nThe surface of the water is dotted with floating yellow-green lily pads and soft pink lotus flowers.\nEthereal, mystical golden light pierces through a thick mist in dramatic god rays.\nShot with an 85mm prime lens."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-13.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Shiva Lingam",
+        "Lotus",
+        "God Rays",
+        "Devotee",
+        "Photorealistic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-13.webp"
+        }
+      ]
+    },
+    {
+      "id": "woman-waist-deep-dark-ocean-prayer-pose-yellow-saree-colossal-lord-shiva-statue-image-prompt",
+      "title": "Woman Praying in Dark Ocean Image Prompt – Yellow Saree & Colossal Lord Shiva Statue",
+      "description": "A hyperrealistic photograph prompt that keeps the uploaded woman's face unchanged: she stands waist-deep in a dark ocean in a yellow saree with her hands joined in prayer above her head, with a colossal dark stone statue of Lord Shiva in the misty background.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create a hyperrealistic photograph of the young woman from the uploaded reference photo.\nIMPORTANT: Keep her face exactly as in the reference photo. Do not change her facial structure, eyes, nose, lips, skin tone, age, or natural features. She must clearly look like the same person.\nShe stands waist-deep in a dark ocean. Her hands are above her head, pressed together in a prayer pose. Her hair is wet. She is wearing a yellow saree and a backless blouse, and a simple brown-beaded necklace.\nIn the vast, misty background, a colossal dark stone statue of Lord Shiva stands.\nNatural skin texture, realistic wet fabric, realistic hands, cinematic lighting, cinematic depth of field, photorealistic detail."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-14.webp",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Dark Ocean",
+        "Yellow Saree",
+        "Prayer Pose",
+        "Devotional",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://editingbook.com/wp-content/uploads/2026/01/Mahadev-Ai-Photo-Editing-Prompts-14.webp"
         }
       ]
     },
