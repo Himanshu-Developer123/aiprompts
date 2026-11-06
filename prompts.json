@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
-  "version": 33,
-  "updatedAt": "2026-11-02T13:07:20Z",
+  "version": 34,
+  "updatedAt": "2026-11-06T02:35:45Z",
   "categories": [
     {
       "id": "trending",
@@ -2857,6 +2857,501 @@
           "title": "Reference photo",
           "type": "image",
           "url": "https://yourimageshare.com/ib/54RlMM8Twk.png"
+        }
+      ]
+    },
+    {
+      "id": "lord-shiva-devotee-blessing-golden-divine-energy-15-second-cinematic-video-prompt",
+      "title": "Lord Shiva Devotee Blessing Cinematic Video Prompt – Golden Divine Energy & Namaste",
+      "description": "A 15-second cinematic image-to-video prompt that keeps the uploaded devotee's face and the whole scene identical: Lord Shiva gently blessing, a stream of golden divine energy, a respectful namaste, and drifting clouds, smoke, embers and golden rays.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Create a 15-second cinematic image-to-video animation from the uploaded image. Use the uploaded image as the exact first-frame reference.\nIMPORTANT: Preserve the person's face, identity, hairstyle, clothing, body proportions, Lord Shiva, temples, trident, background, colors, lighting and composition exactly.\n0–3 sec: Very subtle camera push-in. Clouds and smoke move naturally. The devotee looks upward toward Lord Shiva.\n3–6 sec: The devotee slowly raises his right hand toward Lord Shiva. Keep his face and body unchanged.\n6–9 sec: Lord Shiva gently moves His blessing hand. A soft stream of golden divine energy flows from Shiva toward the devotee.\n9–12 sec: The devotee slowly brings both hands together into a respectful namaste. Golden light surrounds him.\n12–15 sec: Divine golden rays intensify gently. Clouds, smoke, embers and floating particles move naturally. Slow cinematic camera movement and a peaceful devotional ending.\nUltra-realistic, cinematic devotional atmosphere, volumetric golden rays, natural cloth movement, subtle facial movement, realistic clouds and smoke, smooth motion, high detail, 4K.\nNo face distortion, no identity change, no extra fingers, no extra limbs, no body deformation, no flickering, no morphing, no scene change, no text, no watermark."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/R5lbGZUiXo.png",
+      "videoUrl": "https://yourimageshare.com/ib/nWFDIrpGKX.mp4",
+      "tags": [
+        "Lord Shiva",
+        "Devotional",
+        "Mahadev",
+        "Namaste",
+        "Golden Rays",
+        "Cinematic",
+        "Image to Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/R5lbGZUiXo.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/nWFDIrpGKX.mp4"
+        }
+      ]
+    },
+    {
+      "id": "shiva-parvati-walking-temple-steps-moonlit-mist-8-second-cinematic-video-prompt",
+      "title": "Shiva & Parvati Temple Steps Cinematic Video Prompt – Moonlight, Mist & Glowing Trishul",
+      "description": "An 8-second cinematic image-to-video prompt based on the uploaded temple image: Lord Shiva and Goddess Parvati walk hand in hand up the temple steps in a rear view, with a glowing Trishul, moonlight, mist, drifting clouds and the divine form of Shiva in the sky above.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Use the uploaded temple image as the base. Create an ultra-realistic 8-second cinematic video.\nRear view of Lord Shiva and Goddess Parvati walking hand in hand up the temple steps. Shiva holds a glowing Trishul in his right hand. Their walking motion is slow, graceful, and natural. Their clothes and hair gently move in the wind.\nThe camera slowly follows from behind with smooth cinematic motion. The giant divine form of Lord Shiva remains in the clouds above the temple.\nMoonlight, mist, volumetric light rays, drifting clouds, temple lamps glowing warmly, sacred spiritual atmosphere, realistic animation, 4K HDR, epic devotional cinematic style, no text, no watermark."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/CtSlTFF5wI.png",
+      "videoUrl": "https://yourimageshare.com/ib/jtkNbOj07j.mp4",
+      "tags": [
+        "Lord Shiva",
+        "Goddess Parvati",
+        "Mahadev",
+        "Temple",
+        "Trishul",
+        "Devotional",
+        "Cinematic",
+        "Image to Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/CtSlTFF5wI.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/jtkNbOj07j.mp4"
+        }
+      ]
+    },
+    {
+      "id": "walking-with-lord-shiva-himalayan-temple-puja-blessing-cinematic-video-prompt",
+      "title": "Walking with Lord Shiva Cinematic Video Prompt – Himalayan Temple, Puja & Blessing",
+      "description": "A cinematic devotional video prompt that keeps the uploaded person's face identical: walking hand in hand with Lord Shiva, sitting beside him in puja, and receiving his blessing, set among Himalayan mountains and an ancient temple with golden light and flower petals.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "A beautiful cinematic devotional video of the person in the uploaded reference photo walking hand in hand with Lord Shiva, sitting beside him and performing puja, while Lord Shiva lovingly blesses the person by placing his hand on their head.\nIMPORTANT: Preserve the exact facial identity of the person in the uploaded photo. Do not change their face, facial structure, eyes, nose, lips, skin tone, age, hairstyle, or natural features. The final video must clearly look like the same person.\nThe setting is divine Himalayan mountains and an ancient temple, with soft golden light and flower petals gently falling through the air. A peaceful spiritual atmosphere.\nRealistic, natural movements, cinematic slow motion, cinematic depth of field, 4K quality. Maintain perfect facial consistency throughout the video, with no face distortion, no identity change, no extra fingers, no extra limbs, no morphing, no text, no watermark."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/OarsoeSrRj.png",
+      "videoUrl": "https://yourimageshare.com/ib/TK1LGWIaYE.mp4",
+      "tags": [
+        "Lord Shiva",
+        "Mahadev",
+        "Puja",
+        "Blessing",
+        "Himalaya",
+        "Temple",
+        "Devotional",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/OarsoeSrRj.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/TK1LGWIaYE.mp4"
+        }
+      ]
+    },
+    {
+      "id": "lord-shiva-nandi-mystical-forest-sunrise-cinematic-video-prompt",
+      "title": "Lord Shiva & Nandi Mystical Forest Cinematic Video Prompt – Sunrise, Trishul & Golden Rays",
+      "description": "A 5–10 second cinematic video prompt of Lord Shiva walking majestically through a mystical forest at sunrise with a gigantic divine white Nandi bull behind him, with golden sun rays, a glowing Trishul and a front-facing slow-motion tracking shot.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Lord Shiva walking majestically through a mystical forest at sunrise, accompanied by a gigantic divine white Nandi bull, much larger than an elephant.\nGolden sun rays pierce through dense trees, with a sacred glow around Shiva. He has realistic blue skin, wears tiger-skin attire, and holds a golden trident (Trishul). Nandi slowly follows behind with a glowing divine symbol on its forehead.\nCinematic camera tracking shot from the front, slow-motion footsteps, leaves gently flying, volumetric lighting, spiritual atmosphere, ultra-realistic details, epic scale, fantasy realism, 8K, HDR, dynamic shadows, depth of field, smooth camera movement, powerful divine presence, highly detailed forest environment.\nDuration: 5–10 seconds."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/PfKPnB7TNb.png",
+      "videoUrl": "https://yourimageshare.com/ib/cm0W01dow9.mp4",
+      "tags": [
+        "Lord Shiva",
+        "Nandi",
+        "Mahadev",
+        "Forest",
+        "Sunrise",
+        "Trishul",
+        "Devotional",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/PfKPnB7TNb.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/cm0W01dow9.mp4"
+        }
+      ]
+    },
+    {
+      "id": "maa-durga-divine-arrival-crimson-sindoor-15-second-cinematic-3d-devotional-video-prompt",
+      "title": "Maa Durga Divine Arrival Cinematic Video Prompt – Crimson Sindoor World & Golden Light",
+      "description": "A 15-second vertical 9:16 cinematic 3D devotional video prompt: Maa Durga emerges majestically through a sacred crimson world of glowing sindoor, golden light, floating red petals and ancient temple ruins, with a strict character-continuity lock.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "MAA DURGA — THE DIVINE ARRIVAL\n15-second epic cinematic 3D devotional video.\nCreate an exactly 15-second, breathtaking, ultra-detailed cinematic 3D devotional sequence featuring Maa Durga emerging majestically through a sacred crimson-red world filled with glowing sindoor, divine golden light, floating red flower petals, ancient temple ruins, and swirling clouds of vermilion powder.\nUse the supplied Maa Durga reference image as the strict character identity reference. Use the two uploaded videos as the visual references for atmosphere, color palette, environmental design, camera language, lighting, and devotional grandeur.\nThe result should feel like a spectacular, high-budget Hindu mythological film: sacred, powerful, graceful, emotionally moving, and visually magnificent.\nFORMAT: Vertical 9:16, exactly 15 seconds, premium cinematic 3D realism, no dialogue, no narration, no text, no subtitles, no logos.\nCONTINUITY LOCK — MAA DURGA\nMaa Durga must remain visually identical throughout the entire sequence.\nFACE AND EXPRESSION: A beautiful, majestic divine feminine face with large expressive almond-shaped eyes, delicately arched eyebrows, a symmetrical nose, graceful lips, a traditional red bindi, and a clearly defined vermilion tilak. Her expression conveys maternal compassion, serenity, fearlessness, and supreme divine authority. Preserve the same facial proportions, skin complexion, eye shape, hairstyle, crown, and facial details in every shot. Her expression may change only if explicitly required by the action; preferably maintain a serene, benevolent expression.\nCROWN AND HAIR: An elaborate antique-gold mukut decorated with intricate filigree, ruby-red gemstones, engraved patterns, and delicate ornamental details. Long, thick, flowing black hair moves gently in the divine breeze. The crown must never change shape or design.\n[REMAINDER OF PROMPT GOES HERE: COSTUME onward]"
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/FOP9MJxbWb.png",
+      "videoUrl": "https://yourimageshare.com/ib/5XgX6NZIGe.mp4",
+      "tags": [
+        "Maa Durga",
+        "Durga Maa",
+        "Devotional",
+        "Sindoor",
+        "3D",
+        "Cinematic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/FOP9MJxbWb.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/5XgX6NZIGe.mp4"
+        }
+      ]
+    },
+    {
+      "id": "lord-vishnu-garuda-heavenly-ride-golden-sky-cinematic-video-prompt",
+      "title": "Lord Vishnu Riding Garuda Cinematic Video Prompt – Golden Heavenly Sky & Sudarshan Chakra",
+      "description": "A 9:16 vertical cinematic video prompt of Lord Vishnu riding Garuda through the golden heavenly sky, with glowing wings, a rotating Sudarshan Chakra, a shining conch and lotus, drifting clouds, golden particles and a slow zoom from the wings to Vishnu's face.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "A majestic cinematic scene of Lord Vishnu riding Garuda through the golden heavenly sky. Garuda slowly spreads his giant glowing wings and flies forward with powerful motion. Lord Vishnu remains calm, divine, and majestic, with a soft golden aura around his body. The Sudarshan Chakra slowly rotates with golden light, the conch shines softly, and the lotus glows gently.\nClouds move smoothly, golden particles float in the air, temple lights sparkle in the background, and sun rays shine through the clouds. Realistic feather movement, subtle cloth movement, divine atmosphere, smooth slow motion, cinematic lighting, ultra realistic, highly detailed, 9:16 vertical video, epic fantasy realism, dramatic but peaceful, beautiful and eye-catching.\nCamera and motion: Slow cinematic zoom in from Garuda's glowing wings to Lord Vishnu's face. Golden clouds flow smoothly, divine light rays move softly, Garuda's feathers and cloth gently wave in the wind, the chakra rotates slowly, and magical golden particles sparkle around them, ultra realistic and majestic.\nNegative prompt: blurry face, distorted hands, extra arms, missing arms, deformed eyes, bad anatomy, scary face, low quality, shaky camera, fast motion, text distortion, watermark, cropped body, broken wings, unnatural movement, overexposed light."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/ulbGSpEvLi.png",
+      "videoUrl": "https://yourimageshare.com/ib/5YZCgOw2x1.mp4",
+      "tags": [
+        "Lord Vishnu",
+        "Garuda",
+        "Sudarshan Chakra",
+        "Devotional",
+        "Heavenly",
+        "Cinematic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/ulbGSpEvLi.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/5YZCgOw2x1.mp4"
+        }
+      ]
+    },
+    {
+      "id": "winged-archangel-city-destruction-bystander-smartphone-footage-cinematic-video-prompt",
+      "title": "Archangel City Destruction Video Prompt – Bystander Smartphone Footage & Telekinetic Shockwave",
+      "description": "A one-shot video prompt in the style of bystander smartphone footage: a winged archangel hovers between skyscrapers and unleashes a telekinetic pressure wave that shatters windows and blows transformers, while the crowd panics and shaky handheld zooms capture the chaos.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Use the provided image as the opening frame of one continuous, unedited bystander smartphone recording.\nThe winged man hangs high between the skyscrapers as strong gusts whip his long hair, shredded black robe and individual wing feathers. He turns his head toward the street, draws his arms inward, then violently thrusts both hands outward.\nThe handheld phone camera shakily zooms toward him, struggling to keep focus. A massive telekinetic pressure wave erupts from his body, visibly compressing the fog and blasting outward through the city canyon.\nBuild on the destruction already visible: glass windows rupture in fast cascading rows across both building facades, shards and masonry burst outward and fall under gravity, electrical wires whip, and several pole-mounted transformers arc, spark and explode in succession, sending brief orange flashes through the smoke. The camera operator recoils and rapidly zooms back out to capture the spreading devastation.\nThe crowd reacts continuously and individually: people flinch, scream, duck, stumble backward and scatter while others keep filming with trembling phones, heads tracking the winged figure and the exploding transformers. Wind drives smoke, dust and loose feathers across the view, and debris falls toward the street.\nEnd in a wide, badly shaken street-level view with the man still hovering above the chaos, his wings flexing against the wind.\nAuthentic low-light phone exposure, natural motion blur, slight autofocus hunting, imperfect digital zoom and microphone distortion. Real-time action, one uninterrupted shot, no cinematic cuts.\nAudio: violent wind, a low pressure boom, sharp glass breaks, crackling electricity, panicked voices and distant sirens; no music."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/6bFq35lJD0.png",
+      "videoUrl": "https://yourimageshare.com/ib/Gbx2zhAyGw.mp4",
+      "tags": [
+        "Archangel",
+        "Winged Man",
+        "City Destruction",
+        "Bystander Footage",
+        "Smartphone",
+        "Fantasy",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/6bFq35lJD0.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/Gbx2zhAyGw.mp4"
+        }
+      ]
+    },
+    {
+      "id": "hanuman-rama-ravana-golden-arrow-mythological-battle-5-second-cinematic-video-prompt",
+      "title": "Hanuman, Rama & Ravana Mythological Battle Video Prompt – Golden Arrow, 9:16 Vertical",
+      "description": "A 5-second vertical 9:16 image-to-video prompt that keeps the reference image's appearance and composition: giant Lord Hanuman with Lord Rama standing on his palm releases a glowing golden arrow toward ten-headed Ravana, with waving saffron cloth and golden sunlight through the clouds.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Animate the reference image into a 5-second ultra-realistic cinematic mythological battle.\nIMPORTANT: Keep the exact appearance and composition of giant Lord Hanuman, Lord Rama standing on his open palm, and ten-headed Ravana. Preserve all faces and bodies exactly.\nRama pulls back his divine bow and releases a glowing golden arrow toward Ravana. The arrow flies rapidly with a bright golden trail as the camera follows it briefly.\nHanuman's saffron cloth and flag wave naturally in the wind, and dramatic golden sunlight shines through the clouds.\nSmooth realistic motion, epic scale, photorealistic CGI, 4K, vertical 9:16.\nNo distortion, no extra limbs, no cartoon effects, no graphic injuries."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/k78YPxDofK.png",
+      "videoUrl": "https://yourimageshare.com/ib/zsXE6qPx66.mp4",
+      "tags": [
+        "Lord Hanuman",
+        "Lord Rama",
+        "Ravana",
+        "Ramayana",
+        "Devotional",
+        "Cinematic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/k78YPxDofK.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://yourimageshare.com/ib/zsXE6qPx66.mp4"
+        }
+      ]
+    },
+    {
+      "id": "lord-krishna-flute-peacock-feather-vrindavan-closeup-cinematic-video-prompt",
+      "title": "Lord Krishna Close-Up Video Prompt – Flute, Peacock Feather & Vrindavan Glow",
+      "description": "A vertical 9:16 devotional video prompt: a divine close-up of Lord Krishna smiling peacefully with the flute near his lips, a peacock feather moving gently in the wind, floating flowers and a glowing Vrindavan atmosphere.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Beautiful divine close-up of Lord Krishna smiling peacefully, flute near his lips, peacock feather moving gently in the wind, glowing Vrindavan atmosphere, flowers floating in the air, cinematic devotional ending, vertical 9:16."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/Y4jOcay8mC.png",
+      "videoUrl": "https://i.yourimageshare.com/EktjpPoKUP.mp4",
+      "tags": [
+        "Lord Krishna",
+        "Krishna",
+        "Flute",
+        "Peacock Feather",
+        "Vrindavan",
+        "Devotional",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/Y4jOcay8mC.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://i.yourimageshare.com/EktjpPoKUP.mp4"
+        }
+      ]
+    },
+    {
+      "id": "karna-battlefield-golden-sunset-divine-armour-cinematic-video-prompt",
+      "title": "Karna Battlefield Cinematic Video Prompt – Golden Sunset, Divine Armour & Slow Push-In",
+      "description": "A cinematic image-to-video prompt with a slow push-in toward Karna on the battlefield: his long hair and red cape move in the wind, dust drifts, distant flags flutter and the golden sunset lights his divine armour, with his face and appearance unchanged.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Slow cinematic camera push-in toward Karna. His long hair and red cape move gently in the wind. Dust drifts across the battlefield, distant flags flutter, and the golden sunset illuminates his divine armour.\nIMPORTANT: Keep his face and appearance unchanged, exactly as in the reference image.\nEpic realistic movement."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/tEVeD6fLT0.png",
+      "videoUrl": "https://i.yourimageshare.com/IRhMjVS3xv.mp4",
+      "tags": [
+        "Karna",
+        "Mahabharata",
+        "Battlefield",
+        "Golden Sunset",
+        "Divine Armour",
+        "Cinematic",
+        "Image to Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/tEVeD6fLT0.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://i.yourimageshare.com/IRhMjVS3xv.mp4"
+        }
+      ]
+    },
+    {
+      "id": "hooded-monkey-deity-meditation-dark-cave-mystical-cinematic-video-prompt",
+      "title": "Hooded Monkey Deity Meditation Cinematic Video Prompts – Dark Cave, Embers & Rudraksha",
+      "description": "A set of four cinematic video prompts for a mystical hooded monkey deity meditating in a dark cave: a slow zoom-in, a high-angle crane shot, an extreme close-up of the eyes opening, and a macro shot of a hand turning Rudraksha beads, with floating embers and suspenseful firelight.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Cinematic slow zoom-in on a mystical hooded monkey deity meditating in a dark cave, glowing fire embers floating in the air, flickering lamp flames in the foreground, deep shadows, intense suspenseful atmosphere, 8k, photorealistic."
+        },
+        {
+          "title": "Prompt 2 · Video",
+          "text": "High-angle cinematic crane shot slowly pushing down towards the hooded figure in deep meditation, subtle breathing movement, glowing warm firelight reflecting on bronze bracelets, dark mysterious ambiance, suspenseful mood."
+        },
+        {
+          "title": "Prompt 3 · Video",
+          "text": "Extreme close-up on the shadowed face under the red hood, eyes slowly opening with a fierce, glowing divine intensity, embers drifting past, dramatic chiaroscuro lighting, goosebumps-inducing suspense, hyper-realistic."
+        },
+        {
+          "title": "Prompt 4 · Video",
+          "text": "Macro close-up of a muscular hairy hand slowly turning Rudraksha prayer beads, warm firelight rim lighting the fingers, glowing sparks in the dark background, slow-motion, tense spiritual energy."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/gaDbzZSjjx.png",
+      "videoUrl": "https://i.yourimageshare.com/fRNktV4Wlg.mp4",
+      "tags": [
+        "Monkey Deity",
+        "Meditation",
+        "Rudraksha",
+        "Dark Cave",
+        "Mystical",
+        "Suspense",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/gaDbzZSjjx.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://i.yourimageshare.com/fRNktV4Wlg.mp4"
+        }
+      ]
+    },
+    {
+      "id": "hanuman-ji-eyes-open-still-water-tilak-reflection-5-second-cinematic-video-prompt",
+      "title": "Hanuman Ji Eyes Opening Cinematic Video Prompt – Still Water, Tilak & Golden Reflections",
+      "description": "A 5-second vertical 9:16 image-to-video prompt with an extreme close-up of Lord Hanuman Ji almost submerged in mirror-still water, slowly opening his eyes with a calm, divine gaze as soft ripples spread and golden sunlight reflects on his tilak.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Video",
+          "text": "Use the uploaded reference image as the exact starting frame.\nThe water is completely still, like a mirror. Lord Hanuman Ji remains almost entirely submerged, with only his forehead, sacred white-and-red tilak, hairline and eyes visible above the water.\nACTION:\nFor the first 2 seconds, absolutely no movement. Then Lord Hanuman Ji slowly and majestically opens his closed eyes. His eyes gradually become fully open, revealing a calm, powerful and divine gaze looking straight ahead.\nTiny ripples gently spread across the otherwise still water as his eyes open. A few water droplets fall naturally from his forehead. Golden sunlight reflects beautifully around his eyes and tilak.\nCAMERA:\nExtreme close-up focused on both eyes and the sacred tilak. Camera remains completely steady.\nCONTINUITY:\nMaintain exactly the same face, hairstyle, crown details, tilak, fur texture and appearance as the reference. Keep the waterline at the same height. Do not raise his head or reveal more of his face.\nNo glowing eyes, no sudden movements, no facial distortion, no camera zoom.\nUltra-realistic Hollywood cinematography, divine atmosphere, detailed water reflections, cinematic golden and deep-blue lighting.\nExactly 5 seconds. Vertical 9:16."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://yourimageshare.com/ib/LdvYVpiYws.png",
+      "videoUrl": "https://i.yourimageshare.com/iiAtSMSkrH.mp4",
+      "tags": [
+        "Lord Hanuman",
+        "Hanuman Ji",
+        "Tilak",
+        "Water Reflection",
+        "Devotional",
+        "Cinematic",
+        "Vertical Video"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "video",
+      "assets": [
+        {
+          "title": "Reference photo",
+          "type": "image",
+          "url": "https://yourimageshare.com/ib/LdvYVpiYws.png"
+        },
+        {
+          "title": "Sample video",
+          "type": "video",
+          "url": "https://i.yourimageshare.com/iiAtSMSkrH.mp4"
         }
       ]
     }
