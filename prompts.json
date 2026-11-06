@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
-  "version": 34,
-  "updatedAt": "2026-11-06T02:35:45Z",
+  "version": 35,
+  "updatedAt": "2026-11-06T10:07:00Z",
   "categories": [
     {
       "id": "trending",
@@ -2857,6 +2857,41 @@
           "title": "Reference photo",
           "type": "image",
           "url": "https://yourimageshare.com/ib/54RlMM8Twk.png"
+        }
+      ]
+    },
+    {
+      "id": "young-man-minimarket-night-five-goddess-inspired-women-comfort-smartphone-photo-image-prompt",
+      "title": "Night Minimarket Scene Image Prompt – Young Man Comforted by Five Goddess-Inspired Women",
+      "description": "An ultra-realistic vertical 9:16 smartphone-style night photo outside a bright minimarket: a young Indian man sits with his face in his hands while five women inspired by Saraswati, Lakshmi, Parvati, Durga and Radha comfort him.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Create an ultra realistic smartphone-style night photograph in vertical 9:16 format outside a brightly illuminated minimarket. Natural fluorescent lights create authentic highlights, slight overexposure, soft shadows, subtle grain, and believable street-photography realism.\nA young Indian man wearing a simple white shirt and dark jeans sits at a small silver table while emotionally covering his face with both hands.\nAround him stand five graceful women inspired by Hindu goddesses, dressed in luxurious sarees and lehengas with detailed jewelry, crowns, bindis, and elegant mythological styling. One resembles Saraswati with a veena, one resembles Lakshmi with a lotus flower, one resembles Parvati with a calm motherly expression, one resembles Durga standing near a trishul, and one resembles Radha with a gentle smile. They comfort him with caring gestures, blessings, and emotional support.\nWet reflective floor tiles, minimarket windows, snack shelves, parked bikes, realistic skin textures, authentic candid composition, cinematic social-media aesthetic, emotional storytelling, ultra realistic details."
+        }
+      ],
+      "categoryId": "spiritual-devotional",
+      "imageUrl": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_29-AM-1.webp",
+      "tags": [
+        "Hindu Goddesses",
+        "Saraswati",
+        "Lakshmi",
+        "Parvati",
+        "Durga",
+        "Radha",
+        "Night Photography",
+        "Emotional"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://tahireditz.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-11_53_29-AM-1.webp"
         }
       ]
     },
