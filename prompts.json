@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
-  "version": 38,
-  "updatedAt": "2026-11-06T10:07:00Z",
+  "version": 39,
+  "updatedAt": "2026-11-08T03:59:00Z",
   "categories": [
     {
       "id": "trending",
@@ -4043,6 +4043,482 @@
           "title": "Sample video",
           "type": "video",
           "url": "https://i.yourimageshare.com/iiAtSMSkrH.mp4"
+        }
+      ]
+    },
+    {
+      "id": "young-indian-couple-black-outfits-sunlit-park-pathway-candid-portrait-image-prompt",
+      "title": "Young Indian Couple Candid Park Portrait Image Prompt – Black Net Saree, Black Shirt & 85mm Bokeh",
+      "description": "A candid 9:16 outdoor portrait prompt that keeps both uploaded faces identical: a young Indian couple stands close on a sunlit park pathway, he in a black shirt and cargo trousers with a silver watch, she in a sheer black net saree with gold threadwork and jhumkas, shot with an 85mm f/1.4 lens and creamy bokeh.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "An intimate, candid outdoor portrait of a young Indian couple standing affectionately close on a sunlit paved pathway.\nThe man, positioned on the left, exudes relaxed confidence with his right hand casually tucked into the pocket of his matte black cargo trousers, while his left arm rests protectively around the woman's back. The woman leans gently into his side, her left arm crossing her body with her hand delicately resting on his chest, fingers slightly curved.\nHe wears a crisp, tailored black long-sleeve button-down shirt with the sleeves casually rolled up to the forearm, revealing a polished silver metallic chronograph watch on his left wrist, paired with clean white sneakers. She is draped in an elegant, sheer black net georgette saree heavily adorned with intricate gold threadwork, scattered floral metallic motifs, and a dense golden embroidered scalloped border. Her accessories include large, traditional gold dome-shaped jhumkas and a stack of glossy red and black glass bangles on her left wrist.\nIMPORTANT: Flawlessly map the bone structure, eye shape, and authentic skin undertones from the uploaded portraits onto both subjects, preserving their true facial identities, his styled dark hair and neatly trimmed beard, and her natural gentle smile, soft bindi, and long dark wavy hair cascading over her right shoulder.\nThe background features a softly blurred daytime park environment with vibrant green foliage, a textured tree trunk to the far left, and a paved curb painted with faded yellow and black blocks.\nCaptured during mid-morning with natural dappled sunlight filtering through the canopy, casting a warm ambient cinematic glow and subtle rim highlights on their hair, shot using an 85mm f/1.4 portrait prime lens to create a shallow depth of field and creamy optical bokeh that isolates the subjects from the environment. --ar 9:16"
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1793709739_6ae9d6abe465c.webp",
+      "tags": [
+        "Couple",
+        "Candid Portrait",
+        "Black Saree",
+        "Park",
+        "Outdoor",
+        "85mm Bokeh",
+        "Vertical"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1793709739_6ae9d6abe465c.webp"
+        }
+      ]
+    },
+    {
+      "id": "couple-cherry-blossom-tree-golden-hour-miss-you-broken-heart-surreal-eyes-image-prompt",
+      "title": "Couple Under Cherry Blossom Tree 'Miss You' Image Prompt – Golden Hour, Broken Heart & Surreal Eyes",
+      "description": "A hyper-realistic romantic digital composition prompt that keeps the uploaded man's face and skin tone identical: a couple sits on grass under a blooming pink cherry blossom tree at golden-hour sunset, with 'MISS YOU' carved in the trunk, a red broken-heart graphic in the sky, and a surreal close-up of a woman's eyes along the top border.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "IMPORTANT: Flawlessly map the facial likeness and authentic skin tone from the uploaded portrait onto the male figure in this romantic, hyper-realistic digital composition. Do not change his facial structure, eyes, nose, lips, hairstyle, or natural features. He must clearly look like the same person.\nA young couple sits on green grass beneath a blooming pink cherry blossom tree during a warm golden-hour sunset.\nThe man, wearing blue-tinted round sunglasses, white pants, white sneakers, and a light blue sweater inscribed with \"love\" next to a small red rose, sits cross-legged looking forward. A woman rests her head peacefully on his shoulder, wearing a matching light blue embroidered ethnic suit with a sheer dupatta and a bindi.\nOn the left, the thick tree trunk features \"MISS YOU\" and a heart outline carved into its bark. In the upper right sky, the text \"Miss You\" appears in elegant black cursive above a dripping, red broken heart graphic.\nDominating the entire top border of the image is a surreal, extreme close-up of a woman's eyes with heavy black eyeliner and long lashes gazing directly at the viewer.\nThe background features soft park bokeh. Render all inscribed text precisely.\nCinematic lighting, vibrant romantic color grading, crisp textures, 8k photorealistic digital art."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1793370303_6ae4a8bf25fe9.webp",
+      "tags": [
+        "Couple",
+        "Miss You",
+        "Cherry Blossom",
+        "Golden Hour",
+        "Broken Heart",
+        "Romantic",
+        "Digital Art"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1793370303_6ae4a8bf25fe9.webp"
+        }
+      ]
+    },
+    {
+      "id": "young-couple-diwali-night-rooftop-ledge-diyas-fireworks-candid-portrait-image-prompt",
+      "title": "Young Couple Diwali Night Rooftop Portrait Image Prompt – Diyas, Fairy Lights & Golden Fireworks",
+      "description": "A candid 9:16 Diwali night portrait prompt that keeps both uploaded faces identical: a young couple sits close on a concrete rooftop ledge lined with glowing diyas, he in a striped cream knit sweater, she in a crimson-maroon zari ethnic outfit, with festive string lights and golden-green fireworks behind them.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A candid, festive nighttime portrait of a young couple sitting closely together on a weathered concrete rooftop ledge, capturing an intimate, joyous Diwali atmosphere.\nThe boy on the left sits leaning slightly forward with his hands relaxed and clasped between his knees, while the girl on the right leans affectionately against his shoulder, her left hand gently resting on his arm, both sharing a warm, soft smile directed at the lens.\nIMPORTANT: Flawlessly map the bone structure, eye shape, and authentic skin undertones from the uploaded portrait onto both subjects, ensuring their true facial identities and unique facial contours are seamlessly preserved.\nThe boy is dressed in a chunky cream-colored knit sweater featuring bold, horizontal maroon stripes, layered over a crisp beige collared shirt, paired with dark trousers and white sneakers. The girl wears a rich crimson-maroon traditional ethnic outfit heavily embellished with intricate gold zari embroidery, draped with a sheer cream chiffon dupatta featuring fine gold motifs and a matching embroidered border, a classic watch resting on her left wrist.\nThey are seated on a raw concrete parapet adorned with glowing terracotta oil diyas casting a warm, flickering rim light. To the far left, a lush green climbing vine trails down the wall.\nThe deep night background is alive with neighboring urban rooftops draped in colorful festive string lights of purple, white, and warm yellow, while spectacular golden and green fireworks explode in the dark sky above.\nShot on a 50mm f/1.8 prime lens, the optical depth of field creates a beautiful cinematic bokeh in the distant city lights and fireworks, while keeping the couple's tactile fabric textures and faces sharply in focus under the ambient, warm volumetric haze of the festive night. --ar 9:16"
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1793800893_6aeb3abd54c93.webp",
+      "tags": [
+        "Couple",
+        "Diwali",
+        "Rooftop",
+        "Diyas",
+        "Fireworks",
+        "Candid Portrait",
+        "Vertical"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1793800893_6aeb3abd54c93.webp"
+        }
+      ]
+    },
+    {
+      "id": "young-couple-diwali-street-walking-hand-in-hand-red-kurta-lehenga-choli-fountain-firecrackers-happy-diwali-text-image-prompt",
+      "title": "Couple Walking Hand in Hand Diwali Street Image Prompt – Red Kurta, Mirror-Work Lehenga & 'Happy Diwali' Text",
+      "description": "A cinematic 3:4 Diwali street portrait prompt that keeps both uploaded faces identical: a young couple walks toward the camera holding hands and blazing fountain firecrackers, he in a red kurta with black sunglasses, she in a mirror-work lehenga choli, with festival bokeh, fireworks and a 3D golden 'Happy Diwali' title at the top.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "IMPORTANT: Flawlessly map the facial likeness, bone structure, and authentic skin tone from the uploaded portraits onto the young couple starring in this cinematic, festive Diwali street scene. Preserve both true facial identities.\nThe couple is captured mid-stride, walking confidently forward toward the camera while holding hands. The man on the left exudes a cool, relaxed demeanor, looking straight ahead while wearing a vibrant, solid red full-sleeved kurta with slightly rolled-up sleeves, crisp white straight pants, white sneakers, and bold black square sunglasses. The woman on the right radiates joy, flashing a bright, natural smile as she looks affectionately toward him.\nShe is dressed in an ornate, traditional lehenga choli; the blouse and draped dupatta are black with intricate red and white mirror-work embroidery, flowing into a voluminous skirt that transitions from bright yellow-orange to deep red with dense, traditional geometric patterns. She wears silver jhumka earrings and a small bindi.\nThey each hold a blazing firecracker fountain in their outer hands (his right hand and her left hand), shooting bright golden sparks. They are walking on a textured, paved street scattered with red firecracker wrappers, illuminated by the warm, atmospheric glow of ground-level sparkler fountains lining their path.\nThe beautifully blurred background features a lively, illuminated street festival environment with strings of warm yellow bokeh lights and vibrant magenta and yellow fireworks bursting in the twilight sky.\nPositioned prominently at the top center of the composition is stylized festive text. Render the inscription precisely as \"Happy Diwali\" in the original script, where \"Happy\" is in a smaller yellow cursive font above the word \"Diwali\", which appears in a massive, bold, cursive 3D golden-yellow font with a dark outline, adorned with two small glowing diyas on either side and golden starburst graphics.\nCinematic 85mm f/1.4 lens perspective, vivid warm color grading, photorealistic 8k render, rich fabric textures, highly detailed bokeh, festive editorial photography, award-winning lighting. --ar 3:4"
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1793453118_6ae5ec3e910ac.webp",
+      "tags": [
+        "Couple",
+        "Diwali",
+        "Street Festival",
+        "Firecracker Fountain",
+        "Lehenga Choli",
+        "Happy Diwali Text",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1793453118_6ae5ec3e910ac.webp"
+        }
+      ]
+    },
+    {
+      "id": "surreal-couple-heart-shaped-tree-trunk-window-red-outfits-garden-bougainvillea-image-prompt",
+      "title": "Surreal Couple Heart-Shaped Tree Window Image Prompt – Red Shirt, Red Sari & Bougainvillea Garden",
+      "description": "A hyper-saturated surreal romantic composite prompt that keeps both uploaded faces identical: a couple stands on either side of a huge tree trunk with a carved heart-shaped window that frames a second portrait of them in matching red outfits, in a sunlit garden with pink bougainvillea.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A highly saturated, surreal romantic outdoor composite portrait set in a lush, sunlit garden.\nIMPORTANT: Flawlessly map the facial likeness, bone structure, and authentic skin tones from the uploaded portraits onto the young couple featured in both the foreground and within the central heart-shaped window. Preserve both true facial identities.\nOn the left foreground, the man stands casually with his right hand in his pocket, wearing a vivid crimson red button-down shirt with rolled-up sleeves, dark aviator sunglasses, a red and yellow sacred thread on his wrist, and black track pants featuring double white side stripes and a small white logo on the left thigh.\nBetween the couple stands a massive, deeply textured tree trunk dominating the center of the frame. Carved perfectly into the rugged brown bark is a large heart-shaped window. Visible through this heart cutout is a secondary, intimate portrait of the same couple leaning closely together, wearing identical red outfits and sunglasses, perfectly framed by the wood.\nOn the right foreground, the woman stands gracefully, holding a small wooden-handled carving chisel against the tree trunk, implying she just created the wooden heart. She is draped in a striking crimson red sari with a green and gold embroidered border, paired with an emerald green half-sleeve blouse heavily detailed with pink and gold floral embroidery. Her styling includes dark rounded sunglasses, stacked red and green glass bangles, gold jhumka earrings, and flowing long dark hair.\nThe enchanting scene is enveloped by vibrant green foliage and bright pink bougainvillea flowers blooming profusely on the left and softly in the background.\nRendered in bright, diffused outdoor lighting that highlights the hyper-saturated red and green color palette, finishing with cinematic 8k resolution, photorealistic surrealism, sharp textural details on the rugged bark and embroidered fabric, dreamy bokeh depth-of-field, and award-winning composite photography."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1793329127_6ae407e7ca753.webp",
+      "tags": [
+        "Couple",
+        "Surreal",
+        "Heart Window",
+        "Tree Trunk",
+        "Red Sari",
+        "Bougainvillea",
+        "Composite Photography"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1793329127_6ae407e7ca753.webp"
+        }
+      ]
+    },
+    {
+      "id": "ghibli-style-couple-green-foliage-grow-t-shirt-floating-text-romantic-anime-image-prompt",
+      "title": "Ghibli-Style Couple Romantic Anime Image Prompt – 'Grow' T-Shirt, Green Foliage & Floating Name Text",
+      "description": "A romantic 2D anime, Studio Ghibli-inspired illustration prompt that keeps the uploaded woman's face identical: she faces a young man seen from behind in a sunlit green garden, wearing a white 'Grow' flower t-shirt, with playful floating text overlays reading 'Me' and '[YOUR NAME]'.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A cinematic, intimate storytelling frame in a beautifully detailed, high-quality 2D anime or Studio Ghibli-inspired digital illustration style, capturing a tender, romantic outdoor moment between a young couple.\nIMPORTANT: Flawlessly map the facial likeness, bone structure, and authentic skin tone from the uploaded portrait onto the young woman, seamlessly preserving the exact facial identity, warm brown eyes, and gentle, fond smile of the person in the reference photo.\nThe young woman is positioned on the right, facing left towards the man, with a softly glowing complexion, rosy cheeks, a silver hoop nose ring, and delicate white floral stud earrings. Her dark hair is styled in a relaxed, messy updo with loose, wispy tendrils framing her face, adorned with tiny pink flower hair clips. She is wearing a slightly oversized, loose-fitting crisp white t-shirt featuring a delicate dark blue line-art illustration of a blossoming flower with the cursive word \"Grow\" printed next to it.\nOn the left side of the frame, captured in an over-the-shoulder, back-profile perspective, is a young man with messy dark brown hair, wearing a light greyish-blue collared shirt, his face hidden as he looks directly at the woman.\nIntegrated into the scene are playful, floating text overlays: above the man's head on the top left is the text \"Me ❤️\" in white bold font with a black outline and a red heart emoji; near the woman's hair on the top right is the text \"[YOUR NAME] 🎀\" in white bold font with a black outline and a pink bow emoji. Render all inscribed text precisely in the original script with exact spelling and styling.\nThe background is a lush, softly blurred expanse of vibrant green foliage, creating a shallow depth-of-field bokeh effect that emphasizes the couple. The scene is bathed in bright, warm natural sunlight, casting soft, luminous highlights on the woman's hair and face, evoking a serene, nostalgic spring daytime atmosphere.\nMasterpiece 8k digital illustration, vivid watercolor and cel-shaded anime aesthetics, meticulous line work, romantic atmosphere, cinematic lighting in a 2D medium, breathtaking visual fidelity."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1792758697_6adb53a9ec10c.webp",
+      "tags": [
+        "Couple",
+        "Ghibli",
+        "Anime",
+        "Romantic",
+        "Floating Text",
+        "Green Foliage",
+        "Digital Illustration"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1792758697_6adb53a9ec10c.webp"
+        }
+      ]
+    },
+    {
+      "id": "couple-wet-balcony-diwali-night-sparkler-heart-diyas-lanterns-happy-diwali-chalkboard-image-prompt",
+      "title": "Couple Sparkler Heart Diwali Balcony Image Prompt – Wet Reflections, Diyas & 'Happy Diwali' Chalkboard",
+      "description": "A cinematic 9:16 Diwali night portrait prompt that keeps the uploaded faces identical: a couple on a wet balcony gaze into each other's eyes while drawing a glowing sparkler heart in the air, with diyas, lanterns, rose petals, a 'Happy Diwali' chalkboard, fairy lights and red and gold fireworks.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A cinematic night portrait of a romantic couple on a wet balcony, gazing intimately into each other's eyes while raising their arms to draw a massive, glowing sparkler heart in the air.\nIMPORTANT: Faithfully transfer the subject's exact facial features, skin pores, and authentic likeness from the reference image into both individuals. Do not change their facial structure, eyes, nose, lips, skin tone, age, or hairstyle. They must clearly look like the same people.\nThe man wears a black button-down shirt, khaki cargo pants, and white sneakers, while the woman wears a black Anarkali suit with silver floral embroidery, a sheer dupatta, white lace palazzos, and embroidered juttis, lifting one heel backward.\nThe wet floor reflects warm terracotta diyas, vintage metal lanterns, red rose petals, and a rustic wooden chalkboard sign explicitly reading \"Happy Diwali\" with a drawn chalk heart.\nWarm fairy lights wrap the railing behind them against a deep night sky erupting with red and gold fireworks and soft atmospheric smoke.\nShot with an 85mm prime lens at f/1.4 for deep spatial separation and rich optical bokeh. --ar 9:16"
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1793764039_6aeaaac7533d1.webp",
+      "tags": [
+        "Couple",
+        "Diwali",
+        "Sparkler Heart",
+        "Balcony",
+        "Diyas",
+        "Fireworks",
+        "Vertical"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1793764039_6aeaaac7533d1.webp"
+        }
+      ]
+    },
+    {
+      "id": "romantic-couple-red-shirt-red-silk-saree-ancient-stone-wall-golden-hour-portrait-image-prompt",
+      "title": "Romantic Couple Golden Hour Portrait Image Prompt – Red Shirt, Red Silk Saree & Ancient Stone Wall",
+      "description": "A cinematic 3:4 romantic portrait prompt that keeps both uploaded faces identical: a couple holds hands and gazes into each other's eyes against a rustic stone wall in golden-hour light, he in a crimson shirt, she in a red silk saree with gold zari borders and a red rose behind her ear.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A cinematic, romantic portrait of an intimate couple standing outdoors, as they gaze deeply into each other's eyes.\nIMPORTANT: Seamlessly map the authentic facial identities, bone structure, and natural skin tones from the uploaded portraits onto the subjects. Do not change their facial structure, eyes, nose, lips, age, or hairstyle. They must clearly look like the same people.\nThe man on the left wears a solid crimson-red button-down shirt and black trousers, a simple orange thread on his right wrist, his hands gently clasping the woman's hands. The woman on the right is elegantly draped in a lush red silk saree with broad gold zari borders, her long dark wavy hair adorned with traditional gold jhumka earrings and a fresh red rose tucked behind her left ear.\nThey are framed against an ancient, rustic stone wall accented by subtle creeping green foliage. Warm golden-hour sunlight creates soft dappled shadows across the stone, softly illuminating their faces.\nCinematic 35mm film still, photorealistic 8k render, 85mm shallow depth of field, crisp fabric texture, natural ambient illumination. --ar 3:4"
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1793440652_6ae5bb8cabe6a.webp",
+      "tags": [
+        "Couple",
+        "Romantic",
+        "Red Saree",
+        "Stone Wall",
+        "Golden Hour",
+        "Cinematic",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1793440652_6ae5bb8cabe6a.webp"
+        }
+      ]
+    },
+    {
+      "id": "stylish-couple-black-sportbike-lakeside-night-flash-photography-r15-image-prompt",
+      "title": "Stylish Couple with Sportbike at Night Image Prompt – Lakeside Flash Photography & Crescent Moon",
+      "description": "A vibrant cinematic night portrait prompt that keeps the uploaded man's face identical: a stylish young couple poses with a glossy black sportbike beside a lake, he in a white shirt and cargo pants, she sitting on the tank in a plaid flannel and NY cap, lit by bright frontal flash with glowing lake bokeh and a crescent moon.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A vibrant, cinematic nighttime portrait of a stylish young couple posing confidently with a sleek black sportbike beside a tranquil lake.\nIMPORTANT: Flawlessly map the exact facial identity, bone structure, authentic skin texture, and natural expression from the uploaded portrait onto the young man standing on the left. Do not change his facial structure, eyes, nose, lips, skin tone, age, or hairstyle. He must clearly look like the same person.\nHe leans casually back against the motorcycle's tail, his right hand tucked into the pocket of his black cargo pants, and his left arm resting on the black seat. He wears a crisp white button-down shirt with rolled-up sleeves, a red tilak mark between his eyebrows, dark sunglasses, a white wireless earbud in his left ear, a black analog watch, a red and black thread on his right wrist, and white sneakers with a dark swoosh.\nTo his right, a young woman sits elevated on the motorcycle's tank, her left leg dangling and right foot resting on the frame. She wears a black baseball cap with a white \"NY\" logo, her left hand playfully adjusting the brim. Her outfit features an unbuttoned black-and-white plaid flannel shirt over a black crop top, baggy olive-green cargo pants, and thick white sneakers. She has a red bindi, a delicate silver necklace, and a soft gaze.\nThe motorcycle is a detailed glossy black sportbike with metallic blue wheel rims and gold front suspension forks, its bright white LED headlights piercing the dark. Render the text \"R15\" in bold white lettering on the upper side fairing and \"YAMAHA\" in white on the lower fairing precisely in the original script with exact spelling and styling.\nThe setting is a patchy dirt and grassy lakeshore at night. The background features beautifully blurred bokeh of a dark lake reflecting warm, glowing yellow and orange streetlights from the distant treeline, while a delicate thin crescent moon hangs in the deep blue sky top left.\nThe scene is illuminated by crisp, bright frontal flash photography that makes the subjects pop against the dark environment, casting sharp shadows on the ground below.\nCinematic 35mm night photography, photorealistic 8k render, vibrant color contrast, crystal-clear fabric textures, ultra-detailed bokeh depth of field."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1792758238_6adb51dedffc0.webp",
+      "tags": [
+        "Couple",
+        "Sportbike",
+        "Lakeside",
+        "Night Photography",
+        "Flash Photography",
+        "Cinematic",
+        "Portrait"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1792758238_6adb51dedffc0.webp"
+        }
+      ]
+    },
+    {
+      "id": "surreal-dual-scale-couple-composite-crimson-gown-black-suit-red-rose-petals-fireworks-image-prompt",
+      "title": "Surreal Dual-Scale Couple Composite Image Prompt – Crimson Gown, Black Suit & Fireworks",
+      "description": "A surreal 9:16 romantic composite prompt that keeps both uploaded faces identical: a close-up profile portrait of a couple's intense gaze fades into a full-body shot of them holding hands, she in an embroidered crimson maroon gown with red roses in her hair, he in a black suit, on a wet rose-petal ground with brass lanterns and golden fireworks.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Frame a surreal, dual-scale romantic composite shot capturing profound interpersonal chemistry. The composition features a prominent upper-half profile portrait of a couple sharing an intense gaze, seamlessly fading into a full-body midground shot of the exact same couple holding hands and looking deeply at one another.\nIMPORTANT: Flawlessly map the bone structure, eye shape, and authentic skin undertone from the uploaded portraits onto both subjects to preserve their true facial identities and natural smiles. Do not change their facial structure, eyes, nose, lips, age, or hairstyle. They must clearly look like the same people.\nThe woman is draped in a flowing, heavily embroidered crimson maroon sheer gown featuring intricate sequin clusters, dense floral thread work, and a sweeping dupatta, complemented by heavy ruby drop earrings and fresh red roses pinned into her dark, wavy hair. The man stands opposite her in a sharply tailored matte black suit, black shirt, and a crimson pocket square that perfectly matches her attire.\nThe spatial depth is anchored by a wet, highly reflective ground scattered with fallen red rose petals and flanked by vintage brass lanterns emitting a warm candlelit glow, while loose red petals drift through the air.\nThe scene is illuminated by an explosive backdrop of golden fireworks and showering sparklers, casting a volumetric warm haze and catching golden rim highlights on the loose strands of their hair.\nCaptured with an 85mm f/1.4 portrait prime lens for rich optical bokeh, soft background separation, and deep cinematic shadow contrast. --ar 9:16"
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1793763733_6aeaa995dcc54.webp",
+      "tags": [
+        "Couple",
+        "Surreal",
+        "Composite",
+        "Romantic",
+        "Rose Petals",
+        "Fireworks",
+        "Vertical"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1793763733_6aeaa995dcc54.webp"
+        }
+      ]
+    },
+    {
+      "id": "couple-photo-upgrade-royal-blue-shirt-crimson-zardozi-lehenga-key-heart-padlock-hindi-text-image-prompt",
+      "title": "Couple Photo Outfit Upgrade Image Prompt – Royal Blue Shirt, Crimson Lehenga, Key & Heart Padlock with Hindi Text",
+      "description": "An edit-style romantic couple prompt that keeps both uploaded faces identical: it upgrades the outfits (royal blue designer shirt, crimson-gold Zardozi lehenga), keeps the poses with the vintage key and golden heart padlock in a twilight courtyard, and adds Hindi text with a broken heart line in the top-right sky.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the people in this uploaded photo into a romantic couple portrait with upgraded fancy attire while keeping everything else completely unchanged.\nIMPORTANT: Keep both faces 100% identical to the uploaded photo: same face structure, skin tone, and features exactly matched. Don't change the identity.\nUpgrade the man's outfit to fancy partywear: a richly textured, dark royal blue designer shirt with subtle metallic embroidery on the collar and cuffs, worn over a dark inner, paired with stylishly fitted dark indigo designer jeans with embellishments, and fancy sneakers. He has a red thread on his right wrist and a black watch on his left wrist, with his left hand in his pocket and his right hand holding the vintage key at chest level, exactly as in the uploaded photo.\nUpgrade the woman's outfit to an exquisite, heavily embellished fancy lehenga in a vibrant crimson-red and gold, featuring intricate Zardozi embroidery, sequins, and glittering patterns across the outfit and the matching dupatta draped over her head. She wears fancy gold and red bridal bangles and ornate gold jhumka earrings. Both of her hands delicately hold the golden heart-shaped padlock near her chin, exactly as in the uploaded photo.\nSet the scene in the same stone-paved courtyard with a low brick wall, a glowing vintage glass lantern on the right, green bushes, and a twilight sky with a star on the left. Maintain the same soft, warm cinematic lighting, romantic color grading, and full-body composition. Keep the composition of the uploaded photo exactly: same poses, same background, same lighting, same framing, changing only the outfits as specified.\nAdd the following Hindi text in the top-right sky area: \"ताले में बंद है मेरे दिल की कहानी,\", \"चाबी तो तेरे पास है,\", \"खोलोगे तो जान जाओगी...\", and \"मैं सिर्फ तेरा हूँ, हमेशा तुम्हारा रहूँगा।\", with the broken heart emoji \"💔\" on a thick red horizontal decorative line below. Render all text exactly as written, in the same script: same spelling, same characters and matras, no extra words, no translation, no transliteration, and no changed letters.\nUltra-realistic, 8K UHD, HDR, sharp focus, cinematic lighting, photorealistic, DSLR quality, high resolution, detailed fabric texture."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1792726092_6adad44c07d96.webp",
+      "tags": [
+        "Couple",
+        "Romantic",
+        "Outfit Upgrade",
+        "Lehenga",
+        "Heart Padlock",
+        "Hindi Text",
+        "Photo Edit"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1792726092_6adad44c07d96.webp"
+        }
+      ]
+    },
+    {
+      "id": "romantic-couple-festive-night-glowing-sky-lantern-sequined-kurta-navy-saree-fairy-lights-image-prompt",
+      "title": "Romantic Couple Festive Night Sky Lantern Image Prompt – Sequined Kurta, Navy Saree & Fairy Lights",
+      "description": "A cinematic romantic prompt that keeps both uploaded faces identical: a couple celebrates a festive night in a dark courtyard, he in a sparkling black sequined kurta holding a glowing orange paper sky lantern, she in a navy blue saree leaning into him, with fairy lights, diyas and warm golden bokeh behind them.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "A cinematic, intimate storytelling frame of a romantic couple celebrating a festive night.\nIMPORTANT: Seamlessly transfer the authentic facial identities, bone structure, and natural expressions from the uploaded portraits onto the subjects. Do not change their facial structure, eyes, nose, lips, skin tone, age, or hairstyle. They must clearly look like the same people.\nThe man on the left, dressed in a sparkling black sequined kurta, gazes upward with his right arm raised, gently holding the wire base of a brilliantly glowing orange paper sky lantern with a visible flame inside. The woman leans affectionately into his left side, gazing up at his face with a warm smile, wearing a glittering deep navy blue saree paired with an intricately gold-embroidered maroon velvet blouse.\nThey stand together in a dark outdoor nighttime courtyard, their faces softly illuminated by the lantern's warm golden flame.\nThe background features a beautiful shallow depth-of-field bokeh, showcasing a modern house exterior and surrounding trees heavily adorned with cascading warm yellow fairy lights, alongside tiny glowing diyas on the pavement.\nShot on an 85mm f/1.4 lens emphasizing a rich, warm golden color palette, capturing realistic fabric textures, dramatic amber ambient lighting, and photorealistic 8k cinematic film still quality."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1793418798_6ae5662e6db86.webp",
+      "tags": [
+        "Couple",
+        "Romantic",
+        "Sky Lantern",
+        "Festive Night",
+        "Saree",
+        "Fairy Lights",
+        "Cinematic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1793418798_6ae5662e6db86.webp"
+        }
+      ]
+    },
+    {
+      "id": "couple-mid-air-jump-rooftop-royal-blue-blazer-red-gold-anarkali-cityscape-image-prompt",
+      "title": "Couple Mid-Air Jump Image Prompt – Royal Blue Blazer, Red & Gold Anarkali & Rooftop Cityscape",
+      "description": "An energetic mid-air jumping couple prompt that keeps both uploaded faces identical: one person in a royal blue velvet blazer with a backpack, the other in a red and gold embroidered anarkali with hair blowing in the wind, leaping from a rooftop ledge over a cityscape in golden-hour light.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the people in this uploaded photo into an energetic, mid-air jumping couple portrait.\nIMPORTANT: Keep both faces 100% identical to the uploaded photo: same face structure, skin tone, and features exactly matched. Don't change the identity.\nStyle the person on the left in fancy attire: a tailored royal blue velvet blazer over a crisp white shirt, fitted black trousers, stylish dark shoes, and a sleek backpack over the shoulders. Pose them mid-air with knees bent, right arm extended back, and holding hands with the person on the right, looking slightly forward with a subtle smile.\nStyle the person on the right in a fancy, vibrant red and gold heavily embroidered designer anarkali suit, a matching red net dupatta with intricate borders draped over the shoulders, and elegant footwear, with hair blowing wildly in the wind. Pose them mid-air with knees tucked up, left arm extended outwards, looking down with a joyful, carefree smile.\nSet the scene jumping off a weathered concrete rooftop ledge on the left, overlooking an expansive cityscape of buildings and green trees below, under a clear blue sky with a warm, soft golden-hour glow near the horizon.\nNatural daylight, slightly low-angle full-body action shot, wide depth of field, vibrant and joyful mood.\n4K HDR, cinematic lighting, photorealistic, high resolution, sharp details, mid-air action photography."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1792722935_6adac7f7ab300.webp",
+      "tags": [
+        "Couple",
+        "Mid-Air Jump",
+        "Rooftop",
+        "Anarkali",
+        "Velvet Blazer",
+        "Action Photography",
+        "Cityscape"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1792722935_6adac7f7ab300.webp"
+        }
+      ]
+    },
+    {
+      "id": "romantic-split-screen-diptych-couple-eyes-close-up-green-leaves-golden-hour-image-prompt",
+      "title": "Romantic Split-Screen Couple Eyes Close-Up Image Prompt – Green Leaves & Golden Hour Sunlight",
+      "description": "A vertical diptych prompt that keeps both uploaded faces identical: two extreme close-ups of the eyes and forehead, one per panel and split by a white line, framed by out-of-focus green leaves in warm golden-hour dappled sunlight with rich bokeh.",
+      "content": "",
+      "prompts": [
+        {
+          "title": "Prompt 1 · Image",
+          "text": "Transform the people in this uploaded photo into a romantic split-screen close-up nature portrait.\nIMPORTANT: Keep both faces 100% identical to the uploaded photo: same face structure, skin tone, and features exactly matched. Don't change the identity.\nCreate a vertical diptych composition divided horizontally in the middle by a crisp white line.\nIn the top panel, frame the first person in an extreme close-up showing only the eyes, eyebrows, and forehead with messy, dark curly hair backlit by the sun, gazing softly toward the right.\nIn the bottom panel, frame the second person in an extreme close-up showing only the eyes and forehead with dark hair and a small black bindi, gazing gently upwards and to the right.\nBoth subjects are partially obscured by vibrant, out-of-focus bright green leaves in the extreme foreground that create a natural, intimate frame.\nIlluminate the scene with warm, golden-hour dappled sunlight filtering beautifully through the lush foliage, casting soft glowing patches of light and subtle shadows across their eyes and skin, with a shallow depth of field producing rich foreground bokeh.\n4K HDR, natural lighting, photorealistic, cinematic golden hour, shallow depth of field, sharp focus on eyes, heavy bokeh, DSLR quality."
+        }
+      ],
+      "categoryId": "couple",
+      "imageUrl": "https://emojora.com/uploads/prompts/1792672037_6ada012536918.webp",
+      "tags": [
+        "Couple",
+        "Split Screen",
+        "Diptych",
+        "Eyes Close-Up",
+        "Golden Hour",
+        "Nature",
+        "Romantic"
+      ],
+      "difficulty": "beginner",
+      "isFeatured": false,
+      "views": 0,
+      "type": "image",
+      "assets": [
+        {
+          "title": "Sample image",
+          "type": "image",
+          "url": "https://emojora.com/uploads/prompts/1792672037_6ada012536918.webp"
         }
       ]
     },
